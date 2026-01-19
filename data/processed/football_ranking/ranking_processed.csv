@@ -1,0 +1,211 @@
+position,team,points
+1,Spain,1877.18
+2,Argentina,1873.33
+3,France,1870.0
+4,England,1834.12
+5,Brazil,1760.46
+6,Portugal,1760.38
+7,Netherlands,1756.27
+8,Morocco,1736.56
+9,Belgium,1730.71
+10,Germany,1724.15
+11,Croatia,1716.88
+12,Italy,1702.06
+13,Colombia,1701.3
+14,Senegal,1684.86
+15,USA,1681.88
+16,Mexico,1675.75
+17,Uruguay,1672.62
+18,Switzerland,1654.69
+19,Japan,1650.12
+20,IR Iran,1617.02
+21,Denmark,1616.75
+22,Korea Republic,1599.45
+23,Ecuador,1591.73
+24,Austria,1585.51
+25,Türkiye,1582.69
+26,Nigeria,1581.56
+27,Australia,1574.01
+28,Algeria,1560.91
+29,Canada,1559.15
+30,Ukraine,1557.47
+31,Egypt,1556.72
+32,Norway,1553.14
+33,Panama,1540.43
+34,Poland,1532.04
+35,Wales,1529.71
+36,Russia,1524.52
+37,Côte d'Ivoire,1522.49
+38,Scotland,1506.77
+39,Serbia,1506.34
+40,Paraguay,1501.5
+41,Hungary,1496.29
+42,Sweden,1487.13
+43,Czechia,1487.0
+44,Slovakia,1485.65
+45,Cameroon,1482.39
+46,Greece,1480.38
+47,Tunisia,1479.04
+48,Congo DR,1468.22
+49,Romania,1465.78
+50,Venezuela,1465.22
+51,Costa Rica,1464.24
+52,Uzbekistan,1462.03
+53,Peru,1461.46
+54,Mali,1458.48
+55,Chile,1457.84
+56,Qatar,1454.96
+57,Slovenia,1447.31
+58,Iraq,1436.94
+59,Republic of Ireland,1436.04
+60,South Africa,1432.76
+61,Saudi Arabia,1429.48
+62,Burkina Faso,1412.79
+63,Albania,1401.07
+64,Jordan,1388.93
+65,Honduras,1379.54
+66,North Macedonia,1378.57
+67,Cabo Verde,1370.49
+68,United Arab Emirates,1370.47
+69,Northern Ireland,1366.02
+70,Jamaica,1362.46
+71,Bosnia and Herzegovina,1362.37
+72,Ghana,1351.09
+73,Georgia,1347.88
+74,Iceland,1344.72
+75,Finland,1341.81
+76,Israel,1328.14
+77,Bolivia,1327.67
+78,Oman,1313.46
+79,Kosovo,1308.84
+80,Guinea,1307.05
+81,Curaçao,1302.7
+82,Montenegro,1297.09
+83,Haiti,1294.49
+84,Syria,1282.62
+85,New Zealand,1279.25
+86,Gabon,1276.28
+87,Bulgaria,1272.19
+88,Uganda,1264.08
+89,Angola,1263.09
+90,Bahrain,1258.53
+91,Zambia,1256.69
+92,Benin,1250.06
+93,China PR,1249.06
+94,Guatemala,1245.77
+95,Palestine,1244.73
+96,Thailand,1243.27
+97,Trinidad and Tobago,1227.32
+98,Belarus,1227.09
+99,El Salvador,1226.65
+100,Tajikistan,1224.93
+101,Mozambique,1224.31
+102,Luxembourg,1218.91
+103,Kyrgyz Republic,1201.22
+104,Madagascar,1198.87
+105,Armenia,1196.08
+106,Comoros,1193.49
+107,Equatorial Guinea,1190.01
+108,Vietnam,1189.51
+109,Lebanon,1187.96
+110,Tanzania,1186.13
+111,Niger,1185.09
+112,Libya,1183.06
+113,Kenya,1179.54
+114,Kazakhstan,1173.0
+115,Mauritania,1171.35
+116,The Gambia,1161.55
+117,Sudan,1157.22
+118,Namibia,1153.22
+119,Korea DPR,1151.05
+120,Sierra Leone,1149.1
+121,Malaysia,1145.89
+122,Indonesia,1144.73
+123,Suriname,1140.54
+124,Togo,1140.35
+125,Faroe Islands,1135.42
+126,Malawi,1133.75
+127,Azerbaijan,1132.97
+128,Cyprus,1128.5
+129,Estonia,1123.11
+130,Rwanda,1117.78
+131,Nicaragua,1116.86
+132,Zimbabwe,1113.62
+133,Guinea-Bissau,1108.09
+134,Congo,1105.96
+135,Kuwait,1105.1
+136,Philippines,1090.95
+137,Turkmenistan,1087.52
+138,Central African Republic,1083.57
+139,Latvia,1082.68
+140,Liberia,1081.46
+141,India,1079.52
+142,Dominican Republic,1077.49
+143,Lesotho,1065.97
+144,Botswana,1062.42
+145,Burundi,1060.22
+146,Lithuania,1056.34
+147,Ethiopia,1055.36
+148,Singapore,1050.35
+149,Yemen,1049.49
+150,New Caledonia,1042.62
+151,Guyana,1041.9
+152,Solomon Islands,1039.86
+153,"Hong Kong, China",1038.14
+154,St Kitts and Nevis,1035.25
+155,Fiji,1029.7
+156,Puerto Rico,1020.07
+157,Tahiti,1019.04
+158,Moldova,1012.64
+159,Eswatini,1010.52
+160,Vanuatu,997.01
+161,Malta,996.59
+162,Afghanistan,991.19
+163,Myanmar,990.81
+164,Grenada,989.59
+165,Antigua and Barbuda,986.58
+166,Cuba,980.49
+167,St Lucia,980.28
+168,South Sudan,977.5
+169,Bermuda,976.87
+170,Papua New Guinea,974.9
+171,St Vincent and the Grenadines,963.74
+172,Andorra,949.44
+173,Maldives,945.02
+174,Chinese Taipei,938.21
+175,Montserrat,916.75
+176,Mauritius,915.51
+177,Chad,914.65
+178,Barbados,914.42
+179,Cambodia,911.54
+180,Bangladesh,911.1
+181,Belize,910.74
+182,Nepal,902.52
+183,Dominica,901.37
+184,American Samoa,883.17
+185,Mongolia,879.75
+186,Cook Islands,877.53
+187,Samoa,876.41
+188,Brunei Darussalam,875.78
+189,São Tomé and Príncipe,871.63
+190,Laos,871.16
+191,Aruba,867.94
+192,Bhutan,867.86
+193,Macau,865.29
+194,Sri Lanka,857.4
+195,Cayman Islands,851.74
+196,Djibouti,847.03
+197,Tonga,835.64
+198,Timor-Leste,835.55
+199,Pakistan,833.16
+200,Somalia,828.9
+201,Guam,823.08
+202,Gibraltar,818.03
+203,Seychelles,805.33
+204,Turks and Caicos Islands,803.98
+205,Liechtenstein,799.8
+206,Bahamas,796.6
+207,US Virgin Islands,776.6
+208,British Virgin Islands,776.54
+209,Anguilla,759.78
+210,San Marino,726.03

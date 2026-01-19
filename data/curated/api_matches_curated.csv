@@ -1,0 +1,1944 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,has_shootout,shootout_winner,goalscorers_rows,penalty_goals_count,own_goals_count,fixture_id,league_id,season,source
+2022-11-20,Qatar,Ecuador,0.0,2.0,World Cup,,,,False,,0,0,0,855736,1,2022,api_football
+2022-11-21,England,Iran,6.0,2.0,World Cup,,,,False,,0,0,0,855735,1,2022,api_football
+2022-11-21,Senegal,Netherlands,0.0,2.0,World Cup,,,,False,,0,0,0,855734,1,2022,api_football
+2022-11-21,United States,Wales,1.0,1.0,World Cup,,,,False,,0,0,0,866681,1,2022,api_football
+2022-11-22,Argentina,Saudi Arabia,1.0,2.0,World Cup,,,,False,,0,0,0,855737,1,2022,api_football
+2022-11-22,Denmark,Tunisia,0.0,0.0,World Cup,,,,False,,0,0,0,855738,1,2022,api_football
+2022-11-22,Mexico,Poland,0.0,0.0,World Cup,,,,False,,0,0,0,855739,1,2022,api_football
+2022-11-22,France,Australia,4.0,1.0,World Cup,,,,False,,0,0,0,871850,1,2022,api_football
+2022-11-23,Morocco,Croatia,0.0,0.0,World Cup,,,,False,,0,0,0,855740,1,2022,api_football
+2022-11-23,Germany,Japan,1.0,2.0,World Cup,,,,False,,0,0,0,855741,1,2022,api_football
+2022-11-23,Spain,Costa Rica,7.0,0.0,World Cup,,,,False,,0,0,0,871851,1,2022,api_football
+2022-11-23,Belgium,Canada,1.0,0.0,World Cup,,,,False,,0,0,0,855742,1,2022,api_football
+2022-11-24,Switzerland,Cameroon,1.0,0.0,World Cup,,,,False,,0,0,0,855743,1,2022,api_football
+2022-11-24,Uruguay,South Korea,0.0,0.0,World Cup,,,,False,,0,0,0,855744,1,2022,api_football
+2022-11-24,Portugal,Ghana,3.0,2.0,World Cup,,,,False,,0,0,0,855745,1,2022,api_football
+2022-11-24,Brazil,Serbia,2.0,0.0,World Cup,,,,False,,0,0,0,855746,1,2022,api_football
+2022-11-25,Wales,Iran,0.0,2.0,World Cup,,,,False,,0,0,0,866682,1,2022,api_football
+2022-11-25,Qatar,Senegal,1.0,3.0,World Cup,,,,False,,0,0,0,855747,1,2022,api_football
+2022-11-25,Netherlands,Ecuador,1.0,1.0,World Cup,,,,False,,0,0,0,855748,1,2022,api_football
+2022-11-25,England,United States,0.0,0.0,World Cup,,,,False,,0,0,0,855749,1,2022,api_football
+2022-11-26,Tunisia,Australia,0.0,1.0,World Cup,,,,False,,0,0,0,871852,1,2022,api_football
+2022-11-26,Poland,Saudi Arabia,2.0,0.0,World Cup,,,,False,,0,0,0,855750,1,2022,api_football
+2022-11-26,France,Denmark,2.0,1.0,World Cup,,,,False,,0,0,0,855751,1,2022,api_football
+2022-11-26,Argentina,Mexico,2.0,0.0,World Cup,,,,False,,0,0,0,855752,1,2022,api_football
+2022-11-27,Japan,Costa Rica,0.0,1.0,World Cup,,,,False,,0,0,0,871853,1,2022,api_football
+2022-11-27,Belgium,Morocco,0.0,2.0,World Cup,,,,False,,0,0,0,855753,1,2022,api_football
+2022-11-27,Croatia,Canada,4.0,1.0,World Cup,,,,False,,0,0,0,855754,1,2022,api_football
+2022-11-27,Spain,Germany,1.0,1.0,World Cup,,,,False,,0,0,0,855755,1,2022,api_football
+2022-11-28,Cameroon,Serbia,3.0,3.0,World Cup,,,,False,,0,0,0,855756,1,2022,api_football
+2022-11-28,South Korea,Ghana,2.0,3.0,World Cup,,,,False,,0,0,0,855757,1,2022,api_football
+2022-11-28,Brazil,Switzerland,1.0,0.0,World Cup,,,,False,,0,0,0,855758,1,2022,api_football
+2022-11-28,Portugal,Uruguay,2.0,0.0,World Cup,,,,False,,0,0,0,855759,1,2022,api_football
+2022-11-29,Netherlands,Qatar,2.0,0.0,World Cup,,,,False,,0,0,0,855760,1,2022,api_football
+2022-11-29,Ecuador,Senegal,1.0,2.0,World Cup,,,,False,,0,0,0,855761,1,2022,api_football
+2022-11-29,Iran,United States,0.0,1.0,World Cup,,,,False,,0,0,0,855762,1,2022,api_football
+2022-11-29,Wales,England,0.0,3.0,World Cup,,,,False,,0,0,0,866683,1,2022,api_football
+2022-11-30,Australia,Denmark,1.0,0.0,World Cup,,,,False,,0,0,0,871854,1,2022,api_football
+2022-11-30,Tunisia,France,1.0,0.0,World Cup,,,,False,,0,0,0,855763,1,2022,api_football
+2022-11-30,Saudi Arabia,Mexico,1.0,2.0,World Cup,,,,False,,0,0,0,855765,1,2022,api_football
+2022-11-30,Poland,Argentina,0.0,2.0,World Cup,,,,False,,0,0,0,855764,1,2022,api_football
+2022-12-01,Croatia,Belgium,0.0,0.0,World Cup,,,,False,,0,0,0,855766,1,2022,api_football
+2022-12-01,Canada,Morocco,1.0,2.0,World Cup,,,,False,,0,0,0,855767,1,2022,api_football
+2022-12-01,Japan,Spain,2.0,1.0,World Cup,,,,False,,0,0,0,855768,1,2022,api_football
+2022-12-01,Costa Rica,Germany,2.0,4.0,World Cup,,,,False,,0,0,0,871855,1,2022,api_football
+2022-12-02,South Korea,Portugal,2.0,1.0,World Cup,,,,False,,0,0,0,855769,1,2022,api_football
+2022-12-02,Ghana,Uruguay,0.0,2.0,World Cup,,,,False,,0,0,0,855770,1,2022,api_football
+2022-12-02,Serbia,Switzerland,2.0,3.0,World Cup,,,,False,,0,0,0,855772,1,2022,api_football
+2022-12-02,Cameroon,Brazil,1.0,0.0,World Cup,,,,False,,0,0,0,855771,1,2022,api_football
+2022-12-03,Netherlands,United States,3.0,1.0,World Cup,,,,False,,0,0,0,976533,1,2022,api_football
+2022-12-03,Argentina,Australia,2.0,1.0,World Cup,,,,False,,0,0,0,976642,1,2022,api_football
+2022-12-04,France,Poland,3.0,1.0,World Cup,,,,False,,0,0,0,976643,1,2022,api_football
+2022-12-04,England,Senegal,3.0,0.0,World Cup,,,,False,,0,0,0,976534,1,2022,api_football
+2022-12-05,Japan,Croatia,1.0,1.0,World Cup,,,,False,,0,0,0,977344,1,2022,api_football
+2022-12-05,Brazil,South Korea,4.0,1.0,World Cup,,,,False,,0,0,0,977705,1,2022,api_football
+2022-12-06,Morocco,Spain,0.0,0.0,World Cup,,,,False,,0,0,0,977345,1,2022,api_football
+2022-12-06,Portugal,Switzerland,6.0,1.0,World Cup,,,,False,,0,0,0,977706,1,2022,api_football
+2022-12-09,Croatia,Brazil,1.0,1.0,World Cup,,,,False,,0,0,0,978072,1,2022,api_football
+2022-12-09,Netherlands,Argentina,2.0,2.0,World Cup,,,,False,,0,0,0,977794,1,2022,api_football
+2022-12-10,Morocco,Portugal,1.0,0.0,World Cup,,,,False,,0,0,0,978088,1,2022,api_football
+2022-12-10,England,France,1.0,2.0,World Cup,,,,False,,0,0,0,978036,1,2022,api_football
+2022-12-13,Argentina,Croatia,3.0,0.0,World Cup,,,,False,,0,0,0,978279,1,2022,api_football
+2022-12-14,France,Morocco,2.0,0.0,World Cup,,,,False,,0,0,0,978488,1,2022,api_football
+2022-12-17,Croatia,Morocco,2.0,1.0,World Cup,,,,False,,0,0,0,979138,1,2022,api_football
+2022-12-18,Argentina,France,3.0,3.0,World Cup,,,,False,,0,0,0,979139,1,2022,api_football
+2022-01-01,Mauritania,Uganda,,,Friendlies,,,,False,,0,0,0,821435,10,2022,api_football
+2022-01-01,Algeria,Gambia,,,Friendlies,,,,False,,0,0,0,821408,10,2022,api_football
+2022-01-03,Rwanda,Senegal,,,Friendlies,,,,False,,0,0,0,821409,10,2022,api_football
+2022-01-03,DR Congo,Burkina Faso,,,Friendlies,,,,False,,0,0,0,821438,10,2022,api_football
+2022-01-04,Malawi,Mali,,,Friendlies,,,,False,,0,0,0,821439,10,2022,api_football
+2022-01-05,Gambia,Syria,,,Friendlies,,,,False,,0,0,0,821441,10,2022,api_football
+2022-01-06,Rwanda,Senegal,,,Friendlies,,,,False,,0,0,0,821411,10,2022,api_football
+2022-01-09,Sweden,Finland,,,Friendlies,,,,False,,0,0,0,821412,10,2022,api_football
+2022-01-12,Sweden,Finland,,,Friendlies,,,,False,,0,0,0,821413,10,2022,api_football
+2022-01-23,Guatemala,Canada,,,Friendlies,,,,False,,0,0,0,821420,10,2022,api_football
+2022-01-24,Indonesia,Bangladesh,,,Friendlies,,,,False,,0,0,0,824911,10,2022,api_football
+2022-01-27,Nicaragua,Dominican Republic,,,Friendlies,,,,False,,0,0,0,824915,10,2022,api_football
+2022-01-27,Indonesia,Bangladesh,,,Friendlies,,,,False,,0,0,0,824912,10,2022,api_football
+2022-01-29,Nicaragua,Belize,,,Friendlies,,,,False,,0,0,0,847820,10,2022,api_football
+2022-01-30,Belize,Guatemala,,,Friendlies,,,,False,,0,0,0,825180,10,2022,api_football
+2022-01-30,Guyana,Barbados,,,Friendlies,,,,False,,0,0,0,828061,10,2022,api_football
+2022-02-02,Nicaragua,Belize,,,Friendlies,,,,False,,0,0,0,824916,10,2022,api_football
+2022-02-02,New Zealand,Uzbekistan,,,Friendlies,,,,False,,0,0,0,821433,10,2022,api_football
+2022-03-24,Madagascar,Afghanistan,,,Friendlies,,,,False,,0,0,0,848768,10,2022,api_football
+2022-03-26,Tanzania,Botswana,,,Friendlies,,,,False,,0,0,0,851848,10,2022,api_football
+2022-03-29,Slovenia,Belgium,,,Friendlies,,,,False,,0,0,0,821426,10,2022,api_football
+2022-03-29,Zambia,Guinea,,,Friendlies,,,,False,,0,0,0,849852,10,2022,api_football
+2022-05-01,El Salvador,Panama,,,Friendlies,,,,False,,0,0,0,857607,10,2022,api_football
+2022-05-24,Thailand,Bahrain,,,Friendlies,,,,False,,0,0,0,861479,10,2022,api_football
+2022-05-25,Nepal,Afghanistan,,,Friendlies,,,,False,,0,0,0,858425,10,2022,api_football
+2022-05-25,India,Zambia,,,Friendlies,,,,False,,0,0,0,861480,10,2022,api_football
+2022-05-27,Malaysia,Myanmar,,,Friendlies,,,,False,,0,0,0,857610,10,2022,api_football
+2022-05-29,Nepal,Afghanistan,,,Friendlies,,,,False,,0,0,0,858426,10,2022,api_football
+2022-06-05,Canada,Panama,,,Friendlies,,,,False,,0,0,0,864292,10,2022,api_football
+2022-06-05,Canada,Iran,,,Friendlies,,,,False,,0,0,0,861762,10,2022,api_football
+2022-06-11,Brazil,Argentina,,,Friendlies,,,,False,,0,0,0,858938,10,2022,api_football
+2022-06-11,Uruguay,Jamaica,,,Friendlies,,,,False,,0,0,0,860358,10,2022,api_football
+2022-09-02,Papua New Guinea,Singapore,,,Friendlies,,,,False,,0,0,0,942685,10,2022,api_football
+2022-09-05,Papua New Guinea,Singapore,,,Friendlies,,,,False,,0,0,0,942686,10,2022,api_football
+2022-09-20,Qatar,Bolivia,,,Friendlies,,,,False,,0,0,0,961012,10,2022,api_football
+2022-09-21,Libya,Zambia,,,Friendlies,,,,False,,0,0,0,948278,10,2022,api_football
+2022-09-22,Puerto Rico,Dominican Republic,,,Friendlies,,,,False,,0,0,0,945816,10,2022,api_football
+2022-09-24,Honduras,El Salvador,,,Friendlies,,,,False,,0,0,0,942147,10,2022,api_football
+2022-09-26,Mali,Zambia,,,Friendlies,,,,False,,0,0,0,961015,10,2022,api_football
+2022-09-27,Libya,Mali,,,Friendlies,,,,False,,0,0,0,946607,10,2022,api_football
+2022-11-15,Iraq,Belgium,,,Friendlies,,,,False,,0,0,0,945815,10,2022,api_football
+2022-11-17,Gambia,DR Congo,,,Friendlies,,,,False,,0,0,0,971839,10,2022,api_football
+2022-11-17,Iraq,Costa Rica,,,Friendlies,,,,False,,0,0,0,965471,10,2022,api_football
+2022-11-19,Russia,Bosnia & Herzegovina,,,Friendlies,,,,False,,0,0,0,960220,10,2022,api_football
+2022-11-20,Gambia,Tanzania,,,Friendlies,,,,False,,0,0,0,973267,10,2022,api_football
+2022-11-20,Gambia,Liberia,,,Friendlies,,,,False,,0,0,0,971840,10,2022,api_football
+2022-11-21,Iraq,Venezuela,,,Friendlies,,,,False,,0,0,0,970022,10,2022,api_football
+2022-01-02,Gabon,Burkina Faso,0.0,3.0,Friendlies,,,,False,,0,0,0,822699,10,2022,api_football
+2022-01-02,Zimbabwe,Sudan,0.0,0.0,Friendlies,,,,False,,0,0,0,821436,10,2022,api_football
+2022-01-03,Guinea,Rwanda,0.0,3.0,Friendlies,,,,False,,0,0,0,821437,10,2022,api_football
+2022-01-04,Mauritania,Gabon,1.0,1.0,Friendlies,,,,False,,0,0,0,821440,10,2022,api_football
+2022-01-05,Algeria,Ghana,3.0,0.0,Friendlies,,,,False,,0,0,0,821410,10,2022,api_football
+2022-01-06,Rwanda,Guinea,0.0,2.0,Friendlies,,,,False,,0,0,0,821442,10,2022,api_football
+2022-01-12,Iceland,Uganda,1.0,1.0,Friendlies,,,,False,,0,0,0,821414,10,2022,api_football
+2022-01-15,Iceland,South Korea,1.0,5.0,Friendlies,,,,False,,0,0,0,821415,10,2022,api_football
+2022-01-16,Peru,Panama,1.0,1.0,Friendlies,,,,False,,0,0,0,821417,10,2022,api_football
+2022-01-16,Colombia,Honduras,2.0,1.0,Friendlies,,,,False,,0,0,0,821416,10,2022,api_football
+2022-01-18,Moldova,Uganda,2.0,3.0,Friendlies,,,,False,,0,0,0,821431,10,2022,api_football
+2022-01-21,Peru,Jamaica,3.0,0.0,Friendlies,,,,False,,0,0,0,821419,10,2022,api_football
+2022-01-21,South Korea,Moldova,4.0,0.0,Friendlies,,,,False,,0,0,0,821418,10,2022,api_football
+2022-01-21,Iraq,Uganda,1.0,0.0,Friendlies,,,,False,,0,0,0,823572,10,2022,api_football
+2022-01-21,Bolivia,Trinidad and Tobago,5.0,0.0,Friendlies,,,,False,,0,0,0,825178,10,2022,api_football
+2022-01-27,Indonesia,Timor-Leste,4.0,1.0,Friendlies,,,,False,,0,0,0,828035,10,2022,api_football
+2022-01-27,Bahrain,Uganda,3.0,1.0,Friendlies,,,,False,,0,0,0,823573,10,2022,api_football
+2022-01-28,Jordan,New Zealand,3.0,1.0,Friendlies,,,,False,,0,0,0,821432,10,2022,api_football
+2022-01-28,Suriname,Barbados,1.0,0.0,Friendlies,,,,False,,0,0,0,826946,10,2022,api_football
+2022-01-29,Nepal,Mauritius,1.0,0.0,Friendlies,,,,False,,0,0,0,821443,10,2022,api_football
+2022-01-29,Kuwait,Libya,2.0,0.0,Friendlies,,,,False,,0,0,0,828062,10,2022,api_football
+2022-01-30,Nicaragua,Belize,4.0,0.0,Friendlies,,,,False,,0,0,0,826947,10,2022,api_football
+2022-01-30,Indonesia,Timor-Leste,3.0,0.0,Friendlies,,,,False,,0,0,0,828036,10,2022,api_football
+2022-02-01,Nepal,Mauritius,1.0,0.0,Friendlies,,,,False,,0,0,0,821445,10,2022,api_football
+2022-02-01,Kuwait,Libya,0.0,2.0,Friendlies,,,,False,,0,0,0,828063,10,2022,api_football
+2022-02-01,DR Congo,Bahrain,0.0,1.0,Friendlies,,,,False,,0,0,0,821444,10,2022,api_football
+2022-02-01,Suriname,Guyana,2.0,1.0,Friendlies,,,,False,,0,0,0,826948,10,2022,api_football
+2022-03-18,Iraq,Zambia,3.0,1.0,Friendlies,,,,False,,0,0,0,848767,10,2022,api_football
+2022-03-19,Mauritius,Seychelles,0.0,0.0,Friendlies,,,,False,,0,0,0,849944,10,2022,api_football
+2022-03-23,Guinea-Bissau,Equatorial Guinea,3.0,0.0,Friendlies,,,,False,,0,0,0,852225,10,2022,api_football
+2022-03-23,Laos,Mongolia,1.0,0.0,Friendlies,,,,False,,0,0,0,849945,10,2022,api_football
+2022-03-23,Malaysia,Philippines,2.0,0.0,Friendlies,,,,False,,0,0,0,847833,10,2022,api_football
+2022-03-23,Tanzania,Central African Republic,3.0,1.0,Friendlies,,,,False,,0,0,0,850210,10,2022,api_football
+2022-03-23,Bahrain,India,2.0,1.0,Friendlies,,,,False,,0,0,0,847821,10,2022,api_football
+2022-03-23,Gibraltar,Grenada,0.0,0.0,Friendlies,,,,False,,0,0,0,829110,10,2022,api_football
+2022-03-23,Mozambique,Niger,1.0,1.0,Friendlies,,,,False,,0,0,0,848007,10,2022,api_football
+2022-03-24,Thailand,Nepal,2.0,0.0,Friendlies,,,,False,,0,0,0,847813,10,2022,api_football
+2022-03-24,Liberia,Benin,0.0,4.0,Friendlies,,,,False,,0,0,0,850213,10,2022,api_football
+2022-03-24,Armenia,Montenegro,1.0,0.0,Friendlies,,,,False,,0,0,0,825990,10,2022,api_football
+2022-03-24,Togo,Sierra Leone,3.0,0.0,Friendlies,,,,False,,0,0,0,850212,10,2022,api_football
+2022-03-24,Maldives,Bangladesh,2.0,0.0,Friendlies,,,,False,,0,0,0,847834,10,2022,api_football
+2022-03-24,Kosovo,Burkina Faso,5.0,0.0,Friendlies,,,,False,,0,0,0,847822,10,2022,api_football
+2022-03-24,Hungary,Serbia,0.0,1.0,Friendlies,,,,False,,0,0,0,825229,10,2022,api_football
+2022-03-24,Scotland,Poland,1.0,1.0,Friendlies,,,,False,,0,0,0,849943,10,2022,api_football
+2022-03-25,Guatemala,Cuba,1.0,0.0,Friendlies,,,,False,,0,0,0,847823,10,2022,api_football
+2022-03-25,Uganda,Tajikistan,1.0,1.0,Friendlies,,,,False,,0,0,0,848008,10,2022,api_football
+2022-03-25,Latvia,Kuwait,1.0,1.0,Friendlies,,,,False,,0,0,0,847824,10,2022,api_football
+2022-03-25,Zambia,Congo,3.0,1.0,Friendlies,,,,False,,0,0,0,852224,10,2022,api_football
+2022-03-25,Comoros,Ethiopia,2.0,1.0,Friendlies,,,,False,,0,0,0,851152,10,2022,api_football
+2022-03-25,Uzbekistan,Kyrgyzstan,3.0,1.0,Friendlies,,,,False,,0,0,0,848009,10,2022,api_football
+2022-03-25,Liechtenstein,Cape Verde,0.0,6.0,Friendlies,,,,False,,0,0,0,832031,10,2022,api_football
+2022-03-25,Norway,Slovakia,2.0,0.0,Friendlies,,,,False,,0,0,0,821422,10,2022,api_football
+2022-03-25,South Africa,Guinea,0.0,0.0,Friendlies,,,,False,,0,0,0,848006,10,2022,api_football
+2022-03-25,Malta,Azerbaijan,1.0,0.0,Friendlies,,,,False,,0,0,0,847825,10,2022,api_football
+2022-03-25,Romania,Greece,0.0,1.0,Friendlies,,,,False,,0,0,0,825230,10,2022,api_football
+2022-03-25,Luxembourg,Northern Ireland,1.0,3.0,Friendlies,,,,False,,0,0,0,825179,10,2022,api_football
+2022-03-25,andorra,St. Kitts and Nevis,1.0,0.0,Friendlies,,,,False,,0,0,0,847826,10,2022,api_football
+2022-03-25,Bosnia & Herzegovina,Georgia,0.0,1.0,Friendlies,,,,False,,0,0,0,824913,10,2022,api_football
+2022-03-25,San Marino,Lithuania,1.0,2.0,Friendlies,,,,False,,0,0,0,821434,10,2022,api_football
+2022-03-25,France,Ivory Coast,2.0,1.0,Friendlies,,,,False,,0,0,0,847814,10,2022,api_football
+2022-03-25,Trinidad and Tobago,Barbados,9.0,0.0,Friendlies,,,,False,,0,0,0,852087,10,2022,api_football
+2022-03-26,Guinea-Bissau,Angola,3.0,2.0,Friendlies,,,,False,,0,0,0,852226,10,2022,api_football
+2022-03-26,Singapore,Malaysia,2.0,1.0,Friendlies,,,,False,,0,0,0,847835,10,2022,api_football
+2022-03-26,Sudan,Central African Republic,0.0,0.0,Friendlies,,,,False,,0,0,0,851314,10,2022,api_football
+2022-03-26,Croatia,Slovenia,1.0,1.0,Friendlies,,,,False,,0,0,0,847815,10,2022,api_football
+2022-03-26,Finland,Iceland,1.0,1.0,Friendlies,,,,False,,0,0,0,822698,10,2022,api_football
+2022-03-26,Niger,Libya,1.0,2.0,Friendlies,,,,False,,0,0,0,848010,10,2022,api_football
+2022-03-26,India,Belarus,0.0,3.0,Friendlies,,,,False,,0,0,0,847827,10,2022,api_football
+2022-03-26,Bahrain,Burundi,1.0,0.0,Friendlies,,,,False,,0,0,0,847836,10,2022,api_football
+2022-03-26,Rep. Of Ireland,Belgium,2.0,2.0,Friendlies,,,,False,,0,0,0,828605,10,2022,api_football
+2022-03-26,Gibraltar,Faroe Islands,0.0,0.0,Friendlies,,,,False,,0,0,0,829111,10,2022,api_football
+2022-03-26,England,Switzerland,2.0,1.0,Friendlies,,,,False,,0,0,0,826024,10,2022,api_football
+2022-03-26,Qatar,Bulgaria,2.0,1.0,Friendlies,,,,False,,0,0,0,828608,10,2022,api_football
+2022-03-26,Spain,Albania,2.0,1.0,Friendlies,,,,False,,0,0,0,821424,10,2022,api_football
+2022-03-26,Mauritania,Mozambique,2.0,1.0,Friendlies,,,,False,,0,0,0,848011,10,2022,api_football
+2022-03-26,Germany,Israel,2.0,0.0,Friendlies,,,,False,,0,0,0,821423,10,2022,api_football
+2022-03-26,Netherlands,Denmark,4.0,2.0,Friendlies,,,,False,,0,0,0,825231,10,2022,api_football
+2022-03-27,Laos,Brunei,3.0,2.0,Friendlies,,,,False,,0,0,0,849946,10,2022,api_football
+2022-03-27,Liberia,Sierra Leone,0.0,1.0,Friendlies,,,,False,,0,0,0,850214,10,2022,api_football
+2022-03-27,Thailand,Suriname,1.0,0.0,Friendlies,,,,False,,0,0,0,847816,10,2022,api_football
+2022-03-27,Zambia,Benin,1.0,2.0,Friendlies,,,,False,,0,0,0,853289,10,2022,api_football
+2022-03-27,Guatemala,Haiti,2.0,1.0,Friendlies,,,,False,,0,0,0,847828,10,2022,api_football
+2022-03-27,Guyana,Barbados,5.0,0.0,Friendlies,,,,False,,0,0,0,852089,10,2022,api_football
+2022-03-28,San Marino,Cape Verde,0.0,2.0,Friendlies,,,,False,,0,0,0,851151,10,2022,api_football
+2022-03-28,Montenegro,Greece,1.0,0.0,Friendlies,,,,False,,0,0,0,825232,10,2022,api_football
+2022-03-28,andorra,Grenada,1.0,0.0,Friendlies,,,,False,,0,0,0,847829,10,2022,api_football
+2022-03-28,Belize,Cuba,0.0,3.0,Friendlies,,,,False,,0,0,0,852088,10,2022,api_football
+2022-03-29,Tajikistan,Kyrgyzstan,1.0,0.0,Friendlies,,,,False,,0,0,0,853951,10,2022,api_football
+2022-03-29,Azerbaijan,Latvia,0.0,1.0,Friendlies,,,,False,,0,0,0,847830,10,2022,api_football
+2022-03-29,Bangladesh,Mongolia,0.0,0.0,Friendlies,,,,False,,0,0,0,847837,10,2022,api_football
+2022-03-29,Liberia,Burundi,1.0,2.0,Friendlies,,,,False,,0,0,0,849766,10,2022,api_football
+2022-03-29,Singapore,Philippines,2.0,0.0,Friendlies,,,,False,,0,0,0,850216,10,2022,api_football
+2022-03-29,Congo,Sierra Leone,1.0,2.0,Friendlies,,,,False,,0,0,0,852227,10,2022,api_football
+2022-03-29,Croatia,Bulgaria,2.0,1.0,Friendlies,,,,False,,0,0,0,828606,10,2022,api_football
+2022-03-29,Uzbekistan,Uganda,4.0,2.0,Friendlies,,,,False,,0,0,0,853952,10,2022,api_football
+2022-03-29,Liechtenstein,Faroe Islands,0.0,1.0,Friendlies,,,,False,,0,0,0,829112,10,2022,api_football
+2022-03-29,Switzerland,Kosovo,1.0,1.0,Friendlies,,,,False,,0,0,0,826025,10,2022,api_football
+2022-03-29,Denmark,Serbia,3.0,0.0,Friendlies,,,,False,,0,0,0,825234,10,2022,api_football
+2022-03-29,Albania,Georgia,0.0,0.0,Friendlies,,,,False,,0,0,0,824917,10,2022,api_football
+2022-03-29,Finland,Slovakia,0.0,2.0,Friendlies,,,,False,,0,0,0,821428,10,2022,api_football
+2022-03-29,Tanzania,Sudan,1.0,1.0,Friendlies,,,,False,,0,0,0,850211,10,2022,api_football
+2022-03-29,Equatorial Guinea,Angola,0.0,0.0,Friendlies,,,,False,,0,0,0,853953,10,2022,api_football
+2022-03-29,Togo,Benin,1.0,1.0,Friendlies,,,,False,,0,0,0,850215,10,2022,api_football
+2022-03-29,Bahrain,Belarus,0.0,1.0,Friendlies,,,,False,,0,0,0,847831,10,2022,api_football
+2022-03-29,Norway,Armenia,9.0,0.0,Friendlies,,,,False,,0,0,0,821427,10,2022,api_football
+2022-03-29,Malta,Kuwait,2.0,0.0,Friendlies,,,,False,,0,0,0,847832,10,2022,api_football
+2022-03-29,Qatar,Slovenia,0.0,0.0,Friendlies,,,,False,,0,0,0,821421,10,2022,api_football
+2022-03-29,Israel,Romania,2.0,2.0,Friendlies,,,,False,,0,0,0,821425,10,2022,api_football
+2022-03-29,Belgium,Burkina Faso,3.0,0.0,Friendlies,,,,False,,0,0,0,847817,10,2022,api_football
+2022-03-29,Spain,Iceland,5.0,0.0,Friendlies,,,,False,,0,0,0,821429,10,2022,api_football
+2022-03-29,England,Ivory Coast,3.0,0.0,Friendlies,,,,False,,0,0,0,827602,10,2022,api_football
+2022-03-29,Wales,Czech Republic,1.0,1.0,Friendlies,,,,False,,0,0,0,852622,10,2022,api_football
+2022-03-29,Northern Ireland,Hungary,0.0,1.0,Friendlies,,,,False,,0,0,0,825235,10,2022,api_football
+2022-03-29,Austria,Scotland,2.0,2.0,Friendlies,,,,False,,0,0,0,852621,10,2022,api_football
+2022-03-29,Rep. Of Ireland,Lithuania,1.0,0.0,Friendlies,,,,False,,0,0,0,828607,10,2022,api_football
+2022-03-29,Turkey,Italy,2.0,3.0,Friendlies,,,,False,,0,0,0,852620,10,2022,api_football
+2022-03-29,Bosnia & Herzegovina,Luxembourg,1.0,0.0,Friendlies,,,,False,,0,0,0,824914,10,2022,api_football
+2022-03-29,Netherlands,Germany,1.0,1.0,Friendlies,,,,False,,0,0,0,825233,10,2022,api_football
+2022-03-29,Mauritania,Libya,2.0,0.0,Friendlies,,,,False,,0,0,0,848012,10,2022,api_football
+2022-03-29,France,South Africa,5.0,0.0,Friendlies,,,,False,,0,0,0,847818,10,2022,api_football
+2022-03-30,Trinidad and Tobago,Guyana,1.0,1.0,Friendlies,,,,False,,0,0,0,852090,10,2022,api_football
+2022-04-24,El Salvador,Guatemala,0.0,4.0,Friendlies,,,,False,,0,0,0,857609,10,2022,api_football
+2022-04-28,Mexico,Guatemala,0.0,0.0,Friendlies,,,,False,,0,0,0,847819,10,2022,api_football
+2022-05-12,Dominica,St. Vincent / Grenadines,2.0,1.0,Friendlies,,,,False,,0,0,0,861637,10,2022,api_football
+2022-05-13,Bahamas,Turks and Caicos Islands,4.0,2.0,Friendlies,,,,False,,0,0,0,862049,10,2022,api_football
+2022-05-14,Bahamas,Turks and Caicos Islands,1.0,2.0,Friendlies,,,,False,,0,0,0,862050,10,2022,api_football
+2022-05-15,Dominica,St. Vincent / Grenadines,3.0,1.0,Friendlies,,,,False,,0,0,0,861638,10,2022,api_football
+2022-05-24,Mozambique,Eswatini,0.0,1.0,Friendlies,,,,False,,0,0,0,862530,10,2022,api_football
+2022-05-27,Thailand,Turkmenistan,1.0,0.0,Friendlies,,,,False,,0,0,0,861481,10,2022,api_football
+2022-05-27,Bahrain,Myanmar,2.0,0.0,Friendlies,,,,False,,0,0,0,862599,10,2022,api_football
+2022-05-27,Malaysia,Brunei,4.0,0.0,Friendlies,,,,False,,0,0,0,862600,10,2022,api_football
+2022-05-28,Ethiopia,Lesotho,1.0,1.0,Friendlies,,,,False,,0,0,0,863035,10,2022,api_football
+2022-05-28,India,Jordan,0.0,2.0,Friendlies,,,,False,,0,0,0,861492,10,2022,api_football
+2022-05-28,Timor-Leste,Nepal,2.0,2.0,Friendlies,,,,False,,0,0,0,863036,10,2022,api_football
+2022-05-29,Mexico,Nigeria,2.0,1.0,Friendlies,,,,False,,0,0,0,857896,10,2022,api_football
+2022-05-29,United Arab Emirates,Gambia,1.0,1.0,Friendlies,,,,False,,0,0,0,861636,10,2022,api_football
+2022-05-31,Ethiopia,Lesotho,1.0,1.0,Friendlies,,,,False,,0,0,0,863037,10,2022,api_football
+2022-05-31,Thailand,Bahrain,1.0,2.0,Friendlies,,,,False,,0,0,0,861482,10,2022,api_football
+2022-06-01,Vietnam,Afghanistan,2.0,0.0,Friendlies,,,,False,,0,0,0,861493,10,2022,api_football
+2022-06-01,Malaysia,Hong Kong,2.0,0.0,Friendlies,,,,False,,0,0,0,857611,10,2022,api_football
+2022-06-01,Indonesia,Bangladesh,0.0,0.0,Friendlies,,,,False,,0,0,0,862597,10,2022,api_football
+2022-06-01,Kuwait,Singapore,2.0,0.0,Friendlies,,,,False,,0,0,0,861764,10,2022,api_football
+2022-06-01,Syria,Tajikistan,1.0,0.0,Friendlies,,,,False,,0,0,0,864085,10,2022,api_football
+2022-06-01,Malta,Venezuela,0.0,1.0,Friendlies,,,,False,,0,0,0,863033,10,2022,api_football
+2022-06-01,Australia,Jordan,2.0,1.0,Friendlies,,,,False,,0,0,0,861483,10,2022,api_football
+2022-06-01,Italy,Argentina,0.0,3.0,Friendlies,,,,False,,0,0,0,821430,10,2022,api_football
+2022-06-01,United States,Morocco,3.0,0.0,Friendlies,,,,False,,0,0,0,858424,10,2022,api_football
+2022-06-02,Japan,Paraguay,4.0,1.0,Friendlies,,,,False,,0,0,0,861484,10,2022,api_football
+2022-06-02,South Korea,Brazil,1.0,5.0,Friendlies,,,,False,,0,0,0,861485,10,2022,api_football
+2022-06-02,Cambodia,Timor-Leste,2.0,1.0,Friendlies,,,,False,,0,0,0,863038,10,2022,api_football
+2022-06-03,Ecuador,Nigeria,1.0,0.0,Friendlies,,,,False,,0,0,0,858020,10,2022,api_football
+2022-06-03,Mexico,Uruguay,0.0,3.0,Friendlies,,,,False,,0,0,0,857608,10,2022,api_football
+2022-06-03,Nepal,Oman,0.0,2.0,Friendlies,,,,False,,0,0,0,863039,10,2022,api_football
+2022-06-05,Peru,New Zealand,1.0,0.0,Friendlies,,,,False,,0,0,0,859036,10,2022,api_football
+2022-06-05,Saudi Arabia,Colombia,0.0,1.0,Friendlies,,,,False,,0,0,0,861486,10,2022,api_football
+2022-06-05,Argentina,Estonia,5.0,0.0,Friendlies,,,,False,,0,0,0,864291,10,2022,api_football
+2022-06-05,United States,Uruguay,0.0,0.0,Friendlies,,,,False,,0,0,0,860181,10,2022,api_football
+2022-06-05,Mexico,Ecuador,0.0,0.0,Friendlies,,,,False,,0,0,0,857897,10,2022,api_football
+2022-06-06,Japan,Brazil,0.0,1.0,Friendlies,,,,False,,0,0,0,860591,10,2022,api_football
+2022-06-06,South Korea,Chile,2.0,0.0,Friendlies,,,,False,,0,0,0,861487,10,2022,api_football
+2022-06-09,Saudi Arabia,Venezuela,0.0,1.0,Friendlies,,,,False,,0,0,0,861488,10,2022,api_football
+2022-06-09,Oman,New Zealand,0.0,0.0,Friendlies,,,,False,,0,0,0,863034,10,2022,api_football
+2022-06-09,San Marino,Iceland,0.0,1.0,Friendlies,,,,False,,0,0,0,861763,10,2022,api_football
+2022-06-10,South Korea,Paraguay,2.0,2.0,Friendlies,,,,False,,0,0,0,861489,10,2022,api_football
+2022-06-11,Uruguay,Panama,5.0,0.0,Friendlies,,,,False,,0,0,0,865799,10,2022,api_football
+2022-06-12,Ecuador,Mali,1.0,0.0,Friendlies,,,,False,,0,0,0,861490,10,2022,api_football
+2022-06-12,Iran,Algeria,1.0,2.0,Friendlies,,,,False,,0,0,0,866555,10,2022,api_football
+2022-06-13,Albania,Estonia,0.0,0.0,Friendlies,,,,False,,0,0,0,862598,10,2022,api_football
+2022-06-14,South Korea,Egypt,4.0,1.0,Friendlies,,,,False,,0,0,0,863632,10,2022,api_football
+2022-07-18,Mauritius,Seychelles,2.0,0.0,Friendlies,,,,False,,0,0,0,942169,10,2022,api_football
+2022-08-15,Mauritania,Mali,1.0,0.0,Friendlies,,,,False,,0,0,0,942170,10,2022,api_football
+2022-08-18,Mauritania,Mali,1.0,1.0,Friendlies,,,,False,,0,0,0,942171,10,2022,api_football
+2022-08-20,Qatar,Morocco,2.0,2.0,Friendlies,,,,False,,0,0,0,942682,10,2022,api_football
+2022-08-21,Ethiopia,Uganda,0.0,0.0,Friendlies,,,,False,,0,0,0,945817,10,2022,api_football
+2022-08-22,Mali,Guinea,0.0,0.0,Friendlies,,,,False,,0,0,0,945818,10,2022,api_football
+2022-08-23,Qatar,Ghana,2.0,1.0,Friendlies,,,,False,,0,0,0,942683,10,2022,api_football
+2022-08-26,Qatar,Jamaica,1.0,1.0,Friendlies,,,,False,,0,0,0,942684,10,2022,api_football
+2022-09-01,Mexico,Paraguay,0.0,1.0,Friendlies,,,,False,,0,0,0,857898,10,2022,api_football
+2022-09-21,Brunei,Maldives,0.0,3.0,Friendlies,,,,False,,0,0,0,962284,10,2022,api_football
+2022-09-21,Vietnam,Singapore,4.0,0.0,Friendlies,,,,False,,0,0,0,942172,10,2022,api_football
+2022-09-21,Hong Kong,Myanmar,2.0,0.0,Friendlies,,,,False,,0,0,0,953174,10,2022,api_football
+2022-09-21,Libya,Uganda,0.0,0.0,Friendlies,,,,False,,0,0,0,962285,10,2022,api_football
+2022-09-21,San Marino,Seychelles,0.0,0.0,Friendlies,,,,False,,0,0,0,942166,10,2022,api_football
+2022-09-22,Australia,New Zealand,1.0,0.0,Friendlies,,,,False,,0,0,0,942142,10,2022,api_football
+2022-09-22,Cambodia,Bangladesh,0.0,1.0,Friendlies,,,,False,,0,0,0,945954,10,2022,api_football
+2022-09-22,Comoros,Tunisia,0.0,1.0,Friendlies,,,,False,,0,0,0,962413,10,2022,api_football
+2022-09-22,Venezuela,Iceland,0.0,1.0,Friendlies,,,,False,,0,0,0,961013,10,2022,api_football
+2022-09-22,Suriname,Nicaragua,2.0,1.0,Friendlies,,,,False,,0,0,0,948656,10,2022,api_football
+2022-09-23,Cameroon,Uzbekistan,0.0,2.0,Friendlies,,,,False,,0,0,0,945950,10,2022,api_football
+2022-09-23,South Korea,Costa Rica,2.0,2.0,Friendlies,,,,False,,0,0,0,945951,10,2022,api_football
+2022-09-23,Japan,United States,2.0,0.0,Friendlies,,,,False,,0,0,0,942148,10,2022,api_football
+2022-09-23,Iraq,Oman,1.0,1.0,Friendlies,,,,False,,0,0,0,962707,10,2022,api_football
+2022-09-23,Bahrain,Cape Verde,1.0,2.0,Friendlies,,,,False,,0,0,0,945819,10,2022,api_football
+2022-09-23,Iran,Uruguay,1.0,0.0,Friendlies,,,,False,,0,0,0,942143,10,2022,api_football
+2022-09-23,DR Congo,Burkina Faso,0.0,1.0,Friendlies,,,,False,,0,0,0,959548,10,2022,api_football
+2022-09-23,Equatorial Guinea,Rwanda,0.0,0.0,Friendlies,,,,False,,0,0,0,962047,10,2022,api_football
+2022-09-23,Paraguay,United Arab Emirates,1.0,0.0,Friendlies,,,,False,,0,0,0,942145,10,2022,api_football
+2022-09-23,Qatar,Canada,0.0,2.0,Friendlies,,,,False,,0,0,0,942144,10,2022,api_football
+2022-09-23,Saudi Arabia,Ecuador,0.0,0.0,Friendlies,,,,False,,0,0,0,861491,10,2022,api_football
+2022-09-23,Egypt,Niger,3.0,0.0,Friendlies,,,,False,,0,0,0,958777,10,2022,api_football
+2022-09-23,Jordan,Syria,2.0,0.0,Friendlies,,,,False,,0,0,0,960604,10,2022,api_football
+2022-09-23,Brazil,Ghana,3.0,0.0,Friendlies,,,,False,,0,0,0,944079,10,2022,api_football
+2022-09-23,Morocco,Chile,2.0,0.0,Friendlies,,,,False,,0,0,0,942146,10,2022,api_football
+2022-09-23,Mali,Zambia,1.0,0.0,Friendlies,,,,False,,0,0,0,946604,10,2022,api_football
+2022-09-23,Algeria,Guinea,1.0,0.0,Friendlies,,,,False,,0,0,0,945811,10,2022,api_football
+2022-09-24,Argentina,Honduras,3.0,0.0,Friendlies,,,,False,,0,0,0,945810,10,2022,api_football
+2022-09-24,Laos,Maldives,1.0,3.0,Friendlies,,,,False,,0,0,0,943105,10,2022,api_football
+2022-09-24,India,Singapore,1.0,1.0,Friendlies,,,,False,,0,0,0,942167,10,2022,api_football
+2022-09-24,Hong Kong,Myanmar,0.0,0.0,Friendlies,,,,False,,0,0,0,953175,10,2022,api_football
+2022-09-24,South Africa,Sierra Leone,4.0,0.0,Friendlies,,,,False,,0,0,0,961014,10,2022,api_football
+2022-09-24,Indonesia,Curaçao,3.0,2.0,Friendlies,,,,False,,0,0,0,959543,10,2022,api_football
+2022-09-24,Kyrgyzstan,Russia,1.0,2.0,Friendlies,,,,False,,0,0,0,958852,10,2022,api_football
+2022-09-24,Ivory Coast,Togo,2.0,1.0,Friendlies,,,,False,,0,0,0,960483,10,2022,api_football
+2022-09-24,Bolivia,Senegal,0.0,2.0,Friendlies,,,,False,,0,0,0,945812,10,2022,api_football
+2022-09-24,Tanzania,Uganda,1.0,0.0,Friendlies,,,,False,,0,0,0,962282,10,2022,api_football
+2022-09-24,Grenada,St. Vincent / Grenadines,1.0,3.0,Friendlies,,,,False,,0,0,0,962105,10,2022,api_football
+2022-09-24,Colombia,Guatemala,4.0,1.0,Friendlies,,,,False,,0,0,0,942149,10,2022,api_football
+2022-09-25,Mexico,Peru,1.0,0.0,Friendlies,,,,False,,0,0,0,942150,10,2022,api_football
+2022-09-25,New Zealand,Australia,0.0,2.0,Friendlies,,,,False,,0,0,0,865800,10,2022,api_football
+2022-09-25,Niger,Liberia,0.0,0.0,Friendlies,,,,False,,0,0,0,961017,10,2022,api_football
+2022-09-26,Syria,Iraq,0.0,1.0,Friendlies,,,,False,,0,0,0,963021,10,2022,api_football
+2022-09-26,Jordan,Oman,1.0,0.0,Friendlies,,,,False,,0,0,0,963022,10,2022,api_football
+2022-09-27,Brunei,Laos,1.0,0.0,Friendlies,,,,False,,0,0,0,943106,10,2022,api_football
+2022-09-27,South Korea,Cameroon,1.0,0.0,Friendlies,,,,False,,0,0,0,945953,10,2022,api_football
+2022-09-27,Nepal,Bangladesh,3.0,1.0,Friendlies,,,,False,,0,0,0,942173,10,2022,api_football
+2022-09-27,Japan,Ecuador,0.0,0.0,Friendlies,,,,False,,0,0,0,942157,10,2022,api_football
+2022-09-27,DR Congo,Sierra Leone,3.0,0.0,Friendlies,,,,False,,0,0,0,959549,10,2022,api_football
+2022-09-27,Vietnam,India,3.0,0.0,Friendlies,,,,False,,0,0,0,942168,10,2022,api_football
+2022-09-27,Indonesia,Curaçao,2.0,1.0,Friendlies,,,,False,,0,0,0,959544,10,2022,api_football
+2022-09-27,Equatorial Guinea,Togo,2.0,2.0,Friendlies,,,,False,,0,0,0,961018,10,2022,api_football
+2022-09-27,Senegal,Iran,1.0,1.0,Friendlies,,,,False,,0,0,0,960603,10,2022,api_football
+2022-09-27,United Arab Emirates,Venezuela,0.0,4.0,Friendlies,,,,False,,0,0,0,959545,10,2022,api_football
+2022-09-27,Bahrain,Panama,0.0,2.0,Friendlies,,,,False,,0,0,0,945813,10,2022,api_football
+2022-09-27,South Africa,Botswana,1.0,0.0,Friendlies,,,,False,,0,0,0,961505,10,2022,api_football
+2022-09-27,Canada,Uruguay,0.0,2.0,Friendlies,,,,False,,0,0,0,942152,10,2022,api_football
+2022-09-27,Burkina Faso,Comoros,2.0,1.0,Friendlies,,,,False,,0,0,0,962286,10,2022,api_football
+2022-09-27,Libya,Tanzania,2.0,1.0,Friendlies,,,,False,,0,0,0,962283,10,2022,api_football
+2022-09-27,Qatar,Chile,2.0,2.0,Friendlies,,,,False,,0,0,0,942156,10,2022,api_football
+2022-09-27,Saudi Arabia,United States,0.0,0.0,Friendlies,,,,False,,0,0,0,942155,10,2022,api_football
+2022-09-27,Egypt,Liberia,3.0,0.0,Friendlies,,,,False,,0,0,0,958778,10,2022,api_football
+2022-09-27,Ivory Coast,Guinea,3.0,1.0,Friendlies,,,,False,,0,0,0,958779,10,2022,api_football
+2022-09-27,Uzbekistan,Costa Rica,1.0,2.0,Friendlies,,,,False,,0,0,0,945952,10,2022,api_football
+2022-09-27,Nicaragua,Ghana,0.0,1.0,Friendlies,,,,False,,0,0,0,946605,10,2022,api_football
+2022-09-27,Brazil,Tunisia,5.0,1.0,Friendlies,,,,False,,0,0,0,944080,10,2022,api_football
+2022-09-27,Malta,Israel,2.0,1.0,Friendlies,,,,False,,0,0,0,946606,10,2022,api_football
+2022-09-27,Algeria,Nigeria,2.0,1.0,Friendlies,,,,False,,0,0,0,945814,10,2022,api_football
+2022-09-27,Paraguay,Morocco,0.0,0.0,Friendlies,,,,False,,0,0,0,942154,10,2022,api_football
+2022-09-28,Argentina,Jamaica,3.0,0.0,Friendlies,,,,False,,0,0,0,948279,10,2022,api_football
+2022-09-28,El Salvador,Peru,1.0,4.0,Friendlies,,,,False,,0,0,0,958780,10,2022,api_football
+2022-09-28,Honduras,Guatemala,2.0,1.0,Friendlies,,,,False,,0,0,0,942153,10,2022,api_football
+2022-09-28,Mexico,Colombia,2.0,3.0,Friendlies,,,,False,,0,0,0,942151,10,2022,api_football
+2022-10-01,St. Vincent / Grenadines,Grenada,1.0,5.0,Friendlies,,,,False,,0,0,0,962106,10,2022,api_football
+2022-10-22,Saudi Arabia,FYR Macedonia,1.0,0.0,Friendlies,,,,False,,0,0,0,963368,10,2022,api_football
+2022-10-23,Qatar,Guatemala,2.0,0.0,Friendlies,,,,False,,0,0,0,964618,10,2022,api_football
+2022-10-26,Saudi Arabia,Albania,1.0,1.0,Friendlies,,,,False,,0,0,0,961016,10,2022,api_football
+2022-10-27,Qatar,Honduras,1.0,0.0,Friendlies,,,,False,,0,0,0,966969,10,2022,api_football
+2022-10-30,Saudi Arabia,Honduras,0.0,0.0,Friendlies,,,,False,,0,0,0,942158,10,2022,api_football
+2022-11-05,Qatar,Panama,2.0,1.0,Friendlies,,,,False,,0,0,0,966908,10,2022,api_football
+2022-11-06,Saudi Arabia,Iceland,1.0,0.0,Friendlies,,,,False,,0,0,0,865399,10,2022,api_football
+2022-11-09,Cameroon,Jamaica,1.0,1.0,Friendlies,,,,False,,0,0,0,965547,10,2022,api_football
+2022-11-09,Qatar,Albania,1.0,0.0,Friendlies,,,,False,,0,0,0,971144,10,2022,api_football
+2022-11-09,Mexico,Iraq,4.0,0.0,Friendlies,,,,False,,0,0,0,942159,10,2022,api_football
+2022-11-10,Costa Rica,Nigeria,2.0,0.0,Friendlies,,,,False,,0,0,0,965469,10,2022,api_football
+2022-11-10,Panama,Saudi Arabia,1.0,1.0,Friendlies,,,,False,,0,0,0,942160,10,2022,api_football
+2022-11-10,Iran,Nicaragua,1.0,0.0,Friendlies,,,,False,,0,0,0,968263,10,2022,api_football
+2022-11-11,South Korea,Iceland,1.0,0.0,Friendlies,,,,False,,0,0,0,968264,10,2022,api_football
+2022-11-11,Bahrain,Canada,2.0,2.0,Friendlies,,,,False,,0,0,0,967962,10,2022,api_football
+2022-11-12,Ecuador,Iraq,0.0,0.0,Friendlies,,,,False,,0,0,0,965470,10,2022,api_football
+2022-11-15,Venezuela,Panama,2.0,2.0,Friendlies,,,,False,,0,0,0,973239,10,2022,api_football
+2022-11-15,Dominican Republic,Cuba,2.0,4.0,Friendlies,,,,False,,0,0,0,970752,10,2022,api_football
+2022-11-16,Nepal,Pakistan,1.0,0.0,Friendlies,,,,False,,0,0,0,970194,10,2022,api_football
+2022-11-16,Saudi Arabia,Croatia,0.0,1.0,Friendlies,,,,False,,0,0,0,863678,10,2022,api_football
+2022-11-16,Uzbekistan,Kazakhstan,2.0,0.0,Friendlies,,,,False,,0,0,0,965675,10,2022,api_football
+2022-11-16,United Arab Emirates,Argentina,0.0,5.0,Friendlies,,,,False,,0,0,0,959546,10,2022,api_football
+2022-11-16,Ivory Coast,Burundi,4.0,0.0,Friendlies,,,,False,,0,0,0,971145,10,2022,api_football
+2022-11-16,Poland,Chile,1.0,0.0,Friendlies,,,,False,,0,0,0,964619,10,2022,api_football
+2022-11-16,Czech Republic,Faroe Islands,5.0,0.0,Friendlies,,,,False,,0,0,0,958853,10,2022,api_football
+2022-11-16,Turkey,Scotland,2.0,1.0,Friendlies,,,,False,,0,0,0,965672,10,2022,api_football
+2022-11-16,Andorra,Austria,0.0,1.0,Friendlies,,,,False,,0,0,0,962098,10,2022,api_football
+2022-11-16,Kosovo,Armenia,2.0,2.0,Friendlies,,,,False,,0,0,0,968151,10,2022,api_football
+2022-11-16,Moldova,Azerbaijan,1.0,2.0,Friendlies,,,,False,,0,0,0,962103,10,2022,api_football
+2022-11-16,Oman,Germany,0.0,1.0,Friendlies,,,,False,,0,0,0,961506,10,2022,api_football
+2022-11-16,Gibraltar,Liechtenstein,2.0,0.0,Friendlies,,,,False,,0,0,0,968266,10,2022,api_football
+2022-11-16,Cyprus,Bulgaria,0.0,2.0,Friendlies,,,,False,,0,0,0,953171,10,2022,api_football
+2022-11-16,Mexico,Sweden,1.0,2.0,Friendlies,,,,False,,0,0,0,942161,10,2022,api_football
+2022-11-16,Algeria,Mali,1.0,1.0,Friendlies,,,,False,,0,0,0,971941,10,2022,api_football
+2022-11-16,Albania,Italy,1.0,3.0,Friendlies,,,,False,,0,0,0,962099,10,2022,api_football
+2022-11-16,St. Lucia,San Marino,1.0,1.0,Friendlies,,,,False,,0,0,0,966909,10,2022,api_football
+2022-11-17,Peru,Paraguay,1.0,0.0,Friendlies,,,,False,,0,0,0,965673,10,2022,api_football
+2022-11-17,Nicaragua,El Salvador,1.0,0.0,Friendlies,,,,False,,0,0,0,970023,10,2022,api_football
+2022-11-17,Ghana,Switzerland,2.0,0.0,Friendlies,,,,False,,0,0,0,942162,10,2022,api_football
+2022-11-17,Angola,Botswana,1.0,0.0,Friendlies,,,,False,,0,0,0,973268,10,2022,api_football
+2022-11-17,Japan,Canada,1.0,2.0,Friendlies,,,,False,,0,0,0,959633,10,2022,api_football
+2022-11-17,Tajikistan,Russia,0.0,0.0,Friendlies,,,,False,,0,0,0,970021,10,2022,api_football
+2022-11-17,Morocco,Georgia,3.0,0.0,Friendlies,,,,False,,0,0,0,970751,10,2022,api_football
+2022-11-17,Rwanda,Sudan,0.0,0.0,Friendlies,,,,False,,0,0,0,973379,10,2022,api_football
+2022-11-17,Jordan,Spain,1.0,3.0,Friendlies,,,,False,,0,0,0,962101,10,2022,api_football
+2022-11-17,Syria,Belarus,0.0,1.0,Friendlies,,,,False,,0,0,0,968565,10,2022,api_football
+2022-11-17,Romania,Slovenia,1.0,2.0,Friendlies,,,,False,,0,0,0,942163,10,2022,api_football
+2022-11-17,FYR Macedonia,Finland,1.0,1.0,Friendlies,,,,False,,0,0,0,962100,10,2022,api_football
+2022-11-17,Montenegro,Slovakia,2.0,2.0,Friendlies,,,,False,,0,0,0,961132,10,2022,api_football
+2022-11-17,Malta,Greece,2.0,2.0,Friendlies,,,,False,,0,0,0,968265,10,2022,api_football
+2022-11-17,Guinea-Bissau,Gabon,1.0,3.0,Friendlies,,,,False,,0,0,0,973546,10,2022,api_football
+2022-11-17,Israel,Zambia,4.0,2.0,Friendlies,,,,False,,0,0,0,967578,10,2022,api_football
+2022-11-17,South Africa,Mozambique,2.0,1.0,Friendlies,,,,False,,0,0,0,971146,10,2022,api_football
+2022-11-17,Portugal,Nigeria,4.0,0.0,Friendlies,,,,False,,0,0,0,959634,10,2022,api_football
+2022-11-17,Luxembourg,Hungary,2.0,2.0,Friendlies,,,,False,,0,0,0,953399,10,2022,api_football
+2022-11-17,Rep. Of Ireland,Norway,1.0,2.0,Friendlies,,,,False,,0,0,0,962524,10,2022,api_football
+2022-11-18,Cameroon,Panama,1.0,1.0,Friendlies,,,,False,,0,0,0,965548,10,2022,api_football
+2022-11-18,Belgium,Egypt,1.0,2.0,Friendlies,,,,False,,0,0,0,958281,10,2022,api_football
+2022-11-18,Bahrain,Serbia,1.0,5.0,Friendlies,,,,False,,0,0,0,943408,10,2022,api_football
+2022-11-18,Dominican Republic,Cuba,1.0,1.0,Friendlies,,,,False,,0,0,0,970753,10,2022,api_football
+2022-11-19,Sudan,Rwanda,0.0,1.0,Friendlies,,,,False,,0,0,0,973380,10,2022,api_football
+2022-11-19,Kuwait,Lebanon,2.0,0.0,Friendlies,,,,False,,0,0,0,966912,10,2022,api_football
+2022-11-19,United Arab Emirates,Kazakhstan,2.0,1.0,Friendlies,,,,False,,0,0,0,959547,10,2022,api_football
+2022-11-19,Burkina Faso,Ivory Coast,2.0,1.0,Friendlies,,,,False,,0,0,0,971147,10,2022,api_football
+2022-11-19,Albania,Armenia,2.0,0.0,Friendlies,,,,False,,0,0,0,968152,10,2022,api_football
+2022-11-19,Turkey,Czech Republic,2.0,1.0,Friendlies,,,,False,,0,0,0,965502,10,2022,api_football
+2022-11-19,Gibraltar,Andorra,1.0,0.0,Friendlies,,,,False,,0,0,0,968267,10,2022,api_football
+2022-11-19,Kosovo,Faroe Islands,1.0,1.0,Friendlies,,,,False,,0,0,0,967581,10,2022,api_football
+2022-11-19,Sweden,Algeria,2.0,0.0,Friendlies,,,,False,,0,0,0,969023,10,2022,api_football
+2022-11-20,Peru,Bolivia,1.0,0.0,Friendlies,,,,False,,0,0,0,965674,10,2022,api_football
+2022-11-20,Colombia,Paraguay,2.0,0.0,Friendlies,,,,False,,0,0,0,967579,10,2022,api_football
+2022-11-20,Guatemala,Nicaragua,3.0,1.0,Friendlies,,,,False,,0,0,0,967582,10,2022,api_football
+2022-11-20,Uzbekistan,Russia,0.0,0.0,Friendlies,,,,False,,0,0,0,971942,10,2022,api_football
+2022-11-20,Slovakia,Chile,0.0,0.0,Friendlies,,,,False,,0,0,0,967580,10,2022,api_football
+2022-11-20,Norway,Finland,1.0,1.0,Friendlies,,,,False,,0,0,0,962414,10,2022,api_football
+2022-11-20,FYR Macedonia,Azerbaijan,1.0,3.0,Friendlies,,,,False,,0,0,0,962104,10,2022,api_football
+2022-11-20,Guinea-Bissau,Gambia,0.0,0.0,Friendlies,,,,False,,0,0,0,973547,10,2022,api_football
+2022-11-20,South Africa,Angola,1.0,1.0,Friendlies,,,,False,,0,0,0,971148,10,2022,api_football
+2022-11-20,Slovenia,Montenegro,1.0,0.0,Friendlies,,,,False,,0,0,0,942165,10,2022,api_football
+2022-11-20,Luxembourg,Bulgaria,0.0,0.0,Friendlies,,,,False,,0,0,0,953172,10,2022,api_football
+2022-11-20,Oman,Belarus,2.0,0.0,Friendlies,,,,False,,0,0,0,971893,10,2022,api_football
+2022-11-20,Israel,Cyprus,2.0,3.0,Friendlies,,,,False,,0,0,0,966910,10,2022,api_football
+2022-11-20,Syria,Venezuela,1.0,2.0,Friendlies,,,,False,,0,0,0,973240,10,2022,api_football
+2022-11-20,Moldova,Romania,0.0,5.0,Friendlies,,,,False,,0,0,0,942164,10,2022,api_football
+2022-11-20,Malta,Rep. Of Ireland,0.0,1.0,Friendlies,,,,False,,0,0,0,962525,10,2022,api_football
+2022-11-20,Hungary,Greece,2.0,1.0,Friendlies,,,,False,,0,0,0,953173,10,2022,api_football
+2022-11-20,Austria,Italy,2.0,0.0,Friendlies,,,,False,,0,0,0,962102,10,2022,api_football
+2022-11-20,St. Lucia,San Marino,1.0,0.0,Friendlies,,,,False,,0,0,0,966911,10,2022,api_football
+2022-12-09,Malaysia,Cambodia,4.0,0.0,Friendlies,,,,False,,0,0,0,970024,10,2022,api_football
+2022-12-11,Thailand,Myanmar,6.0,0.0,Friendlies,,,,False,,0,0,0,972953,10,2022,api_football
+2022-12-14,Vietnam,Philippines,1.0,0.0,Friendlies,,,,False,,0,0,0,978613,10,2022,api_football
+2022-12-14,Malaysia,Maldives,3.0,0.0,Friendlies,,,,False,,0,0,0,971894,10,2022,api_football
+2022-12-14,Thailand,Chinese Taipei,0.0,1.0,Friendlies,,,,False,,0,0,0,972954,10,2022,api_football
+2022-12-17,Singapore,Maldives,3.0,1.0,Friendlies,,,,False,,0,0,0,972182,10,2022,api_football
+2022-12-23,Oman,Syria,2.0,1.0,Friendlies,,,,False,,0,0,0,969914,10,2022,api_football
+2022-12-30,Iraq,Kuwait,1.0,0.0,Friendlies,,,,False,,0,0,0,984410,10,2022,api_football
+2022-12-30,Syria,Oman,0.0,1.0,Friendlies,,,,False,,0,0,0,969915,10,2022,api_football
+2022-12-30,United Arab Emirates,Lebanon,1.0,0.0,Friendlies,,,,False,,0,0,0,978093,10,2022,api_football
+2023-01-28,Guatemala,Venezuela,,,Friendlies,,,,False,,0,0,0,984802,10,2023,api_football
+2023-03-09,Barbados,St. Vincent / Grenadines,,,Friendlies,,,,False,,0,0,0,1012357,10,2023,api_football
+2023-03-18,Guatemala,Bolivia,,,Friendlies,,,,False,,0,0,0,1012322,10,2023,api_football
+2023-03-25,Kenya,Burundi,,,Friendlies,,,,False,,0,0,0,1012331,10,2023,api_football
+2023-03-28,Kenya,Burundi,,,Friendlies,,,,False,,0,0,0,1012336,10,2023,api_football
+2023-04-15,Jamaica,Guatemala,,,Friendlies,,,,False,,0,0,0,1012364,10,2023,api_football
+2023-06-08,Qatar,Croatia,,,Friendlies,,,,False,,0,0,0,1028630,10,2023,api_football
+2023-06-11,Kenya,Djibouti,,,Friendlies,,,,False,,0,0,0,1028634,10,2023,api_football
+2023-06-13,Republic of Ireland U21,Gabon U23,,,Friendlies,,,,False,,0,0,0,1035566,10,2023,api_football
+2023-06-13,Italy U18,Bosnia & Herzegovina U18,,,Friendlies,,,,False,,0,0,0,1035628,10,2023,api_football
+2023-06-15,Italy U18,Bosnia & Herzegovina U18,,,Friendlies,,,,False,,0,0,0,1035634,10,2023,api_football
+2023-06-17,Johor Darul Takzim FC,Albirex Niigata S,,,Friendlies,,,,False,,0,0,0,1035601,10,2023,api_football
+2023-06-18,Latvia U19,Finland U19,,,Friendlies,,,,False,,0,0,0,1035604,10,2023,api_football
+2023-06-18,Lithuania U19,Estonia U19,,,Friendlies,,,,False,,0,0,0,1035606,10,2023,api_football
+2023-06-19,Morocco,Zambia,,,Friendlies,,,,False,,0,0,0,1034554,10,2023,api_football
+2023-06-19,Honduras,Barbados,,,Friendlies,,,,False,,0,0,0,1030768,10,2023,api_football
+2023-06-19,Barbados,Honduras,,,Friendlies,,,,False,,0,0,0,1036564,10,2023,api_football
+2023-06-19,Bulgaria U16,Austria U16,,,Friendlies,,,,False,,0,0,0,1035643,10,2023,api_football
+2023-06-19,Qatar,New Zealand,,,Friendlies,,,,False,,0,0,0,1028655,10,2023,api_football
+2023-06-20,Malaysia,Yemen,,,Friendlies,,,,False,,0,0,0,1028674,10,2023,api_football
+2023-06-20,Azerbaijan U21,Kyrgyzstan U21,,,Friendlies,,,,False,,0,0,0,1035646,10,2023,api_football
+2023-09-06,Brunei,Timor-Leste,,,Friendlies,,,,False,,0,0,0,1100658,10,2023,api_football
+2023-09-06,Bulgaria,Uzbekistan,,,Friendlies,,,,False,,0,0,0,1019896,10,2023,api_football
+2023-09-12,Ivory Coast,Mali,,,Friendlies,,,,False,,0,0,0,1061060,10,2023,api_football
+2023-10-12,Bahrain,Philippines,,,Friendlies,,,,False,,0,0,0,1119713,10,2023,api_football
+2023-10-13,Mozambique,Guinea-Bissau,,,Friendlies,,,,False,,0,0,0,1136024,10,2023,api_football
+2023-10-13,Palestine,Tajikistan,,,Friendlies,,,,False,,0,0,0,1122370,10,2023,api_football
+2023-10-13,Guinea,Togo,,,Friendlies,,,,False,,0,0,0,1136600,10,2023,api_football
+2023-10-14,Senegal,Mali,,,Friendlies,,,,False,,0,0,0,1126767,10,2023,api_football
+2023-10-14,Zimbabwe,Botswana,,,Friendlies,,,,False,,0,0,0,1138411,10,2023,api_football
+2023-01-03,Uganda,Sudan,2.0,2.0,Friendlies,,,,False,,0,0,0,984808,10,2023,api_football
+2023-01-08,Iceland,Estonia,1.0,1.0,Friendlies,,,,False,,0,0,0,984797,10,2023,api_football
+2023-01-09,Sweden,Finland,2.0,0.0,Friendlies,,,,False,,0,0,0,984798,10,2023,api_football
+2023-01-12,Finland,Estonia,0.0,1.0,Friendlies,,,,False,,0,0,0,984799,10,2023,api_football
+2023-01-12,Sweden,Iceland,2.0,1.0,Friendlies,,,,False,,0,0,0,984800,10,2023,api_football
+2023-01-26,United States,Serbia,1.0,2.0,Friendlies,,,,False,,0,0,0,984801,10,2023,api_football
+2023-01-28,Trinidad and Tobago,Saint Martin,2.0,0.0,Friendlies,,,,False,,0,0,0,995739,10,2023,api_football
+2023-01-29,United States,Colombia,0.0,0.0,Friendlies,,,,False,,0,0,0,984803,10,2023,api_football
+2023-02-22,Grenada,Barbados,1.0,1.0,Friendlies,,,,False,,0,0,0,1012354,10,2023,api_football
+2023-02-24,Grenada,Barbados,2.0,2.0,Friendlies,,,,False,,0,0,0,1012355,10,2023,api_football
+2023-02-25,Malawi,Lesotho,1.0,1.0,Friendlies,,,,False,,0,0,0,1012366,10,2023,api_football
+2023-02-26,Grenada,Barbados,2.0,2.0,Friendlies,,,,False,,0,0,0,1012356,10,2023,api_football
+2023-03-11,Jamaica,Trinidad and Tobago,0.0,1.0,Friendlies,,,,False,,0,0,0,1012358,10,2023,api_football
+2023-03-13,Guatemala,Panama,1.0,1.0,Friendlies,,,,False,,0,0,0,1012321,10,2023,api_football
+2023-03-15,Jamaica,Trinidad and Tobago,0.0,0.0,Friendlies,,,,False,,0,0,0,1012359,10,2023,api_football
+2023-03-15,Bangladesh,Malawi,1.0,1.0,Friendlies,,,,False,,0,0,0,1014778,10,2023,api_football
+2023-03-19,Ethiopia,Rwanda,1.0,0.0,Friendlies,,,,False,,0,0,0,1014506,10,2023,api_football
+2023-03-20,Fiji,Vanuatu,1.0,2.0,Friendlies,,,,False,,0,0,0,1014507,10,2023,api_football
+2023-03-21,Tahiti,New Caledonia,0.0,2.0,Friendlies,,,,False,,0,0,0,1013398,10,2023,api_football
+2023-03-21,Maldives,Pakistan,1.0,0.0,Friendlies,,,,False,,0,0,0,1016624,10,2023,api_football
+2023-03-22,Bhutan,Laos,2.0,0.0,Friendlies,,,,False,,0,0,0,1012368,10,2023,api_football
+2023-03-22,India,Myanmar,1.0,0.0,Friendlies,,,,False,,0,0,0,1012360,10,2023,api_football
+2023-03-22,Rep. Of Ireland,Latvia,3.0,2.0,Friendlies,,,,False,,0,0,0,984804,10,2023,api_football
+2023-03-23,El Salvador,Honduras,0.0,1.0,Friendlies,,,,False,,0,0,0,1012324,10,2023,api_football
+2023-03-23,New Zealand,China,0.0,0.0,Friendlies,,,,False,,0,0,0,1012325,10,2023,api_football
+2023-03-23,Solomon Islands,Vanuatu,2.0,0.0,Friendlies,,,,False,,0,0,0,1014508,10,2023,api_football
+2023-03-23,Hong Kong,Singapore,1.0,1.0,Friendlies,,,,False,,0,0,0,1012370,10,2023,api_football
+2023-03-23,Malaysia,Turkmenistan,1.0,0.0,Friendlies,,,,False,,0,0,0,1012369,10,2023,api_football
+2023-03-23,Iran,Russia,1.0,1.0,Friendlies,,,,False,,0,0,0,1014777,10,2023,api_football
+2023-03-23,Hungary,Estonia,1.0,0.0,Friendlies,,,,False,,0,0,0,984805,10,2023,api_football
+2023-03-23,Argentina,Panama,2.0,0.0,Friendlies,,,,False,,0,0,0,1012323,10,2023,api_football
+2023-03-24,Tahiti,New Caledonia,2.0,1.0,Friendlies,,,,False,,0,0,0,1013399,10,2023,api_football
+2023-03-24,Australia,Ecuador,3.0,1.0,Friendlies,,,,False,,0,0,0,1012326,10,2023,api_football
+2023-03-24,Japan,Uruguay,1.0,1.0,Friendlies,,,,False,,0,0,0,1012327,10,2023,api_football
+2023-03-24,South Korea,Colombia,2.0,2.0,Friendlies,,,,False,,0,0,0,1012328,10,2023,api_football
+2023-03-24,Uzbekistan,Bolivia,1.0,0.0,Friendlies,,,,False,,0,0,0,1012329,10,2023,api_football
+2023-03-24,Saudi Arabia,Venezuela,1.0,2.0,Friendlies,,,,False,,0,0,0,1012330,10,2023,api_football
+2023-03-24,Kuwait,Philippines,2.0,0.0,Friendlies,,,,False,,0,0,0,1012371,10,2023,api_football
+2023-03-25,Bangladesh,Seychelles,1.0,0.0,Friendlies,,,,False,,0,0,0,1017024,10,2023,api_football
+2023-03-25,Nepal,Laos,2.0,1.0,Friendlies,,,,False,,0,0,0,1012373,10,2023,api_football
+2023-03-25,Myanmar,Kyrgyzstan,1.0,1.0,Friendlies,,,,False,,0,0,0,1012367,10,2023,api_football
+2023-03-25,Indonesia,Burundi,3.0,1.0,Friendlies,,,,False,,0,0,0,1014504,10,2023,api_football
+2023-03-25,Georgia,Mongolia,6.0,1.0,Friendlies,,,,False,,0,0,0,1012362,10,2023,api_football
+2023-03-25,United Arab Emirates,Tajikistan,0.0,0.0,Friendlies,,,,False,,0,0,0,1012361,10,2023,api_football
+2023-03-25,Syria,Thailand,3.0,1.0,Friendlies,,,,False,,0,0,0,1012332,10,2023,api_football
+2023-03-25,Bahrain,Palestine,1.0,2.0,Friendlies,,,,False,,0,0,0,1012372,10,2023,api_football
+2023-03-25,Germany,Peru,2.0,0.0,Friendlies,,,,False,,0,0,0,1012333,10,2023,api_football
+2023-03-25,Morocco,Brazil,2.0,1.0,Friendlies,,,,False,,0,0,0,1012334,10,2023,api_football
+2023-03-26,New Zealand,China,2.0,1.0,Friendlies,,,,False,,0,0,0,1012335,10,2023,api_football
+2023-03-26,Fiji,Solomon Islands,0.0,2.0,Friendlies,,,,False,,0,0,0,1014509,10,2023,api_football
+2023-03-26,Mação,Singapore,0.0,1.0,Friendlies,,,,False,,0,0,0,1016625,10,2023,api_football
+2023-03-26,Russia,Iraq,2.0,0.0,Friendlies,,,,False,,0,0,0,1013397,10,2023,api_football
+2023-03-27,FYR Macedonia,Faroe Islands,1.0,0.0,Friendlies,,,,False,,0,0,0,991103,10,2023,api_football
+2023-03-27,Greece,Lithuania,0.0,0.0,Friendlies,,,,False,,0,0,0,988668,10,2023,api_football
+2023-03-27,Lebanon,Oman,0.0,2.0,Friendlies,,,,False,,0,0,0,1012374,10,2023,api_football
+2023-03-28,Chile,Paraguay,3.0,2.0,Friendlies,,,,False,,0,0,0,1012340,10,2023,api_football
+2023-03-28,Australia,Ecuador,1.0,2.0,Friendlies,,,,False,,0,0,0,1012341,10,2023,api_football
+2023-03-28,Bangladesh,Seychelles,0.0,1.0,Friendlies,,,,False,,0,0,0,1017025,10,2023,api_football
+2023-03-28,Japan,Colombia,1.0,2.0,Friendlies,,,,False,,0,0,0,1012342,10,2023,api_football
+2023-03-28,South Korea,Uruguay,1.0,2.0,Friendlies,,,,False,,0,0,0,1012337,10,2023,api_football
+2023-03-28,Nepal,Bhutan,1.0,1.0,Friendlies,,,,False,,0,0,0,1012378,10,2023,api_football
+2023-03-28,India,Kyrgyzstan,2.0,0.0,Friendlies,,,,False,,0,0,0,1012363,10,2023,api_football
+2023-03-28,Indonesia,Burundi,2.0,2.0,Friendlies,,,,False,,0,0,0,1014505,10,2023,api_football
+2023-03-28,Malaysia,Hong Kong,2.0,0.0,Friendlies,,,,False,,0,0,0,1012377,10,2023,api_football
+2023-03-28,Armenia,Cyprus,2.0,2.0,Friendlies,,,,False,,0,0,0,984807,10,2023,api_football
+2023-03-28,Iran,Kenya,2.0,1.0,Friendlies,,,,False,,0,0,0,1015106,10,2023,api_football
+2023-03-28,United Arab Emirates,Thailand,2.0,0.0,Friendlies,,,,False,,0,0,0,1012338,10,2023,api_football
+2023-03-28,Uzbekistan,Venezuela,1.0,1.0,Friendlies,,,,False,,0,0,0,1012343,10,2023,api_football
+2023-03-28,Bahrain,Palestine,1.0,0.0,Friendlies,,,,False,,0,0,0,1012375,10,2023,api_football
+2023-03-28,Jordan,Philippines,4.0,0.0,Friendlies,,,,False,,0,0,0,1014510,10,2023,api_football
+2023-03-28,Germany,Belgium,2.0,3.0,Friendlies,,,,False,,0,0,0,1012344,10,2023,api_football
+2023-03-28,Saudi Arabia,Bolivia,1.0,2.0,Friendlies,,,,False,,0,0,0,1012345,10,2023,api_football
+2023-03-28,Kuwait,Tajikistan,2.0,1.0,Friendlies,,,,False,,0,0,0,1012376,10,2023,api_football
+2023-03-28,Morocco,Peru,0.0,0.0,Friendlies,,,,False,,0,0,0,1012346,10,2023,api_football
+2023-03-28,Argentina,Curaçao,7.0,0.0,Friendlies,,,,False,,0,0,0,1012339,10,2023,api_football
+2023-03-31,Nepal,Laos,2.0,1.0,Friendlies,,,,False,,0,0,0,1019897,10,2023,api_football
+2023-04-20,United States,Mexico,1.0,1.0,Friendlies,,,,False,,0,0,0,1015107,10,2023,api_football
+2023-06-08,Mexico,Guatemala,2.0,0.0,Friendlies,,,,False,,0,0,0,1028629,10,2023,api_football
+2023-06-09,Slovakia U18,Czech Republic U18,2.0,3.0,Friendlies,,,,False,,0,0,0,1035620,10,2023,api_football
+2023-06-09,Norway U18,England U18,2.0,2.0,Friendlies,,,,False,,0,0,0,1035621,10,2023,api_football
+2023-06-09,Lebanon,Vanuatu,3.0,1.0,Friendlies,,,,False,,0,0,0,1035557,10,2023,api_football
+2023-06-09,India,Mongolia,2.0,0.0,Friendlies,,,,False,,0,0,0,1035558,10,2023,api_football
+2023-06-09,Portugal U18,Australia U18,4.0,2.0,Friendlies,,,,False,,0,0,0,1035622,10,2023,api_football
+2023-06-09,Luxembourg,Malta,0.0,1.0,Friendlies,,,,False,,0,0,0,1020352,10,2023,api_football
+2023-06-11,Panama,Nicaragua,3.0,2.0,Friendlies,,,,False,,0,0,0,1028632,10,2023,api_football
+2023-06-11,Mexico,Cameroon,2.0,2.0,Friendlies,,,,False,,0,0,0,1028633,10,2023,api_football
+2023-06-11,England U18,Australia U18,3.0,2.0,Friendlies,,,,False,,0,0,0,1035623,10,2023,api_football
+2023-06-11,Mauritius,Pakistan,3.0,0.0,Friendlies,,,,False,,0,0,0,1028667,10,2023,api_football
+2023-06-11,Uzbekistan U23,Kyrgyz Republic U23,1.0,0.0,Friendlies,,,,False,,0,0,0,1035559,10,2023,api_football
+2023-06-11,Portugal U18,Norway U18,5.0,0.0,Friendlies,,,,False,,0,0,0,1035624,10,2023,api_football
+2023-06-11,Trinidad and Tobago,Guatemala,1.0,0.0,Friendlies,,,,False,,0,0,0,1035560,10,2023,api_football
+2023-06-11,Chile,Cuba,3.0,0.0,Friendlies,,,,False,,0,0,0,1028631,10,2023,api_football
+2023-06-12,Kuwait,Zambia,3.0,0.0,Friendlies,,,,False,,0,0,0,1034553,10,2023,api_football
+2023-06-12,Mongolia,Lebanon,0.0,0.0,Friendlies,,,,False,,0,0,0,1035561,10,2023,api_football
+2023-06-12,India,Vanuatu,1.0,0.0,Friendlies,,,,False,,0,0,0,1035562,10,2023,api_football
+2023-06-12,Oman U23,Lebanon U23,1.0,0.0,Friendlies,,,,False,,0,0,0,1035563,10,2023,api_football
+2023-06-12,Germany,Ukraine,3.0,3.0,Friendlies,,,,False,,0,0,0,1028635,10,2023,api_football
+2023-06-12,Palestine U23,Syria U23,1.0,0.0,Friendlies,,,,False,,0,0,0,1035564,10,2023,api_football
+2023-06-12,Iraq U23,Jordan U23,2.0,2.0,Friendlies,,,,False,,0,0,0,1035565,10,2023,api_football
+2023-06-12,Morocco,Cape Verde,0.0,0.0,Friendlies,,,,False,,0,0,0,1028636,10,2023,api_football
+2023-06-12,Trinidad and Tobago,Guatemala,1.0,0.0,Friendlies,,,,False,,0,0,0,1028664,10,2023,api_football
+2023-06-13,Australia U18,Norway U18,2.0,1.0,Friendlies,,,,False,,0,0,0,1035625,10,2023,api_football
+2023-06-13,Slovenia U18,Poland U18,1.0,0.0,Friendlies,,,,False,,0,0,0,1035626,10,2023,api_football
+2023-06-13,Poland U16,Norway U16,3.0,1.0,Friendlies,,,,False,,0,0,0,1035627,10,2023,api_football
+2023-06-13,Portugal U18,England U18,0.0,0.0,Friendlies,,,,False,,0,0,0,1035629,10,2023,api_football
+2023-06-13,Curaçao,Puerto Rico,0.0,0.0,Friendlies,,,,False,,0,0,0,1035567,10,2023,api_football
+2023-06-13,Puerto Rico,Curaçao,0.0,0.0,Friendlies,,,,False,,0,0,0,1034555,10,2023,api_football
+2023-06-14,Mozambique,Malawi,1.0,1.0,Friendlies,,,,False,,0,0,0,1034556,10,2023,api_football
+2023-06-14,Romania U17,Austria U17,3.0,0.0,Friendlies,,,,False,,0,0,0,1035568,10,2023,api_football
+2023-06-14,Latvia U19,Lithuania U19,3.0,0.0,Friendlies,,,,False,,0,0,0,1035569,10,2023,api_football
+2023-06-14,Kenya,Pakistan,1.0,0.0,Friendlies,,,,False,,0,0,0,1028637,10,2023,api_football
+2023-06-14,Pakistan,Kenya,0.0,1.0,Friendlies,,,,False,,0,0,0,1035570,10,2023,api_football
+2023-06-14,Indonesia,Palestine,0.0,0.0,Friendlies,,,,False,,0,0,0,1016623,10,2023,api_football
+2023-06-14,Netherlands U21,Japan U22,0.0,0.0,Friendlies,,,,False,,0,0,0,1035630,10,2023,api_football
+2023-06-14,Malaysia,Solomon Islands,4.0,1.0,Friendlies,,,,False,,0,0,0,1028668,10,2023,api_football
+2023-06-14,Togo,Lesotho,2.0,0.0,Friendlies,,,,False,,0,0,0,1034557,10,2023,api_football
+2023-06-14,Mauritius,Djibouti,1.0,3.0,Friendlies,,,,False,,0,0,0,1035571,10,2023,api_football
+2023-06-14,Djibouti,Mauritius,3.0,1.0,Friendlies,,,,False,,0,0,0,1028671,10,2023,api_football
+2023-06-14,UAE U23,Jordan U23,1.0,2.0,Friendlies,,,,False,,0,0,0,1035572,10,2023,api_football
+2023-06-14,DR Congo,Uganda,1.0,0.0,Friendlies,,,,False,,0,0,0,1034558,10,2023,api_football
+2023-06-14,Finland U19,Estonia U19,2.0,1.0,Friendlies,,,,False,,0,0,0,1035573,10,2023,api_football
+2023-06-14,Albania U19,Kosovo U19,1.0,0.0,Friendlies,,,,False,,0,0,0,1035574,10,2023,api_football
+2023-06-14,Iran U23,Syria U23,3.0,1.0,Friendlies,,,,False,,0,0,0,1035575,10,2023,api_football
+2023-06-14,Yemen U23,Oman U23,0.0,3.0,Friendlies,,,,False,,0,0,0,1035576,10,2023,api_football
+2023-06-14,Uruguay,Nicaragua,4.0,1.0,Friendlies,,,,False,,0,0,0,1028640,10,2023,api_football
+2023-06-15,Poland U16,Norway U16,2.0,1.0,Friendlies,,,,False,,0,0,0,1035631,10,2023,api_football
+2023-06-15,China PR U23,Korea Republic U23,1.0,3.0,Friendlies,,,,False,,0,0,0,1035577,10,2023,api_football
+2023-06-15,Japan,El Salvador,6.0,0.0,Friendlies,,,,False,,0,0,0,1028641,10,2023,api_football
+2023-06-15,Philippines,Nepal,1.0,0.0,Friendlies,,,,False,,0,0,0,1029582,10,2023,api_football
+2023-06-15,Vanuatu,Mongolia,1.0,0.0,Friendlies,,,,False,,0,0,0,1035578,10,2023,api_football
+2023-06-15,Argentina,Australia,2.0,0.0,Friendlies,,,,False,,0,0,0,1028642,10,2023,api_football
+2023-06-15,Cambodia,Bangladesh,0.0,1.0,Friendlies,,,,False,,0,0,0,1028669,10,2023,api_football
+2023-06-15,Vietnam,Hong Kong,1.0,0.0,Friendlies,,,,False,,0,0,0,1028670,10,2023,api_football
+2023-06-15,Tajikistan U23,Hong Kong U23,1.0,1.0,Friendlies,,,,False,,0,0,0,1035579,10,2023,api_football
+2023-06-15,India,Lebanon,0.0,0.0,Friendlies,,,,False,,0,0,0,1035580,10,2023,api_football
+2023-06-15,Belarus U21,Russia U20,5.0,1.0,Friendlies,,,,False,,0,0,0,1035632,10,2023,api_football
+2023-06-15,Bulgaria U18,Austria U18,1.0,0.0,Friendlies,,,,False,,0,0,0,1035633,10,2023,api_football
+2023-06-15,North Macedonia U21,Armenia U21,1.0,1.0,Friendlies,,,,False,,0,0,0,1035581,10,2023,api_football
+2023-06-15,Egypt U23,Ghana U23,1.0,1.0,Friendlies,,,,False,,0,0,0,1035582,10,2023,api_football
+2023-06-15,Bulgaria U21,Montenegro U21,1.0,0.0,Friendlies,,,,False,,0,0,0,1035585,10,2023,api_football
+2023-06-15,Poland U21,Finland U21,1.0,1.0,Friendlies,,,,False,,0,0,0,1035584,10,2023,api_football
+2023-06-15,Slovakia U21,Hungary U21,0.0,1.0,Friendlies,,,,False,,0,0,0,1035583,10,2023,api_football
+2023-06-15,Jamaica,Qatar,1.0,2.0,Friendlies,,,,False,,0,0,0,1028639,10,2023,api_football
+2023-06-15,Georgia U21,Cyprus U21,2.0,0.0,Friendlies,,,,False,,0,0,0,1035587,10,2023,api_football
+2023-06-15,Scotland U21,Norway U21,0.0,0.0,Friendlies,,,,False,,0,0,0,1035586,10,2023,api_football
+2023-06-15,Kuwait,Sudan,2.0,1.0,Friendlies,,,,False,,0,0,0,1035588,10,2023,api_football
+2023-06-15,Wales U18,Norway U19,0.0,1.0,Friendlies,,,,False,,0,0,0,1035635,10,2023,api_football
+2023-06-15,Israel U21,Belgium U21,0.0,2.0,Friendlies,,,,False,,0,0,0,1035589,10,2023,api_football
+2023-06-16,Venezuela,Honduras,1.0,0.0,Friendlies,,,,False,,0,0,0,1028638,10,2023,api_football
+2023-06-16,Costa Rica,Guatemala,0.0,1.0,Friendlies,,,,False,,0,0,0,1028644,10,2023,api_football
+2023-06-16,Romania U17,Austria U17,2.0,2.0,Friendlies,,,,False,,0,0,0,1035590,10,2023,api_football
+2023-06-16,Albania U19,Kosovo U19,0.0,0.0,Friendlies,,,,False,,0,0,0,1035636,10,2023,api_football
+2023-06-16,Estonia U19,Latvia U19,6.0,2.0,Friendlies,,,,False,,0,0,0,1035591,10,2023,api_football
+2023-06-16,China,Myanmar,4.0,0.0,Friendlies,,,,False,,0,0,0,1028643,10,2023,api_football
+2023-06-16,China U22,Uzbekistan U23,1.0,3.0,Friendlies,,,,False,,0,0,0,1035637,10,2023,api_football
+2023-06-16,South Korea,Peru,0.0,1.0,Friendlies,,,,False,,0,0,0,1028645,10,2023,api_football
+2023-06-16,Chinese Taipei,Thailand,2.0,2.0,Friendlies,,,,False,,0,0,0,1021904,10,2023,api_football
+2023-06-16,Singapore,Papua New Guinea,2.0,2.0,Friendlies,,,,False,,0,0,0,1029484,10,2023,api_football
+2023-06-16,Azerbaijan U19,Georgia U19,2.0,1.0,Friendlies,,,,False,,0,0,0,1035592,10,2023,api_football
+2023-06-16,Bulgaria U16,Austria U16,0.0,3.0,Friendlies,,,,False,,0,0,0,1035638,10,2023,api_football
+2023-06-16,Romania U18,North Macedonia U18,1.0,1.0,Friendlies,,,,False,,0,0,0,1035639,10,2023,api_football
+2023-06-16,Lebanon U23,Yemen U23,1.0,2.0,Friendlies,,,,False,,0,0,0,1035593,10,2023,api_football
+2023-06-16,Finland U19,Lithuania U19,3.0,2.0,Friendlies,,,,False,,0,0,0,1035594,10,2023,api_football
+2023-06-16,Austria U21,Iceland U21,3.0,1.0,Friendlies,,,,False,,0,0,0,1035595,10,2023,api_football
+2023-06-16,Germany U21,Switzerland U21,3.0,1.0,Friendlies,,,,False,,0,0,0,1035596,10,2023,api_football
+2023-06-16,Ukraine U21,Republic of Ireland U21,2.0,2.0,Friendlies,,,,False,,0,0,0,1035597,10,2023,api_football
+2023-06-16,France U21,Mexico U20,1.0,0.0,Friendlies,,,,False,,0,0,0,1035598,10,2023,api_football
+2023-06-16,Palestine U23,Iran U23,1.0,1.0,Friendlies,,,,False,,0,0,0,1035599,10,2023,api_football
+2023-06-16,Sweden,New Zealand,4.0,1.0,Friendlies,,,,False,,0,0,0,1012347,10,2023,api_football
+2023-06-16,Serbia,Jordan,3.0,2.0,Friendlies,,,,False,,0,0,0,1028646,10,2023,api_football
+2023-06-16,Poland,Germany,1.0,0.0,Friendlies,,,,False,,0,0,0,1028647,10,2023,api_football
+2023-06-16,Iraq U23,UAE U23,3.0,0.0,Friendlies,,,,False,,0,0,0,1035600,10,2023,api_football
+2023-06-16,Colombia,Iraq,1.0,0.0,Friendlies,,,,False,,0,0,0,1028648,10,2023,api_football
+2023-06-17,Chile,Dominican Republic,5.0,0.0,Friendlies,,,,False,,0,0,0,1028649,10,2023,api_football
+2023-06-17,Djibouti,Pakistan,3.0,1.0,Friendlies,,,,False,,0,0,0,1035602,10,2023,api_football
+2023-06-17,Pakistan,Djibouti,1.0,3.0,Friendlies,,,,False,,0,0,0,1028672,10,2023,api_football
+2023-06-17,Turkey U21,Azerbaijan U21,1.0,0.0,Friendlies,,,,False,,0,0,0,1035603,10,2023,api_football
+2023-06-17,Brazil,Guinea,4.0,1.0,Friendlies,,,,False,,0,0,0,1028928,10,2023,api_football
+2023-06-17,Ecuador,Bolivia,1.0,0.0,Friendlies,,,,False,,0,0,0,1028651,10,2023,api_football
+2023-06-18,Lithuania U18,Estonia U18,2.0,1.0,Friendlies,,,,False,,0,0,0,1037604,10,2023,api_football
+2023-06-18,Bulgaria U18,Austria U18,0.0,1.0,Friendlies,,,,False,,0,0,0,1035660,10,2023,api_football
+2023-06-18,Scotland U21,Norway U21,1.0,1.0,Friendlies,,,,False,,0,0,0,1035605,10,2023,api_football
+2023-06-18,Latvia U18,Finland U18,2.0,2.0,Friendlies,,,,False,,0,0,0,1035640,10,2023,api_football
+2023-06-18,Mauritius,Kenya,1.0,0.0,Friendlies,,,,False,,0,0,0,1028652,10,2023,api_football
+2023-06-18,Singapore,Solomon Islands,1.0,1.0,Friendlies,,,,False,,0,0,0,1029485,10,2023,api_football
+2023-06-18,India,Lebanon,2.0,0.0,Friendlies,,,,False,,0,0,0,1035661,10,2023,api_football
+2023-06-18,Belarus U19,Georgia U19,2.0,0.0,Friendlies,,,,False,,0,0,0,1035607,10,2023,api_football
+2023-06-18,Romania U18,North Macedonia U18,3.0,0.0,Friendlies,,,,False,,0,0,0,1035641,10,2023,api_football
+2023-06-18,Wales U18,Norway U19,2.0,2.0,Friendlies,,,,False,,0,0,0,1035642,10,2023,api_football
+2023-06-18,Paraguay,Nicaragua,2.0,0.0,Friendlies,,,,False,,0,0,0,1028650,10,2023,api_football
+2023-06-18,Iran U23,Jordan U23,0.0,0.0,Friendlies,,,,False,,0,0,0,1036535,10,2023,api_football
+2023-06-18,Torpedo Zhodino,Russia U21,1.0,0.0,Friendlies,,,,False,,0,0,0,1035608,10,2023,api_football
+2023-06-18,Egypt,South Sudan,3.0,0.0,Friendlies,,,,False,,0,0,0,1031231,10,2023,api_football
+2023-06-18,Iraq U23,Oman U23,1.0,0.0,Friendlies,,,,False,,0,0,0,1036536,10,2023,api_football
+2023-06-18,Venezuela,Guatemala,1.0,0.0,Friendlies,,,,False,,0,0,0,1028653,10,2023,api_football
+2023-06-19,Mação,Myanmar,0.0,2.0,Friendlies,,,,False,,0,0,0,1028673,10,2023,api_football
+2023-06-19,China U22,Uzbekistan U23,1.0,2.0,Friendlies,,,,False,,0,0,0,1035644,10,2023,api_football
+2023-06-19,Philippines,Chinese Taipei,2.0,3.0,Friendlies,,,,False,,0,0,0,1029583,10,2023,api_football
+2023-06-19,China PR U23,Korea Republic U23,1.0,0.0,Friendlies,,,,False,,0,0,0,1035611,10,2023,api_football
+2023-06-19,Jamaica,Jordan,1.0,2.0,Friendlies,,,,False,,0,0,0,1028665,10,2023,api_football
+2023-06-19,Hong Kong,Thailand,0.0,1.0,Friendlies,,,,False,,0,0,0,1021697,10,2023,api_football
+2023-06-19,Indonesia,Argentina,0.0,2.0,Friendlies,,,,False,,0,0,0,1028654,10,2023,api_football
+2023-06-19,Tajikistan U23,Hong Kong U23,2.0,1.0,Friendlies,,,,False,,0,0,0,1035610,10,2023,api_football
+2023-06-19,Republic of Ireland U21,Kuwait U22,3.0,0.0,Friendlies,,,,False,,0,0,0,1035645,10,2023,api_football
+2023-06-19,Hungary U21,Iceland U21,0.0,1.0,Friendlies,,,,False,,0,0,0,1035612,10,2023,api_football
+2023-06-19,Montenegro U21,Poland U21,1.0,2.0,Friendlies,,,,False,,0,0,0,1035613,10,2023,api_football
+2023-06-20,Japan,Peru,4.0,1.0,Friendlies,,,,False,,0,0,0,1028656,10,2023,api_football
+2023-06-20,South Korea,El Salvador,1.0,1.0,Friendlies,,,,False,,0,0,0,1028657,10,2023,api_football
+2023-06-20,China,Palestine,2.0,0.0,Friendlies,,,,False,,0,0,0,1019895,10,2023,api_football
+2023-06-20,Vietnam,Syria,1.0,0.0,Friendlies,,,,False,,0,0,0,1029584,10,2023,api_football
+2023-06-20,Malaysia,Papua New Guinea,10.0,0.0,Friendlies,,,,False,,0,0,0,1029903,10,2023,api_football
+2023-06-20,Slovenia U21,Finland U21,1.0,0.0,Friendlies,,,,False,,0,0,0,1035616,10,2023,api_football
+2023-06-20,Azerbaijan U21,Kyrgyzstan U21,1.0,1.0,Friendlies,,,,False,,0,0,0,1036565,10,2023,api_football
+2023-06-20,Slovakia U21,Austria U21,1.0,1.0,Friendlies,,,,False,,0,0,0,1035617,10,2023,api_football
+2023-06-20,Montenegro,Czech Republic,1.0,4.0,Friendlies,,,,False,,0,0,0,994031,10,2023,api_football
+2023-06-20,Malta U21,North Macedonia U21,0.0,4.0,Friendlies,,,,False,,0,0,0,1035615,10,2023,api_football
+2023-06-20,Bulgaria U21,Albania U21,1.0,3.0,Friendlies,,,,False,,0,0,0,1035614,10,2023,api_football
+2023-06-20,Turkey U21,Bosnia-Herzegovina U21,4.0,1.0,Friendlies,,,,False,,0,0,0,1035618,10,2023,api_football
+2023-06-20,Iraq U23,Iran U23,1.0,1.0,Friendlies,,,,False,,0,0,0,1036566,10,2023,api_football
+2023-06-20,Germany,Colombia,0.0,2.0,Friendlies,,,,False,,0,0,0,1028658,10,2023,api_football
+2023-06-20,Brazil,Senegal,2.0,4.0,Friendlies,,,,False,,0,0,0,1028929,10,2023,api_football
+2023-06-20,Algeria,Tunisia,1.0,1.0,Friendlies,,,,False,,0,0,0,1031232,10,2023,api_football
+2023-06-20,Uruguay,Cuba,2.0,0.0,Friendlies,,,,False,,0,0,0,1028659,10,2023,api_football
+2023-06-21,Bolivia,Chile,0.0,0.0,Friendlies,,,,False,,0,0,0,1028661,10,2023,api_football
+2023-06-21,Costa Rica,Ecuador,1.0,3.0,Friendlies,,,,False,,0,0,0,1035619,10,2023,api_football
+2023-06-21,Ecuador,Costa Rica,3.0,1.0,Friendlies,,,,False,,0,0,0,1028660,10,2023,api_football
+2023-06-28,Finland U17,Latvia U17,4.0,1.0,Friendlies,,,,False,,0,0,0,1037605,10,2023,api_football
+2023-06-28,Lithuania U17,Estonia U17,2.0,4.0,Friendlies,,,,False,,0,0,0,1037606,10,2023,api_football
+2023-06-30,Latvia U17,Estonia U17,3.0,3.0,Friendlies,,,,False,,0,0,0,1037941,10,2023,api_football
+2023-06-30,Lithuania U17,Finland U17,1.0,3.0,Friendlies,,,,False,,0,0,0,1037942,10,2023,api_football
+2023-07-02,Finland U17,Estonia U17,4.0,0.0,Friendlies,,,,False,,0,0,0,1041985,10,2023,api_football
+2023-07-02,Latvia U17,Lithuania U17,0.0,2.0,Friendlies,,,,False,,0,0,0,1041986,10,2023,api_football
+2023-08-02,Ethiopia,Guyana,2.0,0.0,Friendlies,,,,False,,0,0,0,1028666,10,2023,api_football
+2023-08-27,Bolivia,Panama,1.0,2.0,Friendlies,,,,False,,0,0,0,1104374,10,2023,api_football
+2023-08-29,Tahiti,Cook Islands,9.0,1.0,Friendlies,,,,False,,0,0,0,1125027,10,2023,api_football
+2023-09-01,Tahiti,Cook Islands,3.0,0.0,Friendlies,,,,False,,0,0,0,1125028,10,2023,api_football
+2023-09-03,Bangladesh,Afghanistan,0.0,0.0,Friendlies,,,,False,,0,0,0,1121900,10,2023,api_football
+2023-09-03,Guatemala,Honduras,0.0,0.0,Friendlies,,,,False,,0,0,0,1102881,10,2023,api_football
+2023-09-06,Malaysia,Syria,2.0,2.0,Friendlies,,,,False,,0,0,0,1102884,10,2023,api_football
+2023-09-06,Mação,Bhutan,0.0,1.0,Friendlies,,,,False,,0,0,0,1116901,10,2023,api_football
+2023-09-06,Oman,Palestine,2.0,1.0,Friendlies,,,,False,,0,0,0,1102885,10,2023,api_football
+2023-09-06,Malta,Gibraltar,1.0,0.0,Friendlies,,,,False,,0,0,0,1115902,10,2023,api_football
+2023-09-07,Bangladesh,Afghanistan,1.0,1.0,Friendlies,,,,False,,0,0,0,1102886,10,2023,api_football
+2023-09-07,Cambodia,Hong Kong,1.0,1.0,Friendlies,,,,False,,0,0,0,1115485,10,2023,api_football
+2023-09-07,Bahrain,Kuwait,1.0,3.0,Friendlies,,,,False,,0,0,0,1119710,10,2023,api_football
+2023-09-07,Qatar,Kenya,1.0,2.0,Friendlies,,,,False,,0,0,0,1124141,10,2023,api_football
+2023-09-07,Bulgaria,Iran,0.0,1.0,Friendlies,,,,False,,0,0,0,1087029,10,2023,api_football
+2023-09-07,Norway,Jordan,6.0,0.0,Friendlies,,,,False,,0,0,0,1012348,10,2023,api_football
+2023-09-07,Austria,Moldova,1.0,1.0,Friendlies,,,,False,,0,0,0,1068052,10,2023,api_football
+2023-09-07,Wales,South Korea,0.0,0.0,Friendlies,,,,False,,0,0,0,1028949,10,2023,api_football
+2023-09-08,Myanmar,Nepal,0.0,0.0,Friendlies,,,,False,,0,0,0,1115486,10,2023,api_football
+2023-09-08,Chinese Taipei,Philippines,1.0,1.0,Friendlies,,,,False,,0,0,0,1081947,10,2023,api_football
+2023-09-08,Singapore,Tajikistan,0.0,2.0,Friendlies,,,,False,,0,0,0,1068054,10,2023,api_football
+2023-09-08,Indonesia,Turkmenistan,2.0,0.0,Friendlies,,,,False,,0,0,0,1131720,10,2023,api_football
+2023-09-08,Saudi Arabia,Costa Rica,1.0,3.0,Friendlies,,,,False,,0,0,0,1119707,10,2023,api_football
+2023-09-09,China,Malaysia,1.0,1.0,Friendlies,,,,False,,0,0,0,1102882,10,2023,api_football
+2023-09-09,South Africa,Namibia,0.0,0.0,Friendlies,,,,False,,0,0,0,1119525,10,2023,api_football
+2023-09-09,Germany,Japan,1.0,4.0,Friendlies,,,,False,,0,0,0,1029480,10,2023,api_football
+2023-09-09,United States,Uzbekistan,3.0,0.0,Friendlies,,,,False,,0,0,0,1045877,10,2023,api_football
+2023-09-10,Mexico,Australia,2.0,2.0,Friendlies,,,,False,,0,0,0,1081943,10,2023,api_football
+2023-09-10,Hungary,Czech Republic,1.0,1.0,Friendlies,,,,False,,0,0,0,995738,10,2023,api_football
+2023-09-11,Myanmar,Nepal,1.0,0.0,Friendlies,,,,False,,0,0,0,1115487,10,2023,api_football
+2023-09-11,Cambodia,Mação,4.0,0.0,Friendlies,,,,False,,0,0,0,1115488,10,2023,api_football
+2023-09-11,Hong Kong,Brunei,10.0,0.0,Friendlies,,,,False,,0,0,0,1100659,10,2023,api_football
+2023-09-11,Vietnam,Palestine,2.0,0.0,Friendlies,,,,False,,0,0,0,1102887,10,2023,api_football
+2023-09-11,Kyrgyzstan,Kuwait,3.0,1.0,Friendlies,,,,False,,0,0,0,1119711,10,2023,api_football
+2023-09-12,Philippines,Afghanistan,2.0,1.0,Friendlies,,,,False,,0,0,0,1102888,10,2023,api_football
+2023-09-12,Singapore,Chinese Taipei,3.0,1.0,Friendlies,,,,False,,0,0,0,1068055,10,2023,api_football
+2023-09-12,China,Syria,0.0,1.0,Friendlies,,,,False,,0,0,0,1102883,10,2023,api_football
+2023-09-12,Japan,Turkey,4.0,2.0,Friendlies,,,,False,,0,0,0,1043743,10,2023,api_football
+2023-09-12,Kenya,South Sudan,0.0,1.0,Friendlies,,,,False,,0,0,0,1124142,10,2023,api_football
+2023-09-12,Costa Rica,United Arab Emirates,1.0,4.0,Friendlies,,,,False,,0,0,0,1125812,10,2023,api_football
+2023-09-12,South Africa,DR Congo,1.0,0.0,Friendlies,,,,False,,0,0,0,1119526,10,2023,api_football
+2023-09-12,Bahrain,Turkmenistan,1.0,1.0,Friendlies,,,,False,,0,0,0,1119712,10,2023,api_football
+2023-09-12,Qatar,Russia,1.0,1.0,Friendlies,,,,False,,0,0,0,1126537,10,2023,api_football
+2023-09-12,Iran,Angola,4.0,0.0,Friendlies,,,,False,,0,0,0,1132058,10,2023,api_football
+2023-09-12,Azerbaijan,Jordan,2.0,1.0,Friendlies,,,,False,,0,0,0,1012365,10,2023,api_football
+2023-09-12,Ghana,Liberia,3.0,1.0,Friendlies,,,,False,,0,0,0,1126538,10,2023,api_football
+2023-09-12,Saudi Arabia,South Korea,0.0,1.0,Friendlies,,,,False,,0,0,0,1119708,10,2023,api_football
+2023-09-12,Egypt,Tunisia,1.0,3.0,Friendlies,,,,False,,0,0,0,1042721,10,2023,api_football
+2023-09-12,Morocco,Burkina Faso,1.0,0.0,Friendlies,,,,False,,0,0,0,1062452,10,2023,api_football
+2023-09-12,Scotland,England,1.0,3.0,Friendlies,,,,False,,0,0,0,984806,10,2023,api_football
+2023-09-12,Senegal,Algeria,0.0,1.0,Friendlies,,,,False,,0,0,0,1061059,10,2023,api_football
+2023-09-12,Germany,France,2.0,1.0,Friendlies,,,,False,,0,0,0,1029481,10,2023,api_football
+2023-09-12,Mexico,Uzbekistan,3.0,3.0,Friendlies,,,,False,,0,0,0,1081944,10,2023,api_football
+2023-09-13,United States,Oman,4.0,0.0,Friendlies,,,,False,,0,0,0,1045878,10,2023,api_football
+2023-09-30,Botswana,Zimbabwe,1.0,1.0,Friendlies,,,,False,,0,0,0,1136356,10,2023,api_football
+2023-10-08,Papua New Guinea,Solomon Islands,1.0,3.0,Friendlies,,,,False,,0,0,0,1136020,10,2023,api_football
+2023-10-08,New Caledonia,Vanuatu,4.0,0.0,Friendlies,,,,False,,0,0,0,1136021,10,2023,api_football
+2023-10-10,China,Vietnam,2.0,0.0,Friendlies,,,,False,,0,0,0,1136018,10,2023,api_football
+2023-10-11,Solomon Islands,Vanuatu,1.0,0.0,Friendlies,,,,False,,0,0,0,1136022,10,2023,api_football
+2023-10-11,Papua New Guinea,New Caledonia,1.0,3.0,Friendlies,,,,False,,0,0,0,1136023,10,2023,api_football
+2023-10-11,Wales,Gibraltar,4.0,0.0,Friendlies,,,,False,,0,0,0,1012349,10,2023,api_football
+2023-10-12,Russia,Cameroon,1.0,0.0,Friendlies,,,,False,,0,0,0,1136685,10,2023,api_football
+2023-10-12,Egypt,Zambia,1.0,0.0,Friendlies,,,,False,,0,0,0,1135750,10,2023,api_football
+2023-10-12,Georgia,Thailand,8.0,0.0,Friendlies,,,,False,,0,0,0,1012350,10,2023,api_football
+2023-10-12,Montenegro,Lebanon,3.0,2.0,Friendlies,,,,False,,0,0,0,1124144,10,2023,api_football
+2023-10-12,Bahrain,Kyrgyzstan,2.0,0.0,Friendlies,,,,False,,0,0,0,1126769,10,2023,api_football
+2023-10-12,United Arab Emirates,Kuwait,1.0,0.0,Friendlies,,,,False,,0,0,0,1135484,10,2023,api_football
+2023-10-12,Sweden,Moldova,3.0,1.0,Friendlies,,,,False,,0,0,0,1015108,10,2023,api_football
+2023-10-12,Algeria,Cape Verde,5.0,1.0,Friendlies,,,,False,,0,0,0,1135018,10,2023,api_football
+2023-10-13,Japan,Canada,4.0,1.0,Friendlies,,,,False,,0,0,0,1114142,10,2023,api_football
+2023-10-13,South Korea,Tunisia,4.0,0.0,Friendlies,,,,False,,0,0,0,1119709,10,2023,api_football
+2023-10-13,Vietnam,Uzbekistan,0.0,2.0,Friendlies,,,,False,,0,0,0,1123356,10,2023,api_football
+2023-10-13,Malaysia,India,4.0,2.0,Friendlies,,,,False,,0,0,0,1122369,10,2023,api_football
+2023-10-13,Equatorial Guinea,Burkina Faso,0.0,0.0,Friendlies,,,,False,,0,0,0,1136357,10,2023,api_football
+2023-10-13,Angola,Mozambique,1.0,1.0,Friendlies,,,,False,,0,0,0,1137560,10,2023,api_football
+2023-10-13,Qatar,Iraq,0.0,0.0,Friendlies,,,,False,,0,0,0,1125813,10,2023,api_football
+2023-10-13,Saudi Arabia,Nigeria,2.0,2.0,Friendlies,,,,False,,0,0,0,1132669,10,2023,api_football
+2023-10-13,Guinea,Guinea-Bissau,1.0,0.0,Friendlies,,,,False,,0,0,0,1137687,10,2023,api_football
+2023-10-13,South Africa,Eswatini,0.0,0.0,Friendlies,,,,False,,0,0,0,1119527,10,2023,api_football
+2023-10-13,New Zealand,DR Congo,1.0,1.0,Friendlies,,,,False,,0,0,0,1133449,10,2023,api_football
+2023-10-13,Jordan,Iran,1.0,3.0,Friendlies,,,,False,,0,0,0,1125814,10,2023,api_football
+2023-10-13,England,Australia,1.0,0.0,Friendlies,,,,False,,0,0,0,1012351,10,2023,api_football
+2023-10-13,Mali,Uganda,1.0,0.0,Friendlies,,,,False,,0,0,0,1136358,10,2023,api_football
+2023-10-14,Papua New Guinea,Vanuatu,0.0,1.0,Friendlies,,,,False,,0,0,0,1136025,10,2023,api_football
+2023-10-14,Solomon Islands,New Caledonia,1.0,0.0,Friendlies,,,,False,,0,0,0,1136026,10,2023,api_football
+2023-10-14,Liberia,Libya,2.0,3.0,Friendlies,,,,False,,0,0,0,1137561,10,2023,api_football
+2023-10-14,Sierra Leone,Benin,1.0,1.0,Friendlies,,,,False,,0,0,0,1137784,10,2023,api_football
+2023-10-14,Niger,Somalia,3.0,0.0,Friendlies,,,,False,,0,0,0,1137783,10,2023,api_football
+2023-10-14,Ivory Coast,Morocco,1.0,1.0,Friendlies,,,,False,,0,0,0,1135751,10,2023,api_football
+2023-10-14,Mauritania,Madagascar,2.0,1.0,Friendlies,,,,False,,0,0,0,1137562,10,2023,api_football
+2023-10-14,United States,Germany,1.0,3.0,Friendlies,,,,False,,0,0,0,1029482,10,2023,api_football
+2023-10-15,Sudan,Tanzania,1.0,1.0,Friendlies,,,,False,,0,0,0,1138749,10,2023,api_football
+2023-10-15,Mexico,Ghana,2.0,0.0,Friendlies,,,,False,,0,0,0,1081945,10,2023,api_football
+2023-10-15,Kyrgyzstan,Philippines,0.0,1.0,Friendlies,,,,False,,0,0,0,1136686,10,2023,api_football
+2023-10-16,China,Uzbekistan,1.0,2.0,Friendlies,,,,False,,0,0,0,1123355,10,2023,api_football
+2023-10-16,Botswana,Eswatini,2.0,1.0,Friendlies,,,,False,,0,0,0,1138346,10,2023,api_football
+2023-10-16,Mozambique,Nigeria,2.0,3.0,Friendlies,,,,False,,0,0,0,1136019,10,2023,api_football
+2023-10-16,Egypt,Algeria,1.0,1.0,Friendlies,,,,False,,0,0,0,1135019,10,2023,api_football
+2023-10-16,Kenya,Russia,2.0,2.0,Friendlies,,,,False,,0,0,0,1136474,10,2023,api_football
+2023-10-16,Senegal,Cameroon,1.0,0.0,Friendlies,,,,False,,0,0,0,1134242,10,2023,api_football
+2023-10-17,Chad,Sudan,0.0,1.0,Friendlies,,,,False,,0,0,0,1138803,10,2023,api_football
+2023-10-17,Japan,Tunisia,2.0,0.0,Friendlies,,,,False,,0,0,0,1114143,10,2023,api_football
+2023-10-17,South Korea,Vietnam,6.0,0.0,Friendlies,,,,False,,0,0,0,1132670,10,2023,api_football
+2023-10-17,FYR Macedonia,Armenia,3.0,1.0,Friendlies,,,,False,,0,0,0,1115484,10,2023,api_football
+2023-10-17,Cape Verde,Comoros,1.0,2.0,Friendlies,,,,False,,0,0,0,1137563,10,2023,api_football
+2023-10-17,Malaysia,Tajikistan,0.0,2.0,Friendlies,,,,False,,0,0,0,1138412,10,2023,api_football
+2023-10-17,Angola,DR Congo,0.0,0.0,Friendlies,,,,False,,0,0,0,1136359,10,2023,api_football
+2023-10-17,Iraq,Jordan,2.0,2.0,Friendlies,,,,False,,0,0,0,1138456,10,2023,api_football
+2023-10-17,Saudi Arabia,Mali,1.0,3.0,Friendlies,,,,False,,0,0,0,1126768,10,2023,api_football
+2023-10-17,Zambia,Uganda,3.0,0.0,Friendlies,,,,False,,0,0,0,1137558,10,2023,api_football
+2023-10-17,Madagascar,Benin,2.0,1.0,Friendlies,,,,False,,0,0,0,1138413,10,2023,api_football
+2023-10-17,Libya,Niger,1.0,1.0,Friendlies,,,,False,,0,0,0,1137786,10,2023,api_football
+2023-10-17,Somalia,Sierra Leone,0.0,2.0,Friendlies,,,,False,,0,0,0,1137787,10,2023,api_football
+2023-10-17,Albania,Bulgaria,2.0,0.0,Friendlies,,,,False,,0,0,0,1087030,10,2023,api_football
+2023-10-17,Estonia,Thailand,1.0,1.0,Friendlies,,,,False,,0,0,0,1012352,10,2023,api_football
+2023-10-17,Bahrain,Kyrgyzstan,1.0,0.0,Friendlies,,,,False,,0,0,0,1119714,10,2023,api_football
+2023-10-17,United Arab Emirates,Lebanon,2.0,1.0,Friendlies,,,,False,,0,0,0,1135485,10,2023,api_football
+2023-10-17,Syria,Kuwait,1.0,2.0,Friendlies,,,,False,,0,0,0,1137785,10,2023,api_football
+2023-10-17,Guinea,Guinea-Bissau,1.0,1.0,Friendlies,,,,False,,0,0,0,1136601,10,2023,api_football
+2023-10-17,Qatar,Iran,0.0,4.0,Friendlies,,,,False,,0,0,0,1138455,10,2023,api_football
+2023-10-17,Mauritania,Burkina Faso,1.0,2.0,Friendlies,,,,False,,0,0,0,1136855,10,2023,api_football
+2023-10-17,Australia,New Zealand,2.0,0.0,Friendlies,,,,False,,0,0,0,1068053,10,2023,api_football
+2023-10-17,France,Scotland,4.0,1.0,Friendlies,,,,False,,0,0,0,1028662,10,2023,api_football
+2023-10-17,Ivory Coast,South Africa,1.0,1.0,Friendlies,,,,False,,0,0,0,1119528,10,2023,api_football
+2023-10-18,Mexico,Germany,2.0,2.0,Friendlies,,,,False,,0,0,0,1081946,10,2023,api_football
+2023-10-18,United States,Ghana,4.0,0.0,Friendlies,,,,False,,0,0,0,1029483,10,2023,api_football
+2023-11-12,Guatemala,Jamaica,0.0,0.0,Friendlies,,,,False,,0,0,0,1138802,10,2023,api_football
+2023-11-15,Belgium,Serbia,1.0,0.0,Friendlies,,,,False,,0,0,0,1028663,10,2023,api_football
+2023-11-16,Norway,Faroe Islands,2.0,0.0,Friendlies,,,,False,,0,0,0,1012353,10,2023,api_football
+2023-11-17,Curaçao,El Salvador,1.0,1.0,Friendlies,,,,False,,0,0,0,1142259,10,2023,api_football
+2023-11-17,Greece,New Zealand,2.0,0.0,Friendlies,,,,False,,0,0,0,1133448,10,2023,api_football
+2023-11-18,Germany,Turkey,2.0,3.0,Friendlies,,,,False,,0,0,0,1137559,10,2023,api_football
+2023-11-19,Cyprus,Lithuania,1.0,0.0,Friendlies,,,,False,,0,0,0,994032,10,2023,api_football
+2023-11-20,Russia,Cuba,8.0,0.0,Friendlies,,,,False,,0,0,0,1141287,10,2023,api_football
+2023-11-21,Curaçao,El Salvador,1.0,1.0,Friendlies,,,,False,,0,0,0,1142260,10,2023,api_football
+2023-11-21,Poland,Latvia,2.0,0.0,Friendlies,,,,False,,0,0,0,1043108,10,2023,api_football
+2023-11-21,Austria,Germany,2.0,0.0,Friendlies,,,,False,,0,0,0,1117888,10,2023,api_football
+2023-11-21,Rep. Of Ireland,New Zealand,1.0,1.0,Friendlies,,,,False,,0,0,0,1124143,10,2023,api_football
+2023-12-10,Colombia,Venezuela,1.0,0.0,Friendlies,,,,False,,0,0,0,1143449,10,2023,api_football
+2023-12-17,Mexico,Colombia,2.0,3.0,Friendlies,,,,False,,0,0,0,1135752,10,2023,api_football
+2023-12-25,Uzbekistan,Kyrgyzstan,4.0,1.0,Friendlies,,,,False,,0,0,0,1149501,10,2023,api_football
+2023-12-28,Lebanon,Jordan,2.0,1.0,Friendlies,,,,False,,0,0,0,1149579,10,2023,api_football
+2023-12-29,China,Oman,0.0,2.0,Friendlies,,,,False,,0,0,0,1150209,10,2023,api_football
+2023-12-30,United Arab Emirates,Kyrgyzstan,1.0,0.0,Friendlies,,,,False,,0,0,0,1147344,10,2023,api_football
+2023-12-31,Qatar,Cambodia,3.0,0.0,Friendlies,,,,False,,0,0,0,1140878,10,2023,api_football
+2024-01-06,Bahrain,Australia,0.0,2.0,Friendlies,,,,False,,0,0,0,1135020,10,2023,api_football
+2024-01-07,Morocco,Gambia,,,Friendlies,,,,False,,0,0,0,1155246,10,2024,api_football
+2024-01-08,Ghana,Botswana,,,Friendlies,,,,False,,0,0,0,1155248,10,2024,api_football
+2024-01-08,Cameroon,Equatorial Guinea,,,Friendlies,,,,False,,0,0,0,1155247,10,2024,api_football
+2024-03-21,Zambia U20,Zimbabwe U20,,,Friendlies,,,,False,,0,0,0,1189527,10,2024,api_football
+2024-03-24,Finland U18,Georgia U18,,,Friendlies,,,,False,,0,0,0,1189576,10,2024,api_football
+2024-03-25,Russia,Paraguay,,,Friendlies,,,,False,,0,0,0,1174681,10,2024,api_football
+2024-03-26,Turkey U18,North Macedonia U18,,,Friendlies,,,,False,,0,0,0,1189614,10,2024,api_football
+2024-03-26,Peru,Dominican Republic,,,Friendlies,,,,False,,0,0,0,1189621,10,2024,api_football
+2024-04-02,Qatar U23,China PR U23,0.0,0.0,Friendlies,,,,False,,0,0,0,1189623,10,2024,api_football
+2024-08-31,Vanuatu,New Caledonia,,,Friendlies,,,,False,,0,0,0,1296256,10,2024,api_football
+2024-09-07,Russia,Thailand,,,Friendlies,,,,False,,0,0,0,1293946,10,2024,api_football
+2024-10-09,Vietnam,India,,,Friendlies,,,,False,,0,0,0,1223560,10,2024,api_football
+2024-10-10,Malta,Turkmenistan,,,Friendlies,,,,False,,0,0,0,1308571,10,2024,api_football
+2024-10-12,India,Lebanon,,,Friendlies,,,,False,,0,0,0,1223561,10,2024,api_football
+2024-10-15,Vietnam,Lebanon,,,Friendlies,,,,False,,0,0,0,1223562,10,2024,api_football
+2024-01-01,Japan,Thailand,5.0,0.0,Friendlies,,,,False,,0,0,0,1155234,10,2024,api_football
+2024-01-01,China,Hong Kong,1.0,2.0,Friendlies,,,,False,,0,0,0,1155235,10,2024,api_football
+2024-01-02,Indonesia,Libya,0.0,4.0,Friendlies,,,,False,,0,0,0,1155236,10,2024,api_football
+2024-01-04,Hong Kong,Tajikistan,1.0,2.0,Friendlies,,,,False,,0,0,0,1155288,10,2024,api_football
+2024-01-04,Saudi Arabia,Lebanon,1.0,0.0,Friendlies,,,,False,,0,0,0,1155237,10,2024,api_football
+2024-01-05,Indonesia,Libya,1.0,2.0,Friendlies,,,,False,,0,0,0,1155239,10,2024,api_football
+2024-01-05,Iran,Burkina Faso,2.0,1.0,Friendlies,,,,False,,0,0,0,1155240,10,2024,api_football
+2024-01-05,Syria,Kyrgyzstan,1.0,1.0,Friendlies,,,,False,,0,0,0,1155289,10,2024,api_football
+2024-01-05,Qatar,Jordan,1.0,2.0,Friendlies,,,,False,,0,0,0,1155238,10,2024,api_football
+2024-01-06,DR Congo,Angola,0.0,0.0,Friendlies,,,,False,,0,0,0,1155291,10,2024,api_football
+2024-01-06,Iraq,South Korea,0.0,1.0,Friendlies,,,,False,,0,0,0,1155241,10,2024,api_football
+2024-01-06,Mozambique,Lesotho,2.0,0.0,Friendlies,,,,False,,0,0,0,1155290,10,2024,api_football
+2024-01-06,Bahrain,Australia,0.0,2.0,Friendlies,,,,False,,0,0,0,1155242,10,2024,api_football
+2024-01-06,United Arab Emirates,Oman,0.0,1.0,Friendlies,,,,False,,0,0,0,1155283,10,2024,api_football
+2024-01-06,Ivory Coast,Sierra Leone,5.0,1.0,Friendlies,,,,False,,0,0,0,1155243,10,2024,api_football
+2024-01-06,Tunisia,Mauritania,0.0,0.0,Friendlies,,,,False,,0,0,0,1155244,10,2024,api_football
+2024-01-06,Mali,Guinea-Bissau,6.0,2.0,Friendlies,,,,False,,0,0,0,1155292,10,2024,api_football
+2024-01-07,Palestine,Uzbekistan,0.0,1.0,Friendlies,,,,False,,0,0,0,1155293,10,2024,api_football
+2024-01-07,Egypt,Tanzania,2.0,0.0,Friendlies,,,,False,,0,0,0,1155245,10,2024,api_football
+2024-01-08,Guinea,Nigeria,2.0,0.0,Friendlies,,,,False,,0,0,0,1155316,10,2024,api_football
+2024-01-08,Syria,Malaysia,2.0,2.0,Friendlies,,,,False,,0,0,0,1155294,10,2024,api_football
+2024-01-08,Botswana,Mozambique,1.0,1.0,Friendlies,,,,False,,0,0,0,1155284,10,2024,api_football
+2024-01-08,Senegal,Niger,1.0,0.0,Friendlies,,,,False,,0,0,0,1155249,10,2024,api_football
+2024-01-08,Ghana,Namibia,0.0,0.0,Friendlies,,,,False,,0,0,0,1155250,10,2024,api_football
+2024-01-09,Japan,Jordan,6.0,1.0,Friendlies,,,,False,,0,0,0,1155251,10,2024,api_football
+2024-01-09,Zambia,Cameroon,1.0,1.0,Friendlies,,,,False,,0,0,0,1155253,10,2024,api_football
+2024-01-09,Kyrgyzstan,Vietnam,2.0,1.0,Friendlies,,,,False,,0,0,0,1155295,10,2024,api_football
+2024-01-09,Equatorial Guinea,Djibouti,1.0,1.0,Friendlies,,,,False,,0,0,0,1155296,10,2024,api_football
+2024-01-09,Burundi,Algeria,0.0,4.0,Friendlies,,,,False,,0,0,0,1155254,10,2024,api_football
+2024-01-09,Saudi Arabia,Palestine,0.0,0.0,Friendlies,,,,False,,0,0,0,1155255,10,2024,api_football
+2024-01-09,Indonesia,Iran,0.0,5.0,Friendlies,,,,False,,0,0,0,1155252,10,2024,api_football
+2024-01-10,South Africa,Lesotho,0.0,0.0,Friendlies,,,,False,,0,0,0,1155258,10,2024,api_football
+2024-01-10,DR Congo,Burkina Faso,1.0,2.0,Friendlies,,,,False,,0,0,0,1155297,10,2024,api_football
+2024-01-10,Saudi Arabia,Hong Kong,2.0,0.0,Friendlies,,,,False,,0,0,0,1155257,10,2024,api_football
+2024-01-10,Tunisia,Cape Verde,2.0,0.0,Friendlies,,,,False,,0,0,0,1155256,10,2024,api_football
+2024-01-11,Morocco,Sierra Leone,3.0,1.0,Friendlies,,,,False,,0,0,0,1155678,10,2024,api_football
+2024-01-12,Kuwait,Libya,1.0,3.0,Friendlies,,,,False,,0,0,0,1155298,10,2024,api_football
+2024-01-12,Sweden,Estonia,2.0,1.0,Friendlies,,,,False,,0,0,0,1155259,10,2024,api_football
+2024-01-13,Guatemala,Iceland,0.0,1.0,Friendlies,,,,False,,0,0,0,1155260,10,2024,api_football
+2024-01-18,Honduras,Iceland,0.0,2.0,Friendlies,,,,False,,0,0,0,1155261,10,2024,api_football
+2024-01-19,Kuwait,Uganda,0.0,2.0,Friendlies,,,,False,,0,0,0,1155299,10,2024,api_football
+2024-01-20,United States,Slovenia,0.0,1.0,Friendlies,,,,False,,0,0,0,1155262,10,2024,api_football
+2024-02-03,Costa Rica,El Salvador,2.0,0.0,Friendlies,,,,False,,0,0,0,1155263,10,2024,api_football
+2024-03-01,Trinidad and Tobago,Jamaica,0.0,1.0,Friendlies,,,,False,,0,0,0,1179655,10,2024,api_football
+2024-03-03,Trinidad and Tobago,Jamaica,0.0,0.0,Friendlies,,,,False,,0,0,0,1179656,10,2024,api_football
+2024-03-14,Kazakhstan,Turkmenistan,2.0,0.0,Friendlies,,,,False,,0,0,0,1169679,10,2024,api_football
+2024-03-15,Malaysia,Nepal,5.0,1.0,Friendlies,,,,False,,0,0,0,1184429,10,2024,api_football
+2024-03-18,Solomon Islands,Fiji,2.0,1.0,Friendlies,,,,False,,0,0,0,1184430,10,2024,api_football
+2024-03-19,Jordan U20,Syria U20,4.0,1.0,Friendlies,,,,False,,0,0,0,1189518,10,2024,api_football
+2024-03-20,Czech Republic U18,England U18,1.0,2.0,Friendlies,,,,False,,0,0,0,1189519,10,2024,api_football
+2024-03-20,Malawi U20,Zimbabwe U20,3.0,2.0,Friendlies,,,,False,,0,0,0,1189520,10,2024,api_football
+2024-03-20,Hungary U20,Iceland U20,2.0,0.0,Friendlies,,,,False,,0,0,0,1189521,10,2024,api_football
+2024-03-20,Tajikistan U23,Vietnam U23,0.0,1.0,Friendlies,,,,False,,0,0,0,1189523,10,2024,api_football
+2024-03-20,Norway U18,Norway U19,3.0,2.0,Friendlies,,,,False,,0,0,0,1189522,10,2024,api_football
+2024-03-20,Netherlands U18,Germany U18,0.0,1.0,Friendlies,,,,False,,0,0,0,1189524,10,2024,api_football
+2024-03-20,Malta U19,Albania U19,0.0,1.0,Friendlies,,,,False,,0,0,0,1189525,10,2024,api_football
+2024-03-20,San Marino,St. Kitts and Nevis,1.0,3.0,Friendlies,,,,False,,0,0,0,1155285,10,2024,api_football
+2024-03-20,Algeria U20,Egypt U20,2.0,1.0,Friendlies,,,,False,,0,0,0,1189526,10,2024,api_football
+2024-03-20,El Salvador,Bonaire,1.0,1.0,Friendlies,,,,False,,0,0,0,1179657,10,2024,api_football
+2024-03-21,Solomon Islands,Fiji,0.0,2.0,Friendlies,,,,False,,0,0,0,1184431,10,2024,api_football
+2024-03-21,Ethiopia,Lesotho,1.0,2.0,Friendlies,,,,False,,0,0,0,1184787,10,2024,api_football
+2024-03-21,Hull City,Curaçao,0.0,1.0,Friendlies,,,,False,,0,0,0,1189529,10,2024,api_football
+2024-03-21,Cyprus U18,Poland U18,0.0,1.0,Friendlies,,,,False,,0,0,0,1189528,10,2024,api_football
+2024-03-21,Italy U18,Austria U18,2.0,1.0,Friendlies,,,,False,,0,0,0,1189530,10,2024,api_football
+2024-03-21,Czech Republic U21,Northern Ireland U21,3.0,0.0,Friendlies,,,,False,,0,0,0,1189531,10,2024,api_football
+2024-03-21,Russia,Serbia,4.0,0.0,Friendlies,,,,False,,0,0,0,1155264,10,2024,api_football
+2024-03-21,Belarus,Montenegro,0.0,2.0,Friendlies,,,,False,,0,0,0,1169680,10,2024,api_football
+2024-03-21,Cyprus,Latvia,1.0,1.0,Friendlies,,,,False,,0,0,0,1155286,10,2024,api_football
+2024-03-21,Hungary U21,Moldova U21,2.0,0.0,Friendlies,,,,False,,0,0,0,1189532,10,2024,api_football
+2024-03-21,Malta,Slovenia,2.0,2.0,Friendlies,,,,False,,0,0,0,1165953,10,2024,api_football
+2024-03-21,Spain U21,Slovakia U21,0.0,2.0,Friendlies,,,,False,,0,0,0,1189534,10,2024,api_football
+2024-03-21,Guinea,Vanuatu,6.0,0.0,Friendlies,,,,False,,0,0,0,1175759,10,2024,api_football
+2024-03-21,Cape Verde,Guyana,1.0,0.0,Friendlies,,,,False,,0,0,0,1178425,10,2024,api_football
+2024-03-21,Netherlands U21,Norway U21,1.0,2.0,Friendlies,,,,False,,0,0,0,1189535,10,2024,api_football
+2024-03-21,Portugal,Sweden,5.0,2.0,Friendlies,,,,False,,0,0,0,1155265,10,2024,api_football
+2024-03-21,Italy,Venezuela,2.0,1.0,Friendlies,,,,False,,0,0,0,1171087,10,2024,api_football
+2024-03-21,Andorra,South Africa,1.0,1.0,Friendlies,,,,False,,0,0,0,1189536,10,2024,api_football
+2024-03-21,Tunisia U20,Mauritania U20,3.0,1.0,Friendlies,,,,False,,0,0,0,1189537,10,2024,api_football
+2024-03-22,Ecuador,Guatemala,2.0,0.0,Friendlies,,,,False,,0,0,0,1171088,10,2024,api_football
+2024-03-22,Belize,Puerto Rico,1.0,1.0,Friendlies,,,,False,,0,0,0,1160562,10,2024,api_football
+2024-03-22,Central African Republic,Bhutan,6.0,0.0,Friendlies,,,,False,,0,0,0,1172563,10,2024,api_football
+2024-03-22,Madagascar,Burundi,1.0,0.0,Friendlies,,,,False,,0,0,0,1183794,10,2024,api_football
+2024-03-22,Japan U23,Mali U23,1.0,3.0,Friendlies,,,,False,,0,0,0,1189539,10,2024,api_football
+2024-03-22,England U18,Germany U18,0.0,0.0,Friendlies,,,,False,,0,0,0,1189540,10,2024,api_football
+2024-03-22,Tanzania,Bulgaria,0.0,1.0,Friendlies,,,,False,,0,0,0,1165954,10,2024,api_football
+2024-03-22,Botswana,Rwanda,0.0,0.0,Friendlies,,,,False,,0,0,0,1182788,10,2024,api_football
+2024-03-22,Zimbabwe U20,Kenya U20,1.0,3.0,Friendlies,,,,False,,0,0,0,1189542,10,2024,api_football
+2024-03-22,Cyprus U21,Sweden U21,1.0,6.0,Friendlies,,,,False,,0,0,0,1189543,10,2024,api_football
+2024-03-22,Indonesia U20,China PR U20,1.0,1.0,Friendlies,,,,False,,0,0,0,1189544,10,2024,api_football
+2024-03-22,Germany U20,France U20,3.0,1.0,Friendlies,,,,False,,0,0,0,1189545,10,2024,api_football
+2024-03-22,Malaysia U23,India U23,2.0,1.0,Friendlies,,,,False,,0,0,0,1189546,10,2024,api_football
+2024-03-22,Tunisia U17,Morocco U17,0.0,1.0,Friendlies,,,,False,,0,0,0,1189547,10,2024,api_football
+2024-03-22,FYR Macedonia,Moldova,1.0,1.0,Friendlies,,,,False,,0,0,0,1174092,10,2024,api_football
+2024-03-22,Finland U18,Switzerland U18,3.0,0.0,Friendlies,,,,False,,0,0,0,1189548,10,2024,api_football
+2024-03-22,Hungary U20,Iceland U20,4.0,0.0,Friendlies,,,,False,,0,0,0,1189549,10,2024,api_football
+2024-03-22,Norway U19,Romania U18,1.0,0.0,Friendlies,,,,False,,0,0,0,1189551,10,2024,api_football
+2024-03-22,United States U23,Guinea U23,3.0,0.0,Friendlies,,,,False,,0,0,0,1189552,10,2024,api_football
+2024-03-22,Belgium U18,Wales U18,1.0,0.0,Friendlies,,,,False,,0,0,0,1189550,10,2024,api_football
+2024-03-22,Sri Lanka,Papua New Guinea,0.0,0.0,Friendlies,,,,False,,0,0,0,1172564,10,2024,api_football
+2024-03-22,Nigeria,Ghana,2.0,1.0,Friendlies,,,,False,,0,0,0,1183792,10,2024,api_football
+2024-03-22,Armenia,Kosovo,0.0,1.0,Friendlies,,,,False,,0,0,0,1171753,10,2024,api_football
+2024-03-22,Azerbaijan,Mongolia,1.0,0.0,Friendlies,,,,False,,0,0,0,1175757,10,2024,api_football
+2024-03-22,Norway,Czech Republic,1.0,2.0,Friendlies,,,,False,,0,0,0,1156210,10,2024,api_football
+2024-03-22,Liechtenstein,Faroe Islands,0.0,4.0,Friendlies,,,,False,,0,0,0,1169387,10,2024,api_football
+2024-03-22,Germany U16,Italy U16,3.0,0.0,Friendlies,,,,False,,0,0,0,1189554,10,2024,api_football
+2024-03-22,Turkey U21,Georgia U21,2.0,1.0,Friendlies,,,,False,,0,0,0,1189558,10,2024,api_football
+2024-03-22,France U23,Côte d'Ivoire U23,3.0,2.0,Friendlies,,,,False,,0,0,0,1189556,10,2024,api_football
+2024-03-22,Portugal U18,Georgia U18,4.0,0.0,Friendlies,,,,False,,0,0,0,1189557,10,2024,api_football
+2024-03-22,Czech Republic U18,Netherlands U18,3.0,4.0,Friendlies,,,,False,,0,0,0,1189555,10,2024,api_football
+2024-03-22,Ukraine U21,Morocco U23,1.0,0.0,Friendlies,,,,False,,0,0,0,1189559,10,2024,api_football
+2024-03-22,Malta U19,Albania U19,2.0,2.0,Friendlies,,,,False,,0,0,0,1189560,10,2024,api_football
+2024-03-22,Equatorial Guinea,Cambodia,2.0,0.0,Friendlies,,,,False,,0,0,0,1178428,10,2024,api_football
+2024-03-22,Bermuda,Brunei,2.0,0.0,Friendlies,,,,False,,0,0,0,1175760,10,2024,api_football
+2024-03-22,Senegal,Gabon,3.0,0.0,Friendlies,,,,False,,0,0,0,1182073,10,2024,api_football
+2024-03-22,Austria U21,Denmark U21,1.0,1.0,Friendlies,,,,False,,0,0,0,1189562,10,2024,api_football
+2024-03-22,Hungary,Turkey,1.0,0.0,Friendlies,,,,False,,0,0,0,1172361,10,2024,api_football
+2024-03-22,Romania,Northern Ireland,1.0,1.0,Friendlies,,,,False,,0,0,0,1155266,10,2024,api_football
+2024-03-22,Albania,Chile,0.0,3.0,Friendlies,,,,False,,0,0,0,1174680,10,2024,api_football
+2024-03-22,Netherlands,Scotland,4.0,0.0,Friendlies,,,,False,,0,0,0,1155267,10,2024,api_football
+2024-03-22,Egypt,New Zealand,1.0,0.0,Friendlies,,,,False,,0,0,0,1174754,10,2024,api_football
+2024-03-22,Spain,Colombia,0.0,1.0,Friendlies,,,,False,,0,0,0,1168769,10,2024,api_football
+2024-03-22,Algeria,Bolivia,3.0,2.0,Friendlies,,,,False,,0,0,0,1170216,10,2024,api_football
+2024-03-22,Morocco U18,Denmark U18,0.0,2.0,Friendlies,,,,False,,0,0,0,1189563,10,2024,api_football
+2024-03-22,Comoros,Uganda,4.0,0.0,Friendlies,,,,False,,0,0,0,1182789,10,2024,api_football
+2024-03-22,Morocco,Angola,1.0,0.0,Friendlies,,,,False,,0,0,0,1175042,10,2024,api_football
+2024-03-22,Mali,Mauritania,2.0,0.0,Friendlies,,,,False,,0,0,0,1176915,10,2024,api_football
+2024-03-22,Burkina Faso,Libya,1.0,2.0,Friendlies,,,,False,,0,0,0,1182553,10,2024,api_football
+2024-03-22,Niger,Togo,1.0,2.0,Friendlies,,,,False,,0,0,0,1183407,10,2024,api_football
+2024-03-22,Sudan,Guinea-Bissau,1.0,0.0,Friendlies,,,,False,,0,0,0,1189565,10,2024,api_football
+2024-03-23,Argentina,El Salvador,3.0,0.0,Friendlies,,,,False,,0,0,0,1176913,10,2024,api_football
+2024-03-23,Peru,Nicaragua,2.0,0.0,Friendlies,,,,False,,0,0,0,1162613,10,2024,api_football
+2024-03-23,Mexico U23,Argentina U23,2.0,4.0,Friendlies,,,,False,,0,0,0,1189566,10,2024,api_football
+2024-03-23,Zambia,Zimbabwe,2.0,2.0,Friendlies,,,,False,,0,0,0,1184785,10,2024,api_football
+2024-03-23,Malawi,Kenya,0.0,4.0,Friendlies,,,,False,,0,0,0,1185100,10,2024,api_football
+2024-03-23,Tajikistan U23,Vietnam U23,0.0,0.0,Friendlies,,,,False,,0,0,0,1189567,10,2024,api_football
+2024-03-23,Ivory Coast,Benin,2.0,2.0,Friendlies,,,,False,,0,0,0,1182074,10,2024,api_football
+2024-03-23,Slovakia,Austria,0.0,2.0,Friendlies,,,,False,,0,0,0,1155269,10,2024,api_football
+2024-03-23,Rep. Of Ireland,Belgium,0.0,0.0,Friendlies,,,,False,,0,0,0,1155268,10,2024,api_football
+2024-03-23,Qatar U23,Uzbekistan U23,1.0,1.0,Friendlies,,,,False,,0,0,0,1189568,10,2024,api_football
+2024-03-23,Saudi Arabia U23,China PR U23,1.0,0.0,Friendlies,,,,False,,0,0,0,1189569,10,2024,api_football
+2024-03-23,Uruguay,Basque Country,1.0,1.0,Friendlies,,,,False,,0,0,0,1189570,10,2024,api_football
+2024-03-23,England,Brazil,0.0,1.0,Friendlies,,,,False,,0,0,0,1155270,10,2024,api_football
+2024-03-23,Denmark,Switzerland,0.0,0.0,Friendlies,,,,False,,0,0,0,1155271,10,2024,api_football
+2024-03-23,France,Germany,0.0,2.0,Friendlies,,,,False,,0,0,0,1155272,10,2024,api_football
+2024-03-23,Tunisia,Croatia,0.0,0.0,Friendlies,,,,False,,0,0,0,1174679,10,2024,api_football
+2024-03-23,French Guyana,Haiti,1.0,1.0,Friendlies,,,,False,,0,0,0,1189572,10,2024,api_football
+2024-03-23,Algeria U20,Tunisia U20,2.0,3.0,Friendlies,,,,False,,0,0,0,1189573,10,2024,api_football
+2024-03-23,Mauritania U20,Egypt U20,1.0,2.0,Friendlies,,,,False,,0,0,0,1189574,10,2024,api_football
+2024-03-23,Dominican Republic,Aruba,2.0,0.0,Friendlies,,,,False,,0,0,0,1174093,10,2024,api_football
+2024-03-23,Paraguay U23,Dominican Republic U23,2.0,0.0,Friendlies,,,,False,,0,0,0,1189575,10,2024,api_football
+2024-03-24,Italy U18,Austria U18,2.0,0.0,Friendlies,,,,False,,0,0,0,1189577,10,2024,api_football
+2024-03-24,Croatia U18,Finland U18,2.0,2.0,Friendlies,,,,False,,0,0,0,1189578,10,2024,api_football
+2024-03-24,Ethiopia,Lesotho,2.0,1.0,Friendlies,,,,False,,0,0,0,1184788,10,2024,api_football
+2024-03-24,Alanyaspor,Curaçao,2.0,2.0,Friendlies,,,,False,,0,0,0,1189579,10,2024,api_football
+2024-03-24,Malawi U20,Kenya U20,3.0,1.0,Friendlies,,,,False,,0,0,0,1189581,10,2024,api_football
+2024-03-24,Cyprus U18,Poland U18,0.0,0.0,Friendlies,,,,False,,0,0,0,1189580,10,2024,api_football
+2024-03-24,Norway U18,Romania U18,2.0,2.0,Friendlies,,,,False,,0,0,0,1189583,10,2024,api_football
+2024-03-24,Georgia U18,Denmark U18,1.0,1.0,Friendlies,,,,False,,0,0,0,1189582,10,2024,api_football
+2024-03-24,Suriname,Martinique,1.0,1.0,Friendlies,,,,False,,0,0,0,1175758,10,2024,api_football
+2024-03-24,San Marino,St. Kitts and Nevis,0.0,0.0,Friendlies,,,,False,,0,0,0,1155287,10,2024,api_football
+2024-03-24,Ecuador,Italy,0.0,2.0,Friendlies,,,,False,,0,0,0,1171089,10,2024,api_football
+2024-03-24,Portugal U18,Morocco U18,2.0,1.0,Friendlies,,,,False,,0,0,0,1189585,10,2024,api_football
+2024-03-24,Guatemala,Venezuela,0.0,0.0,Friendlies,,,,False,,0,0,0,1171090,10,2024,api_football
+2024-03-25,Belize,Puerto Rico,3.0,0.0,Friendlies,,,,False,,0,0,0,1160563,10,2024,api_football
+2024-03-25,Central African Republic,Papua New Guinea,4.0,0.0,Friendlies,,,,False,,0,0,0,1172565,10,2024,api_football
+2024-03-25,Germany U18,Czech Republic U18,1.0,4.0,Friendlies,,,,False,,0,0,0,1189587,10,2024,api_football
+2024-03-25,Burundi,Botswana,0.0,0.0,Friendlies,,,,False,,0,0,0,1182790,10,2024,api_football
+2024-03-25,Belgium U18,Wales U18,0.0,1.0,Friendlies,,,,False,,0,0,0,1189588,10,2024,api_football
+2024-03-25,Germany U16,Italy U16,5.0,0.0,Friendlies,,,,False,,0,0,0,1189589,10,2024,api_football
+2024-03-25,Netherlands U18,England U18,1.0,2.0,Friendlies,,,,False,,0,0,0,1189590,10,2024,api_football
+2024-03-25,Tanzania,Mongolia,3.0,0.0,Friendlies,,,,False,,0,0,0,1175043,10,2024,api_football
+2024-03-25,Rwanda,Madagascar,2.0,0.0,Friendlies,,,,False,,0,0,0,1189591,10,2024,api_football
+2024-03-25,Tunisia U17,Morocco U17,1.0,2.0,Friendlies,,,,False,,0,0,0,1189592,10,2024,api_football
+2024-03-25,Indonesia U20,China PR U20,1.0,1.0,Friendlies,,,,False,,0,0,0,1189593,10,2024,api_football
+2024-03-25,France U20,Germany U20,4.0,4.0,Friendlies,,,,False,,0,0,0,1189594,10,2024,api_football
+2024-03-25,Malaysia U23,India U23,1.0,1.0,Friendlies,,,,False,,0,0,0,1189595,10,2024,api_football
+2024-03-25,Sri Lanka,Bhutan,2.0,0.0,Friendlies,,,,False,,0,0,0,1172566,10,2024,api_football
+2024-03-25,Azerbaijan,Bulgaria,1.0,1.0,Friendlies,,,,False,,0,0,0,1165955,10,2024,api_football
+2024-03-25,Cyprus,Serbia,0.0,1.0,Friendlies,,,,False,,0,0,0,1155273,10,2024,api_football
+2024-03-25,Montenegro,FYR Macedonia,1.0,0.0,Friendlies,,,,False,,0,0,0,1169681,10,2024,api_football
+2024-03-25,Sweden,Albania,1.0,0.0,Friendlies,,,,False,,0,0,0,1168770,10,2024,api_football
+2024-03-25,Malta U21,Slovakia U21,1.0,4.0,Friendlies,,,,False,,0,0,0,1189597,10,2024,api_football
+2024-03-25,Guinea,Bermuda,5.0,1.0,Friendlies,,,,False,,0,0,0,1175761,10,2024,api_football
+2024-03-25,Cape Verde,Equatorial Guinea,1.0,0.0,Friendlies,,,,False,,0,0,0,1178429,10,2024,api_football
+2024-03-25,Gabon,Congo,1.0,1.0,Friendlies,,,,False,,0,0,0,1184789,10,2024,api_football
+2024-03-25,France U23,United States U23,2.0,2.0,Friendlies,,,,False,,0,0,0,1189598,10,2024,api_football
+2024-03-25,Comoros,Angola,0.0,0.0,Friendlies,,,,False,,0,0,0,1182791,10,2024,api_football
+2024-03-25,Bolivia,Andorra,1.0,0.0,Friendlies,,,,False,,0,0,0,1170217,10,2024,api_football
+2024-03-25,Tunisia U20,Egypt U20,1.0,1.0,Friendlies,,,,False,,0,0,0,1189599,10,2024,api_football
+2024-03-25,Guinea-Bissau,Sudan,2.0,1.0,Friendlies,,,,False,,0,0,0,1189600,10,2024,api_football
+2024-03-26,Zambia,Malawi,2.0,1.0,Friendlies,,,,False,,0,0,0,1189991,10,2024,api_football
+2024-03-26,Kenya,Zimbabwe,3.0,1.0,Friendlies,,,,False,,0,0,0,1189992,10,2024,api_football
+2024-03-26,Mexico U23,Argentina U23,3.0,0.0,Friendlies,,,,False,,0,0,0,1189601,10,2024,api_football
+2024-03-26,Croatia U18,Switzerland U18,1.0,2.0,Friendlies,,,,False,,0,0,0,1189603,10,2024,api_football
+2024-03-26,Portugal U20,Denmark U20,1.0,4.0,Friendlies,,,,False,,0,0,0,1189610,10,2024,api_football
+2024-03-26,Moldova U19,Estonia U19,2.0,1.0,Friendlies,,,,False,,0,0,0,1189607,10,2024,api_football
+2024-03-26,Cayman Islands,Moldova,0.0,4.0,Friendlies,,,,False,,0,0,0,1187442,10,2024,api_football
+2024-03-26,Portugal U18,Denmark U18,0.0,1.0,Friendlies,,,,False,,0,0,0,1189609,10,2024,api_football
+2024-03-26,Uganda,Ghana,2.0,2.0,Friendlies,,,,False,,0,0,0,1183406,10,2024,api_football
+2024-03-26,Latvia,Liechtenstein,1.0,1.0,Friendlies,,,,False,,0,0,0,1172561,10,2024,api_football
+2024-03-26,Finland,Estonia,2.0,1.0,Friendlies,,,,False,,0,0,0,1187511,10,2024,api_football
+2024-03-26,Hungary,Kosovo,2.0,0.0,Friendlies,,,,False,,0,0,0,1171751,10,2024,api_football
+2024-03-26,Norway,Slovakia,1.0,1.0,Friendlies,,,,False,,0,0,0,1156212,10,2024,api_football
+2024-03-26,Malta,Belarus,0.0,0.0,Friendlies,,,,False,,0,0,0,1165958,10,2024,api_football
+2024-03-26,Morocco U23,Wales U21,2.0,0.0,Friendlies,,,,False,,0,0,0,1189615,10,2024,api_football
+2024-03-26,Qatar U23,Uzbekistan U23,1.0,2.0,Friendlies,,,,False,,0,0,0,1189611,10,2024,api_football
+2024-03-26,Saudi Arabia U23,China PR U23,2.0,0.0,Friendlies,,,,False,,0,0,0,1189616,10,2024,api_football
+2024-03-26,Czech Republic,Armenia,2.0,1.0,Friendlies,,,,False,,0,0,0,1156211,10,2024,api_football
+2024-03-26,Guyana,Cambodia,4.0,1.0,Friendlies,,,,False,,0,0,0,1178426,10,2024,api_football
+2024-03-26,Vanuatu,Brunei,2.0,3.0,Friendlies,,,,False,,0,0,0,1175762,10,2024,api_football
+2024-03-26,Denmark,Faroe Islands,2.0,0.0,Friendlies,,,,False,,0,0,0,1155275,10,2024,api_football
+2024-03-26,Colombia,Romania,3.0,2.0,Friendlies,,,,False,,0,0,0,1155274,10,2024,api_football
+2024-03-26,Senegal,Benin,1.0,0.0,Friendlies,,,,False,,0,0,0,1182075,10,2024,api_football
+2024-03-26,Ivory Coast,Uruguay,2.0,1.0,Friendlies,,,,False,,0,0,0,1180735,10,2024,api_football
+2024-03-26,England,Belgium,2.0,2.0,Friendlies,,,,False,,0,0,0,1155276,10,2024,api_football
+2024-03-26,Germany,Netherlands,2.0,1.0,Friendlies,,,,False,,0,0,0,1155277,10,2024,api_football
+2024-03-26,Austria,Turkey,6.0,1.0,Friendlies,,,,False,,0,0,0,1172362,10,2024,api_football
+2024-03-26,Rep. Of Ireland,Switzerland,0.0,1.0,Friendlies,,,,False,,0,0,0,1155279,10,2024,api_football
+2024-03-26,Slovenia,Portugal,2.0,0.0,Friendlies,,,,False,,0,0,0,1162059,10,2024,api_football
+2024-03-26,Luxembourg,Kazakhstan,2.0,1.0,Friendlies,,,,False,,0,0,0,1187512,10,2024,api_football
+2024-03-26,Scotland,Northern Ireland,0.0,1.0,Friendlies,,,,False,,0,0,0,1155278,10,2024,api_football
+2024-03-26,France,Chile,3.0,2.0,Friendlies,,,,False,,0,0,0,1167795,10,2024,api_football
+2024-03-26,Egypt,Croatia,2.0,4.0,Friendlies,,,,False,,0,0,0,1188621,10,2024,api_football
+2024-03-26,Mali,Nigeria,2.0,0.0,Friendlies,,,,False,,0,0,0,1183793,10,2024,api_football
+2024-03-26,New Zealand,Tunisia,0.0,0.0,Friendlies,,,,False,,0,0,0,1188620,10,2024,api_football
+2024-03-26,Spain,Brazil,3.0,3.0,Friendlies,,,,False,,0,0,0,1160561,10,2024,api_football
+2024-03-26,Algeria,South Africa,3.0,3.0,Friendlies,,,,False,,0,0,0,1170218,10,2024,api_football
+2024-03-26,Algeria U20,Mauritania U20,3.0,1.0,Friendlies,,,,False,,0,0,0,1189619,10,2024,api_football
+2024-03-26,Morocco U18,Georgia U18,2.0,2.0,Friendlies,,,,False,,0,0,0,1189605,10,2024,api_football
+2024-03-26,Morocco,Mauritania,0.0,0.0,Friendlies,,,,False,,0,0,0,1175044,10,2024,api_football
+2024-03-26,Burkina Faso,Niger,1.0,1.0,Friendlies,,,,False,,0,0,0,1182554,10,2024,api_football
+2024-03-26,Togo,Libya,1.0,1.0,Friendlies,,,,False,,0,0,0,1183408,10,2024,api_football
+2024-03-26,Paraguay U23,Dominican Republic U23,1.0,2.0,Friendlies,,,,False,,0,0,0,1189620,10,2024,api_football
+2024-03-27,Nicaragua,Cuba,0.0,1.0,Friendlies,,,,False,,0,0,0,1178427,10,2024,api_football
+2024-03-27,Peru,Dominican Republic,4.0,1.0,Friendlies,,,,False,,0,0,0,1162614,10,2024,api_football
+2024-03-27,El Salvador,Honduras,1.0,1.0,Friendlies,,,,False,,0,0,0,1172559,10,2024,api_football
+2024-03-27,Argentina,Costa Rica,3.0,1.0,Friendlies,,,,False,,0,0,0,1176914,10,2024,api_football
+2024-03-30,Japan U16,Czech Republic U16,2.0,0.0,Friendlies,,,,False,,0,0,0,1189622,10,2024,api_football
+2024-05-03,St. Vincent / Grenadines,Dominica,1.0,3.0,Friendlies,,,,False,,0,0,0,1199296,10,2024,api_football
+2024-05-05,St. Vincent / Grenadines,Dominica,2.0,0.0,Friendlies,,,,False,,0,0,0,1199297,10,2024,api_football
+2024-05-13,Trinidad and Tobago,Guyana,2.0,1.0,Friendlies,,,,False,,0,0,0,1199884,10,2024,api_football
+2024-05-15,Sudan,Tanzania,2.0,1.0,Friendlies,,,,False,,0,0,0,1200579,10,2024,api_football
+2024-05-15,Trinidad and Tobago,Guyana,2.0,0.0,Friendlies,,,,False,,0,0,0,1199885,10,2024,api_football
+2024-05-19,Sudan,Tanzania,0.0,1.0,Friendlies,,,,False,,0,0,0,1200583,10,2024,api_football
+2024-05-26,Grenada,St. Vincent / Grenadines,0.0,3.0,Friendlies,,,,False,,0,0,0,1200253,10,2024,api_football
+2024-05-27,Guatemala,Nicaragua,1.0,1.0,Friendlies,,,,False,,0,0,0,1192210,10,2024,api_football
+2024-06-01,Lesotho,Namibia,1.0,1.0,Friendlies,,,,False,,0,0,0,1202461,10,2024,api_football
+2024-06-01,Mexico,Bolivia,1.0,0.0,Friendlies,,,,False,,0,0,0,1184583,10,2024,api_football
+2024-06-01,Costa Rica,Uruguay,0.0,0.0,Friendlies,,,,False,,0,0,0,1199025,10,2024,api_football
+2024-06-02,Indonesia,Tanzania,0.0,0.0,Friendlies,,,,False,,0,0,0,1200691,10,2024,api_football
+2024-06-03,Gibraltar,Scotland,0.0,2.0,Friendlies,,,,False,,0,0,0,1165956,10,2024,api_football
+2024-06-03,Croatia,FYR Macedonia,3.0,0.0,Friendlies,,,,False,,0,0,0,1155280,10,2024,api_football
+2024-06-03,Albania,Liechtenstein,3.0,0.0,Friendlies,,,,False,,0,0,0,1172562,10,2024,api_football
+2024-06-03,England,Bosnia & Herzegovina,3.0,0.0,Friendlies,,,,False,,0,0,0,1170219,10,2024,api_football
+2024-06-03,Germany,Ukraine,0.0,0.0,Friendlies,,,,False,,0,0,0,1186282,10,2024,api_football
+2024-06-04,Slovenia,Armenia,2.0,1.0,Friendlies,,,,False,,0,0,0,1170220,10,2024,api_football
+2024-06-04,Switzerland,Estonia,4.0,0.0,Friendlies,,,,False,,0,0,0,1174682,10,2024,api_football
+2024-06-04,Romania,Bulgaria,0.0,0.0,Friendlies,,,,False,,0,0,0,1157594,10,2024,api_football
+2024-06-04,Portugal,Finland,4.0,2.0,Friendlies,,,,False,,0,0,0,1172363,10,2024,api_football
+2024-06-04,Austria,Serbia,2.0,1.0,Friendlies,,,,False,,0,0,0,1173868,10,2024,api_football
+2024-06-04,Rep. Of Ireland,Hungary,2.0,1.0,Friendlies,,,,False,,0,0,0,1172364,10,2024,api_football
+2024-06-04,Italy,Turkey,0.0,0.0,Friendlies,,,,False,,0,0,0,1172560,10,2024,api_football
+2024-06-05,Slovakia,San Marino,4.0,0.0,Friendlies,,,,False,,0,0,0,1175755,10,2024,api_football
+2024-06-05,Denmark,Sweden,2.0,1.0,Friendlies,,,,False,,0,0,0,1171720,10,2024,api_football
+2024-06-05,Norway,Kosovo,3.0,0.0,Friendlies,,,,False,,0,0,0,1171752,10,2024,api_football
+2024-06-05,Belgium,Montenegro,2.0,0.0,Friendlies,,,,False,,0,0,0,1169677,10,2024,api_football
+2024-06-05,France,Luxembourg,3.0,0.0,Friendlies,,,,False,,0,0,0,1196834,10,2024,api_football
+2024-06-05,Spain,Andorra,5.0,0.0,Friendlies,,,,False,,0,0,0,1182372,10,2024,api_football
+2024-06-06,Mexico,Uruguay,0.0,4.0,Friendlies,,,,False,,0,0,0,1155281,10,2024,api_football
+2024-06-06,Gibraltar,Wales,0.0,0.0,Friendlies,,,,False,,0,0,0,1197684,10,2024,api_football
+2024-06-06,Netherlands,Canada,4.0,0.0,Friendlies,,,,False,,0,0,0,1182784,10,2024,api_football
+2024-06-07,Cambodia,Mongolia,2.0,0.0,Friendlies,,,,False,,0,0,0,1194765,10,2024,api_football
+2024-06-07,Czech Republic,Malta,7.0,1.0,Friendlies,,,,False,,0,0,0,1192065,10,2024,api_football
+2024-06-07,Armenia,Kazakhstan,2.0,1.0,Friendlies,,,,False,,0,0,0,1171754,10,2024,api_football
+2024-06-07,Albania,Azerbaijan,3.0,1.0,Friendlies,,,,False,,0,0,0,1182373,10,2024,api_football
+2024-06-07,Belarus,Russia,0.0,4.0,Friendlies,,,,False,,0,0,0,1198576,10,2024,api_football
+2024-06-07,Romania,Liechtenstein,0.0,0.0,Friendlies,,,,False,,0,0,0,1157595,10,2024,api_football
+2024-06-07,England,Iceland,0.0,1.0,Friendlies,,,,False,,0,0,0,1171721,10,2024,api_football
+2024-06-07,Poland,Ukraine,3.0,1.0,Friendlies,,,,False,,0,0,0,1184786,10,2024,api_football
+2024-06-07,Germany,Greece,2.0,1.0,Friendlies,,,,False,,0,0,0,1186283,10,2024,api_football
+2024-06-07,Scotland,Finland,2.0,2.0,Friendlies,,,,False,,0,0,0,1165957,10,2024,api_football
+2024-06-08,Peru,Paraguay,0.0,0.0,Friendlies,,,,False,,0,0,0,1193960,10,2024,api_football
+2024-06-08,Brunei,Sri Lanka,1.0,0.0,Friendlies,,,,False,,0,0,0,1202462,10,2024,api_football
+2024-06-08,Slovenia,Bulgaria,1.0,1.0,Friendlies,,,,False,,0,0,0,1170221,10,2024,api_football
+2024-06-08,Sweden,Serbia,0.0,3.0,Friendlies,,,,False,,0,0,0,1174683,10,2024,api_football
+2024-06-08,Switzerland,Austria,1.0,1.0,Friendlies,,,,False,,0,0,0,1173869,10,2024,api_football
+2024-06-08,Hungary,Israel,3.0,0.0,Friendlies,,,,False,,0,0,0,1175128,10,2024,api_football
+2024-06-08,Moldova,Cyprus,3.0,2.0,Friendlies,,,,False,,0,0,0,1175045,10,2024,api_football
+2024-06-08,Portugal,Croatia,1.0,2.0,Friendlies,,,,False,,0,0,0,1168422,10,2024,api_football
+2024-06-08,Denmark,Norway,3.0,1.0,Friendlies,,,,False,,0,0,0,1171722,10,2024,api_football
+2024-06-08,Belgium,Luxembourg,3.0,0.0,Friendlies,,,,False,,0,0,0,1168423,10,2024,api_football
+2024-06-08,Spain,Northern Ireland,5.0,1.0,Friendlies,,,,False,,0,0,0,1194540,10,2024,api_football
+2024-06-08,United States,Colombia,1.0,5.0,Friendlies,,,,False,,0,0,0,1174091,10,2024,api_football
+2024-06-09,Mexico,Brazil,2.0,3.0,Friendlies,,,,False,,0,0,0,1155282,10,2024,api_football
+2024-06-09,Italy,Bosnia & Herzegovina,1.0,0.0,Friendlies,,,,False,,0,0,0,1173870,10,2024,api_football
+2024-06-09,Slovakia,Wales,4.0,0.0,Friendlies,,,,False,,0,0,0,1175756,10,2024,api_football
+2024-06-09,Montenegro,Georgia,1.0,3.0,Friendlies,,,,False,,0,0,0,1169682,10,2024,api_football
+2024-06-09,France,Canada,0.0,0.0,Friendlies,,,,False,,0,0,0,1196553,10,2024,api_football
+2024-06-09,Argentina,Ecuador,1.0,0.0,Friendlies,,,,False,,0,0,0,1193462,10,2024,api_football
+2024-06-10,Czech Republic,FYR Macedonia,2.0,1.0,Friendlies,,,,False,,0,0,0,1169678,10,2024,api_football
+2024-06-10,Poland,Turkey,2.0,1.0,Friendlies,,,,False,,0,0,0,1184584,10,2024,api_football
+2024-06-10,Netherlands,Iceland,4.0,0.0,Friendlies,,,,False,,0,0,0,1182785,10,2024,api_football
+2024-06-11,Mongolia,Cambodia,2.0,1.0,Friendlies,,,,False,,0,0,0,1196554,10,2024,api_football
+2024-06-11,Brunei,Sri Lanka,1.0,0.0,Friendlies,,,,False,,0,0,0,1202463,10,2024,api_football
+2024-06-11,Azerbaijan,Kazakhstan,3.0,2.0,Friendlies,,,,False,,0,0,0,1199026,10,2024,api_football
+2024-06-11,Belarus,Israel,0.0,4.0,Friendlies,,,,False,,0,0,0,1198578,10,2024,api_football
+2024-06-11,Malta,Greece,0.0,2.0,Friendlies,,,,False,,0,0,0,1200436,10,2024,api_football
+2024-06-11,Moldova,Ukraine,0.0,4.0,Friendlies,,,,False,,0,0,0,1182786,10,2024,api_football
+2024-06-11,San Marino,Cyprus,1.0,4.0,Friendlies,,,,False,,0,0,0,1175046,10,2024,api_football
+2024-06-11,Portugal,Rep. Of Ireland,3.0,0.0,Friendlies,,,,False,,0,0,0,1172365,10,2024,api_football
+2024-06-11,Northern Ireland,Andorra,2.0,0.0,Friendlies,,,,False,,0,0,0,1198485,10,2024,api_football
+2024-06-12,Chile,Paraguay,3.0,0.0,Friendlies,,,,False,,0,0,0,1193961,10,2024,api_football
+2024-06-12,United States,Brazil,1.0,1.0,Friendlies,,,,False,,0,0,0,1178423,10,2024,api_football
+2024-06-13,Ecuador,Bolivia,3.0,1.0,Friendlies,,,,False,,0,0,0,1198577,10,2024,api_football
+2024-06-15,Argentina,Guatemala,4.0,1.0,Friendlies,,,,False,,0,0,0,1178424,10,2024,api_football
+2024-06-15,El Salvador,Peru,0.0,1.0,Friendlies,,,,False,,0,0,0,1197592,10,2024,api_football
+2024-06-15,Colombia,Bolivia,3.0,0.0,Friendlies,,,,False,,0,0,0,1198059,10,2024,api_football
+2024-06-16,Ecuador,Honduras,2.0,1.0,Friendlies,,,,False,,0,0,0,1198060,10,2024,api_football
+2024-06-16,Panama,Paraguay,0.0,1.0,Friendlies,,,,False,,0,0,0,1193372,10,2024,api_football
+2024-07-28,Guatemala,El Salvador,0.0,1.0,Friendlies,,,,False,,0,0,0,1198299,10,2024,api_football
+2024-08-27,Jordan,North Korea,0.0,0.0,Friendlies,,,,False,,0,0,0,1286335,10,2024,api_football
+2024-08-29,Jordan,North Korea,2.0,1.0,Friendlies,,,,False,,0,0,0,1286336,10,2024,api_football
+2024-09-01,Uruguay,Guatemala,1.0,1.0,Friendlies,,,,False,,0,0,0,1261912,10,2024,api_football
+2024-09-02,Fiji,Solomon Islands,1.0,0.0,Friendlies,,,,False,,0,0,0,1234548,10,2024,api_football
+2024-09-04,Lebanon,Tajikistan,1.0,0.0,Friendlies,,,,False,,0,0,0,1282776,10,2024,api_football
+2024-09-04,Malaysia,Philippines,2.0,1.0,Friendlies,,,,False,,0,0,0,1282777,10,2024,api_football
+2024-09-04,Gibraltar,Andorra,1.0,0.0,Friendlies,,,,False,,0,0,0,1286333,10,2024,api_football
+2024-09-05,Solomon Islands,Hong Kong,0.0,3.0,Friendlies,,,,False,,0,0,0,1234549,10,2024,api_football
+2024-09-05,Bhutan,Bangladesh,0.0,1.0,Friendlies,,,,False,,0,0,0,1298895,10,2024,api_football
+2024-09-05,Vietnam,Russia,0.0,3.0,Friendlies,,,,False,,0,0,0,1293945,10,2024,api_football
+2024-09-06,Mauritius,Syria,0.0,2.0,Friendlies,,,,False,,0,0,0,1282778,10,2024,api_football
+2024-09-07,United States,Canada,1.0,2.0,Friendlies,,,,False,,0,0,0,1215627,10,2024,api_football
+2024-09-08,Mexico,New Zealand,3.0,0.0,Friendlies,,,,False,,0,0,0,1184585,10,2024,api_football
+2024-09-08,Hong Kong,Fiji,1.0,1.0,Friendlies,,,,False,,0,0,0,1234550,10,2024,api_football
+2024-09-08,Philippines,Tajikistan,0.0,0.0,Friendlies,,,,False,,0,0,0,1301187,10,2024,api_football
+2024-09-08,Bhutan,Bangladesh,1.0,0.0,Friendlies,,,,False,,0,0,0,1298896,10,2024,api_football
+2024-09-08,Malaysia,Lebanon,1.0,0.0,Friendlies,,,,False,,0,0,0,1301188,10,2024,api_football
+2024-09-09,India,Syria,0.0,3.0,Friendlies,,,,False,,0,0,0,1282775,10,2024,api_football
+2024-09-10,Moldova,San Marino,1.0,0.0,Friendlies,,,,False,,0,0,0,1182787,10,2024,api_football
+2024-09-10,Vietnam,Thailand,1.0,2.0,Friendlies,,,,False,,0,0,0,1293947,10,2024,api_football
+2024-09-10,United States,New Zealand,1.0,1.0,Friendlies,,,,False,,0,0,0,1215628,10,2024,api_football
+2024-09-11,Mexico,Canada,0.0,0.0,Friendlies,,,,False,,0,0,0,1184586,10,2024,api_football
+2024-10-10,Myanmar,Sri Lanka,2.0,0.0,Friendlies,,,,False,,0,0,0,1308572,10,2024,api_football
+2024-10-10,Liechtenstein,Hong Kong,1.0,0.0,Friendlies,,,,False,,0,0,0,1200437,10,2024,api_football
+2024-10-11,Cambodia,Chinese Taipei,3.0,2.0,Friendlies,,,,False,,0,0,0,1268558,10,2024,api_football
+2024-10-12,Vietnam,India,1.0,1.0,Friendlies,,,,False,,0,0,0,1310837,10,2024,api_football
+2024-10-13,United States,Panama,2.0,0.0,Friendlies,,,,False,,0,0,0,1215629,10,2024,api_football
+2024-10-13,Myanmar,Sri Lanka,0.0,0.0,Friendlies,,,,False,,0,0,0,1308573,10,2024,api_football
+2024-10-13,Andorra,San Marino,2.0,0.0,Friendlies,,,,False,,0,0,0,1296774,10,2024,api_football
+2024-10-14,New Zealand,Malaysia,4.0,0.0,Friendlies,,,,False,,0,0,0,1298894,10,2024,api_football
+2024-10-15,Hong Kong,Cambodia,3.0,0.0,Friendlies,,,,False,,0,0,0,1268559,10,2024,api_football
+2024-10-15,Canada,Panama,2.0,1.0,Friendlies,,,,False,,0,0,0,1294672,10,2024,api_football
+2024-10-16,Mexico,United States,2.0,0.0,Friendlies,,,,False,,0,0,0,1293948,10,2024,api_football
+2024-11-13,Bangladesh,Maldives,0.0,1.0,Friendlies,,,,False,,0,0,0,1315180,10,2024,api_football
+2024-11-13,Tajikistan,Nepal,4.0,0.0,Friendlies,,,,False,,0,0,0,1313047,10,2024,api_football
+2024-11-14,Singapore,Myanmar,3.0,2.0,Friendlies,,,,False,,0,0,0,1311131,10,2024,api_football
+2024-11-14,Hong Kong,Philippines,3.0,1.0,Friendlies,,,,False,,0,0,0,1298698,10,2024,api_football
+2024-11-14,Laos,Malaysia,1.0,3.0,Friendlies,,,,False,,0,0,0,1313508,10,2024,api_football
+2024-11-14,Thailand,Lebanon,0.0,0.0,Friendlies,,,,False,,0,0,0,1312231,10,2024,api_football
+2024-11-14,Malta,Liechtenstein,2.0,0.0,Friendlies,,,,False,,0,0,0,1200438,10,2024,api_football
+2024-11-15,Russia,Brunei,11.0,0.0,Friendlies,,,,False,,0,0,0,1313046,10,2024,api_football
+2024-11-16,Bangladesh,Maldives,2.0,1.0,Friendlies,,,,False,,0,0,0,1315181,10,2024,api_football
+2024-11-16,Nepal,Afghanistan,2.0,0.0,Friendlies,,,,False,,0,0,0,1313048,10,2024,api_football
+2024-11-17,Thailand,Laos,1.0,1.0,Friendlies,,,,False,,0,0,0,1312849,10,2024,api_football
+2024-11-18,Singapore,Chinese Taipei,2.0,3.0,Friendlies,,,,False,,0,0,0,1311132,10,2024,api_football
+2024-11-18,India,Malaysia,1.0,1.0,Friendlies,,,,False,,0,0,0,1308804,10,2024,api_football
+2024-11-19,Myanmar,Lebanon,2.0,3.0,Friendlies,,,,False,,0,0,0,1315182,10,2024,api_football
+2024-11-19,Hong Kong,Mauritius,1.0,0.0,Friendlies,,,,False,,0,0,0,1298699,10,2024,api_football
+2024-11-19,Tajikistan,Afghanistan,3.0,1.0,Friendlies,,,,False,,0,0,0,1314212,10,2024,api_football
+2024-11-19,Sri Lanka,Yemen,0.0,2.0,Friendlies,,,,False,,0,0,0,1316641,10,2024,api_football
+2024-11-19,Russia,Syria,4.0,0.0,Friendlies,,,,False,,0,0,0,1313507,10,2024,api_football
+2024-11-19,Gibraltar,Moldova,1.0,1.0,Friendlies,,,,False,,0,0,0,1286334,10,2024,api_football
+2024-12-09,Kuwait,Yemen,1.0,1.0,Friendlies,,,,False,,0,0,0,1321853,10,2024,api_football
+2024-12-12,Kuwait,Lebanon,1.0,2.0,Friendlies,,,,False,,0,0,0,1321854,10,2024,api_football
+2024-12-15,Kuwait,Lebanon,0.0,2.0,Friendlies,,,,False,,0,0,0,1321855,10,2024,api_football
+2024-12-16,Oman,Yemen,1.0,0.0,Friendlies,,,,False,,0,0,0,1325295,10,2024,api_football
+2024-12-17,Saudi Arabia,Trinidad and Tobago,3.0,1.0,Friendlies,,,,False,,0,0,0,1325294,10,2024,api_football
+2024-12-21,Solomon Islands,Fiji,1.0,3.0,Friendlies,,,,False,,0,0,0,1327874,10,2024,api_football
+2024-12-21,Vanuatu,Papua New Guinea,1.0,2.0,Friendlies,,,,False,,0,0,0,1327873,10,2024,api_football
+2022-06-02,Albania,Russia,,,UEFA Nations League,,,,False,,0,0,0,854625,5,2022,api_football
+2022-06-06,Israel,Russia,,,UEFA Nations League,,,,False,,0,0,0,854636,5,2022,api_football
+2022-06-10,Russia,Iceland,,,UEFA Nations League,,,,False,,0,0,0,854644,5,2022,api_football
+2022-06-13,Russia,Albania,,,UEFA Nations League,,,,False,,0,0,0,854652,5,2022,api_football
+2022-09-24,Iceland,Russia,,,UEFA Nations League,,,,False,,0,0,0,854661,5,2022,api_football
+2022-09-27,Russia,Israel,,,UEFA Nations League,,,,False,,0,0,0,854670,5,2022,api_football
+2022-06-01,Poland,Wales,2.0,1.0,UEFA Nations League,,,,False,,0,0,0,854582,5,2022,api_football
+2022-06-02,Estonia,San Marino,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,854721,5,2022,api_football
+2022-06-02,Bulgaria,FYR Macedonia,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,854676,5,2022,api_football
+2022-06-02,Georgia,Gibraltar,4.0,0.0,UEFA Nations League,,,,False,,0,0,0,854673,5,2022,api_football
+2022-06-02,Cyprus,Kosovo,0.0,2.0,UEFA Nations League,,,,False,,0,0,0,854675,5,2022,api_football
+2022-06-02,Spain,Portugal,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,854578,5,2022,api_football
+2022-06-02,Serbia,Norway,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,854627,5,2022,api_football
+2022-06-02,Czech Republic,Switzerland,2.0,1.0,UEFA Nations League,,,,False,,0,0,0,854577,5,2022,api_football
+2022-06-02,Northern Ireland,Greece,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,854674,5,2022,api_football
+2022-06-02,Slovenia,Sweden,0.0,2.0,UEFA Nations League,,,,False,,0,0,0,854628,5,2022,api_football
+2022-06-02,Israel,Iceland,2.0,2.0,UEFA Nations League,,,,False,,0,0,0,854626,5,2022,api_football
+2022-06-03,Kazakhstan,Azerbaijan,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,854677,5,2022,api_football
+2022-06-03,Latvia,Andorra,3.0,0.0,UEFA Nations League,,,,False,,0,0,0,854722,5,2022,api_football
+2022-06-03,Belgium,Netherlands,1.0,4.0,UEFA Nations League,,,,False,,0,0,0,854581,5,2022,api_football
+2022-06-03,France,Denmark,1.0,2.0,UEFA Nations League,,,,False,,0,0,0,854580,5,2022,api_football
+2022-06-03,Croatia,Austria,0.0,3.0,UEFA Nations League,,,,False,,0,0,0,854579,5,2022,api_football
+2022-06-03,Belarus,Slovakia,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,854713,5,2022,api_football
+2022-06-03,Liechtenstein,Moldova,0.0,2.0,UEFA Nations League,,,,False,,0,0,0,854723,5,2022,api_football
+2022-06-04,Armenia,Rep. Of Ireland,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,854637,5,2022,api_football
+2022-06-04,Hungary,England,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,854583,5,2022,api_football
+2022-06-04,Lithuania,Luxembourg,0.0,2.0,UEFA Nations League,,,,False,,0,0,0,854679,5,2022,api_football
+2022-06-04,Finland,Bosnia & Herzegovina,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,854630,5,2022,api_football
+2022-06-04,Italy,Germany,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,854584,5,2022,api_football
+2022-06-04,Turkey,Faroe Islands,4.0,0.0,UEFA Nations League,,,,False,,0,0,0,854680,5,2022,api_football
+2022-06-04,Montenegro,Romania,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,854632,5,2022,api_football
+2022-06-05,San Marino,Malta,0.0,2.0,UEFA Nations League,,,,False,,0,0,0,854724,5,2022,api_football
+2022-06-05,Gibraltar,FYR Macedonia,0.0,2.0,UEFA Nations League,,,,False,,0,0,0,854682,5,2022,api_football
+2022-06-05,Cyprus,Northern Ireland,0.0,0.0,UEFA Nations League,,,,False,,0,0,0,854681,5,2022,api_football
+2022-06-05,Sweden,Norway,1.0,2.0,UEFA Nations League,,,,False,,0,0,0,854634,5,2022,api_football
+2022-06-05,Serbia,Slovenia,4.0,1.0,UEFA Nations League,,,,False,,0,0,0,854633,5,2022,api_football
+2022-06-05,Portugal,Switzerland,4.0,0.0,UEFA Nations League,,,,False,,0,0,0,854586,5,2022,api_football
+2022-06-05,Czech Republic,Spain,2.0,2.0,UEFA Nations League,,,,False,,0,0,0,854585,5,2022,api_football
+2022-06-05,Bulgaria,Georgia,2.0,5.0,UEFA Nations League,,,,False,,0,0,0,854684,5,2022,api_football
+2022-06-05,Kosovo,Greece,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,854683,5,2022,api_football
+2022-06-06,Latvia,Liechtenstein,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,854725,5,2022,api_football
+2022-06-06,Croatia,France,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,854588,5,2022,api_football
+2022-06-06,Iceland,Albania,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,854635,5,2022,api_football
+2022-06-06,Slovakia,Kazakhstan,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,854686,5,2022,api_football
+2022-06-06,Austria,Denmark,1.0,2.0,UEFA Nations League,,,,False,,0,0,0,854587,5,2022,api_football
+2022-06-06,Belarus,Azerbaijan,0.0,0.0,UEFA Nations League,,,,False,,0,0,0,854685,5,2022,api_football
+2022-06-06,Andorra,Moldova,0.0,0.0,UEFA Nations League,,,,False,,0,0,0,854726,5,2022,api_football
+2022-06-07,Finland,Montenegro,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,854640,5,2022,api_football
+2022-06-07,Germany,England,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,854591,5,2022,api_football
+2022-06-07,Italy,Hungary,2.0,1.0,UEFA Nations League,,,,False,,0,0,0,854592,5,2022,api_football
+2022-06-07,Lithuania,Turkey,0.0,6.0,UEFA Nations League,,,,False,,0,0,0,854688,5,2022,api_football
+2022-06-07,Faroe Islands,Luxembourg,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,854687,5,2022,api_football
+2022-06-07,Bosnia & Herzegovina,Romania,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,854639,5,2022,api_football
+2022-06-08,Belgium,Poland,6.0,1.0,UEFA Nations League,,,,False,,0,0,0,854589,5,2022,api_football
+2022-06-08,Wales,Netherlands,1.0,2.0,UEFA Nations League,,,,False,,0,0,0,854590,5,2022,api_football
+2022-06-08,Rep. Of Ireland,Ukraine,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,854631,5,2022,api_football
+2022-06-08,Scotland,Armenia,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,854629,5,2022,api_football
+2022-06-09,Sweden,Serbia,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,854642,5,2022,api_football
+2022-06-09,Switzerland,Spain,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,854594,5,2022,api_football
+2022-06-09,Portugal,Czech Republic,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,854593,5,2022,api_football
+2022-06-09,Norway,Slovenia,0.0,0.0,UEFA Nations League,,,,False,,0,0,0,854641,5,2022,api_football
+2022-06-09,Gibraltar,Bulgaria,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,854691,5,2022,api_football
+2022-06-09,FYR Macedonia,Georgia,0.0,3.0,UEFA Nations League,,,,False,,0,0,0,854692,5,2022,api_football
+2022-06-09,Kosovo,Northern Ireland,3.0,2.0,UEFA Nations League,,,,False,,0,0,0,854689,5,2022,api_football
+2022-06-09,Malta,Estonia,1.0,2.0,UEFA Nations League,,,,False,,0,0,0,854727,5,2022,api_football
+2022-06-09,Greece,Cyprus,3.0,0.0,UEFA Nations League,,,,False,,0,0,0,854690,5,2022,api_football
+2022-06-10,Azerbaijan,Slovakia,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,854693,5,2022,api_football
+2022-06-10,Moldova,Latvia,2.0,4.0,UEFA Nations League,,,,False,,0,0,0,854729,5,2022,api_football
+2022-06-10,Denmark,Croatia,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,854596,5,2022,api_football
+2022-06-10,Austria,France,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,854595,5,2022,api_football
+2022-06-10,Albania,Israel,1.0,2.0,UEFA Nations League,,,,False,,0,0,0,854643,5,2022,api_football
+2022-06-10,Belarus,Kazakhstan,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,854694,5,2022,api_football
+2022-06-10,Andorra,Liechtenstein,2.0,1.0,UEFA Nations League,,,,False,,0,0,0,854728,5,2022,api_football
+2022-06-11,Ukraine,Armenia,3.0,0.0,UEFA Nations League,,,,False,,0,0,0,854647,5,2022,api_football
+2022-06-11,Rep. Of Ireland,Scotland,3.0,0.0,UEFA Nations League,,,,False,,0,0,0,854646,5,2022,api_football
+2022-06-11,Faroe Islands,Lithuania,2.0,1.0,UEFA Nations League,,,,False,,0,0,0,854695,5,2022,api_football
+2022-06-11,England,Italy,0.0,0.0,UEFA Nations League,,,,False,,0,0,0,854599,5,2022,api_football
+2022-06-11,Wales,Belgium,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,854598,5,2022,api_football
+2022-06-11,Hungary,Germany,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,854600,5,2022,api_football
+2022-06-11,Romania,Finland,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,854648,5,2022,api_football
+2022-06-11,Luxembourg,Turkey,0.0,2.0,UEFA Nations League,,,,False,,0,0,0,854696,5,2022,api_football
+2022-06-11,Montenegro,Bosnia & Herzegovina,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,854645,5,2022,api_football
+2022-06-11,Netherlands,Poland,2.0,2.0,UEFA Nations League,,,,False,,0,0,0,854597,5,2022,api_football
+2022-06-12,Northern Ireland,Cyprus,2.0,2.0,UEFA Nations League,,,,False,,0,0,0,854697,5,2022,api_football
+2022-06-12,Norway,Sweden,3.0,2.0,UEFA Nations League,,,,False,,0,0,0,854649,5,2022,api_football
+2022-06-12,Georgia,Bulgaria,0.0,0.0,UEFA Nations League,,,,False,,0,0,0,854698,5,2022,api_football
+2022-06-12,FYR Macedonia,Gibraltar,4.0,0.0,UEFA Nations League,,,,False,,0,0,0,854699,5,2022,api_football
+2022-06-12,Spain,Czech Republic,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,854601,5,2022,api_football
+2022-06-12,Switzerland,Portugal,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,854602,5,2022,api_football
+2022-06-12,Slovenia,Serbia,2.0,2.0,UEFA Nations League,,,,False,,0,0,0,854650,5,2022,api_football
+2022-06-12,Malta,San Marino,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,854730,5,2022,api_football
+2022-06-12,Greece,Kosovo,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,854700,5,2022,api_football
+2022-06-13,Kazakhstan,Slovakia,2.0,1.0,UEFA Nations League,,,,False,,0,0,0,854701,5,2022,api_football
+2022-06-13,Azerbaijan,Belarus,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,854702,5,2022,api_football
+2022-06-13,France,Croatia,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,854604,5,2022,api_football
+2022-06-13,Iceland,Israel,2.0,2.0,UEFA Nations League,,,,False,,0,0,0,854651,5,2022,api_football
+2022-06-13,Denmark,Austria,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,854603,5,2022,api_football
+2022-06-14,Armenia,Scotland,1.0,4.0,UEFA Nations League,,,,False,,0,0,0,854653,5,2022,api_football
+2022-06-14,Moldova,Andorra,2.0,1.0,UEFA Nations League,,,,False,,0,0,0,854732,5,2022,api_football
+2022-06-14,England,Hungary,0.0,4.0,UEFA Nations League,,,,False,,0,0,0,854607,5,2022,api_football
+2022-06-14,Poland,Belgium,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,854606,5,2022,api_football
+2022-06-14,Germany,Italy,5.0,2.0,UEFA Nations League,,,,False,,0,0,0,854608,5,2022,api_football
+2022-06-14,Ukraine,Rep. Of Ireland,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,854654,5,2022,api_football
+2022-06-14,Romania,Montenegro,0.0,3.0,UEFA Nations League,,,,False,,0,0,0,854656,5,2022,api_football
+2022-06-14,Turkey,Lithuania,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,854704,5,2022,api_football
+2022-06-14,Luxembourg,Faroe Islands,2.0,2.0,UEFA Nations League,,,,False,,0,0,0,854703,5,2022,api_football
+2022-06-14,Liechtenstein,Latvia,0.0,2.0,UEFA Nations League,,,,False,,0,0,0,854731,5,2022,api_football
+2022-06-14,Bosnia & Herzegovina,Finland,3.0,2.0,UEFA Nations League,,,,False,,0,0,0,854655,5,2022,api_football
+2022-06-14,Netherlands,Wales,3.0,2.0,UEFA Nations League,,,,False,,0,0,0,854605,5,2022,api_football
+2022-09-21,Scotland,Ukraine,3.0,0.0,UEFA Nations League,,,,False,,0,0,0,854638,5,2022,api_football
+2022-09-22,Kazakhstan,Belarus,2.0,1.0,UEFA Nations League,,,,False,,0,0,0,854705,5,2022,api_football
+2022-09-22,Latvia,Moldova,1.0,2.0,UEFA Nations League,,,,False,,0,0,0,854734,5,2022,api_football
+2022-09-22,Belgium,Wales,2.0,1.0,UEFA Nations League,,,,False,,0,0,0,854611,5,2022,api_football
+2022-09-22,France,Austria,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,854610,5,2022,api_football
+2022-09-22,Croatia,Denmark,2.0,1.0,UEFA Nations League,,,,False,,0,0,0,854609,5,2022,api_football
+2022-09-22,Poland,Netherlands,0.0,2.0,UEFA Nations League,,,,False,,0,0,0,854612,5,2022,api_football
+2022-09-22,Slovakia,Azerbaijan,1.0,2.0,UEFA Nations League,,,,False,,0,0,0,854708,5,2022,api_football
+2022-09-22,Turkey,Luxembourg,3.0,3.0,UEFA Nations League,,,,False,,0,0,0,854707,5,2022,api_football
+2022-09-22,Lithuania,Faroe Islands,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,854706,5,2022,api_football
+2022-09-22,Liechtenstein,Andorra,0.0,2.0,UEFA Nations League,,,,False,,0,0,0,854733,5,2022,api_football
+2022-09-23,Estonia,Malta,2.0,1.0,UEFA Nations League,,,,False,,0,0,0,854735,5,2022,api_football
+2022-09-23,Georgia,FYR Macedonia,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,854709,5,2022,api_football
+2022-09-23,Germany,Hungary,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,854613,5,2022,api_football
+2022-09-23,Italy,England,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,854614,5,2022,api_football
+2022-09-23,Finland,Romania,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,854660,5,2022,api_football
+2022-09-23,Bulgaria,Gibraltar,5.0,1.0,UEFA Nations League,,,,False,,0,0,0,854710,5,2022,api_football
+2022-09-23,Bosnia & Herzegovina,Montenegro,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,854659,5,2022,api_football
+2022-09-24,Armenia,Ukraine,0.0,5.0,UEFA Nations League,,,,False,,0,0,0,854657,5,2022,api_football
+2022-09-24,Northern Ireland,Kosovo,2.0,1.0,UEFA Nations League,,,,False,,0,0,0,854711,5,2022,api_football
+2022-09-24,Slovenia,Norway,2.0,1.0,UEFA Nations League,,,,False,,0,0,0,854662,5,2022,api_football
+2022-09-24,Spain,Switzerland,1.0,2.0,UEFA Nations League,,,,False,,0,0,0,854616,5,2022,api_football
+2022-09-24,Serbia,Sweden,4.0,1.0,UEFA Nations League,,,,False,,0,0,0,854664,5,2022,api_football
+2022-09-24,Czech Republic,Portugal,0.0,4.0,UEFA Nations League,,,,False,,0,0,0,854615,5,2022,api_football
+2022-09-24,Cyprus,Greece,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,854712,5,2022,api_football
+2022-09-24,Scotland,Rep. Of Ireland,2.0,1.0,UEFA Nations League,,,,False,,0,0,0,854658,5,2022,api_football
+2022-09-24,Israel,Albania,2.0,1.0,UEFA Nations League,,,,False,,0,0,0,854663,5,2022,api_football
+2022-09-25,Andorra,Latvia,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,854736,5,2022,api_football
+2022-09-25,Moldova,Liechtenstein,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,854737,5,2022,api_football
+2022-09-25,Slovakia,Belarus,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,854678,5,2022,api_football
+2022-09-25,Azerbaijan,Kazakhstan,3.0,0.0,UEFA Nations League,,,,False,,0,0,0,854714,5,2022,api_football
+2022-09-25,Denmark,France,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,854618,5,2022,api_football
+2022-09-25,Wales,Poland,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,854620,5,2022,api_football
+2022-09-25,Austria,Croatia,1.0,3.0,UEFA Nations League,,,,False,,0,0,0,854617,5,2022,api_football
+2022-09-25,Faroe Islands,Turkey,2.0,1.0,UEFA Nations League,,,,False,,0,0,0,854715,5,2022,api_football
+2022-09-25,Luxembourg,Lithuania,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,854716,5,2022,api_football
+2022-09-25,Netherlands,Belgium,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,854619,5,2022,api_football
+2022-09-26,England,Germany,3.0,3.0,UEFA Nations League,,,,False,,0,0,0,854621,5,2022,api_football
+2022-09-26,Hungary,Italy,0.0,2.0,UEFA Nations League,,,,False,,0,0,0,854622,5,2022,api_football
+2022-09-26,Romania,Bosnia & Herzegovina,4.0,1.0,UEFA Nations League,,,,False,,0,0,0,854668,5,2022,api_football
+2022-09-26,Gibraltar,Georgia,1.0,2.0,UEFA Nations League,,,,False,,0,0,0,854717,5,2022,api_football
+2022-09-26,FYR Macedonia,Bulgaria,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,854718,5,2022,api_football
+2022-09-26,Montenegro,Finland,0.0,2.0,UEFA Nations League,,,,False,,0,0,0,854667,5,2022,api_football
+2022-09-26,San Marino,Estonia,0.0,4.0,UEFA Nations League,,,,False,,0,0,0,854738,5,2022,api_football
+2022-09-27,Sweden,Slovenia,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,854672,5,2022,api_football
+2022-09-27,Switzerland,Czech Republic,2.0,1.0,UEFA Nations League,,,,False,,0,0,0,854624,5,2022,api_football
+2022-09-27,Portugal,Spain,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,854623,5,2022,api_football
+2022-09-27,Ukraine,Scotland,0.0,0.0,UEFA Nations League,,,,False,,0,0,0,854666,5,2022,api_football
+2022-09-27,Rep. Of Ireland,Armenia,3.0,2.0,UEFA Nations League,,,,False,,0,0,0,854665,5,2022,api_football
+2022-09-27,Albania,Iceland,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,854669,5,2022,api_football
+2022-09-27,Norway,Serbia,0.0,2.0,UEFA Nations League,,,,False,,0,0,0,854671,5,2022,api_football
+2022-09-27,Kosovo,Cyprus,5.0,1.0,UEFA Nations League,,,,False,,0,0,0,854720,5,2022,api_football
+2022-09-27,Greece,Northern Ireland,3.0,1.0,UEFA Nations League,,,,False,,0,0,0,854719,5,2022,api_football
+2023-06-14,Netherlands,Croatia,2.0,4.0,UEFA Nations League,,,,False,,0,0,0,1030270,5,2022,api_football
+2023-06-15,Spain,Italy,2.0,1.0,UEFA Nations League,,,,False,,0,0,0,1030271,5,2022,api_football
+2023-06-18,Netherlands,Italy,2.0,3.0,UEFA Nations League,,,,False,,0,0,0,1035175,5,2022,api_football
+2023-06-18,Croatia,Spain,0.0,0.0,UEFA Nations League,,,,False,,0,0,0,1035174,5,2022,api_football
+2024-03-21,Gibraltar,Lithuania,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,963191,5,2022,api_football
+2024-03-26,Lithuania,Gibraltar,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,963192,5,2022,api_football
+2024-09-05,Azerbaijan,Sweden,1.0,3.0,UEFA Nations League,,,,False,,0,0,0,1172987,5,2024,api_football
+2024-09-05,Serbia,Spain,0.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172942,5,2024,api_football
+2024-09-05,Denmark,Switzerland,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172941,5,2024,api_football
+2024-09-05,Portugal,Croatia,2.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172939,5,2024,api_football
+2024-09-05,Northern Ireland,Luxembourg,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172990,5,2024,api_football
+2024-09-05,Belarus,Bulgaria,0.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172989,5,2024,api_football
+2024-09-05,Estonia,Slovakia,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172988,5,2024,api_football
+2024-09-05,Scotland,Poland,2.0,3.0,UEFA Nations League,,,,False,,0,0,0,1172940,5,2024,api_football
+2024-09-05,San Marino,Liechtenstein,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,1173029,5,2024,api_football
+2024-09-06,Kazakhstan,Norway,0.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172891,5,2024,api_football
+2024-09-06,Lithuania,Cyprus,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,1189855,5,2024,api_football
+2024-09-06,Belgium,Israel,3.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172943,5,2024,api_football
+2024-09-06,France,Italy,1.0,3.0,UEFA Nations League,,,,False,,0,0,0,1172944,5,2024,api_football
+2024-09-06,Iceland,Montenegro,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172893,5,2024,api_football
+2024-09-06,Wales,Turkey,0.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172894,5,2024,api_football
+2024-09-06,Slovenia,Austria,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172892,5,2024,api_football
+2024-09-06,Kosovo,Romania,0.0,3.0,UEFA Nations League,,,,False,,0,0,0,1172991,5,2024,api_football
+2024-09-07,Faroe Islands,FYR Macedonia,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172992,5,2024,api_football
+2024-09-07,Rep. Of Ireland,England,0.0,2.0,UEFA Nations League,,,,False,,0,0,0,1172896,5,2024,api_football
+2024-09-07,Armenia,Latvia,4.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172993,5,2024,api_football
+2024-09-07,Georgia,Czech Republic,4.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172895,5,2024,api_football
+2024-09-07,Moldova,Malta,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,1173030,5,2024,api_football
+2024-09-07,Germany,Hungary,5.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172945,5,2024,api_football
+2024-09-07,Ukraine,Albania,1.0,2.0,UEFA Nations League,,,,False,,0,0,0,1172897,5,2024,api_football
+2024-09-07,Greece,Finland,3.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172898,5,2024,api_football
+2024-09-07,Netherlands,Bosnia & Herzegovina,5.0,2.0,UEFA Nations League,,,,False,,0,0,0,1172946,5,2024,api_football
+2024-09-08,Luxembourg,Belarus,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172994,5,2024,api_football
+2024-09-08,Denmark,Serbia,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172947,5,2024,api_football
+2024-09-08,Slovakia,Azerbaijan,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172995,5,2024,api_football
+2024-09-08,Gibraltar,Liechtenstein,2.0,2.0,UEFA Nations League,,,,False,,0,0,0,1189861,5,2024,api_football
+2024-09-08,Bulgaria,Northern Ireland,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172996,5,2024,api_football
+2024-09-08,Croatia,Poland,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172948,5,2024,api_football
+2024-09-08,Sweden,Estonia,3.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172997,5,2024,api_football
+2024-09-08,Switzerland,Spain,1.0,4.0,UEFA Nations League,,,,False,,0,0,0,1172950,5,2024,api_football
+2024-09-08,Portugal,Scotland,2.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172949,5,2024,api_football
+2024-09-09,Cyprus,Kosovo,0.0,4.0,UEFA Nations League,,,,False,,0,0,0,1172998,5,2024,api_football
+2024-09-09,France,Belgium,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172951,5,2024,api_football
+2024-09-09,Romania,Lithuania,3.0,1.0,UEFA Nations League,,,,False,,0,0,0,1189856,5,2024,api_football
+2024-09-09,Turkey,Iceland,3.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172902,5,2024,api_football
+2024-09-09,Norway,Austria,2.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172899,5,2024,api_football
+2024-09-09,Slovenia,Kazakhstan,3.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172900,5,2024,api_football
+2024-09-09,Montenegro,Wales,1.0,2.0,UEFA Nations League,,,,False,,0,0,0,1172901,5,2024,api_football
+2024-09-09,Israel,Italy,1.0,2.0,UEFA Nations League,,,,False,,0,0,0,1172952,5,2024,api_football
+2024-09-10,Latvia,Faroe Islands,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172999,5,2024,api_football
+2024-09-10,England,Finland,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172905,5,2024,api_football
+2024-09-10,Hungary,Bosnia & Herzegovina,0.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172953,5,2024,api_football
+2024-09-10,Czech Republic,Ukraine,3.0,2.0,UEFA Nations League,,,,False,,0,0,0,1172904,5,2024,api_football
+2024-09-10,Rep. Of Ireland,Greece,0.0,2.0,UEFA Nations League,,,,False,,0,0,0,1172906,5,2024,api_football
+2024-09-10,Albania,Georgia,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172903,5,2024,api_football
+2024-09-10,FYR Macedonia,Armenia,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,1173000,5,2024,api_football
+2024-09-10,Andorra,Malta,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,1173031,5,2024,api_football
+2024-09-10,Netherlands,Germany,2.0,2.0,UEFA Nations League,,,,False,,0,0,0,1172954,5,2024,api_football
+2024-10-10,Latvia,FYR Macedonia,0.0,3.0,UEFA Nations League,,,,False,,0,0,0,1173002,5,2024,api_football
+2024-10-10,Moldova,Andorra,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,1173032,5,2024,api_football
+2024-10-10,England,Greece,1.0,2.0,UEFA Nations League,,,,False,,0,0,0,1172907,5,2024,api_football
+2024-10-10,Italy,Belgium,2.0,2.0,UEFA Nations League,,,,False,,0,0,0,1172956,5,2024,api_football
+2024-10-10,Austria,Kazakhstan,4.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172909,5,2024,api_football
+2024-10-10,Norway,Slovenia,3.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172910,5,2024,api_football
+2024-10-10,Gibraltar,San Marino,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,1189862,5,2024,api_football
+2024-10-10,Faroe Islands,Armenia,2.0,2.0,UEFA Nations League,,,,False,,0,0,0,1173001,5,2024,api_football
+2024-10-10,Finland,Rep. Of Ireland,1.0,2.0,UEFA Nations League,,,,False,,0,0,0,1172908,5,2024,api_football
+2024-10-10,Israel,France,1.0,4.0,UEFA Nations League,,,,False,,0,0,0,1172955,5,2024,api_football
+2024-10-11,Estonia,Azerbaijan,3.0,1.0,UEFA Nations League,,,,False,,0,0,0,1173003,5,2024,api_football
+2024-10-11,Iceland,Wales,2.0,2.0,UEFA Nations League,,,,False,,0,0,0,1172913,5,2024,api_football
+2024-10-11,Hungary,Netherlands,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172958,5,2024,api_football
+2024-10-11,Czech Republic,Albania,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172911,5,2024,api_football
+2024-10-11,Ukraine,Georgia,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172912,5,2024,api_football
+2024-10-11,Slovakia,Sweden,2.0,2.0,UEFA Nations League,,,,False,,0,0,0,1173004,5,2024,api_football
+2024-10-11,Turkey,Montenegro,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172914,5,2024,api_football
+2024-10-11,Bosnia & Herzegovina,Germany,1.0,2.0,UEFA Nations League,,,,False,,0,0,0,1172957,5,2024,api_football
+2024-10-12,Lithuania,Kosovo,1.0,2.0,UEFA Nations League,,,,False,,0,0,0,1189857,5,2024,api_football
+2024-10-12,Croatia,Scotland,2.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172959,5,2024,api_football
+2024-10-12,Bulgaria,Luxembourg,0.0,0.0,UEFA Nations League,,,,False,,0,0,0,1173005,5,2024,api_football
+2024-10-12,Spain,Denmark,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172962,5,2024,api_football
+2024-10-12,Serbia,Switzerland,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172961,5,2024,api_football
+2024-10-12,Poland,Portugal,1.0,3.0,UEFA Nations League,,,,False,,0,0,0,1172960,5,2024,api_football
+2024-10-12,Belarus,Northern Ireland,0.0,0.0,UEFA Nations League,,,,False,,0,0,0,1173007,5,2024,api_football
+2024-10-12,Cyprus,Romania,0.0,3.0,UEFA Nations League,,,,False,,0,0,0,1173006,5,2024,api_football
+2024-10-13,Kazakhstan,Slovenia,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172915,5,2024,api_football
+2024-10-13,Armenia,FYR Macedonia,0.0,2.0,UEFA Nations League,,,,False,,0,0,0,1173008,5,2024,api_football
+2024-10-13,Finland,England,1.0,3.0,UEFA Nations League,,,,False,,0,0,0,1172916,5,2024,api_football
+2024-10-13,Liechtenstein,Gibraltar,0.0,0.0,UEFA Nations League,,,,False,,0,0,0,1189863,5,2024,api_football
+2024-10-13,Malta,Moldova,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,1173033,5,2024,api_football
+2024-10-13,Austria,Norway,5.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172918,5,2024,api_football
+2024-10-13,Faroe Islands,Latvia,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,1173009,5,2024,api_football
+2024-10-13,Greece,Rep. Of Ireland,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172917,5,2024,api_football
+2024-10-14,Azerbaijan,Slovakia,1.0,3.0,UEFA Nations League,,,,False,,0,0,0,1173010,5,2024,api_football
+2024-10-14,Georgia,Albania,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172919,5,2024,api_football
+2024-10-14,Belgium,France,1.0,2.0,UEFA Nations League,,,,False,,0,0,0,1172963,5,2024,api_football
+2024-10-14,Iceland,Turkey,2.0,4.0,UEFA Nations League,,,,False,,0,0,0,1172921,5,2024,api_football
+2024-10-14,Germany,Netherlands,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172966,5,2024,api_football
+2024-10-14,Wales,Montenegro,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172922,5,2024,api_football
+2024-10-14,Italy,Israel,4.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172964,5,2024,api_football
+2024-10-14,Ukraine,Czech Republic,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172920,5,2024,api_football
+2024-10-14,Estonia,Sweden,0.0,3.0,UEFA Nations League,,,,False,,0,0,0,1173011,5,2024,api_football
+2024-10-14,Bosnia & Herzegovina,Hungary,0.0,2.0,UEFA Nations League,,,,False,,0,0,0,1172965,5,2024,api_football
+2024-10-15,Spain,Serbia,3.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172969,5,2024,api_football
+2024-10-15,Switzerland,Denmark,2.0,2.0,UEFA Nations League,,,,False,,0,0,0,1172970,5,2024,api_football
+2024-10-15,Poland,Croatia,3.0,3.0,UEFA Nations League,,,,False,,0,0,0,1172967,5,2024,api_football
+2024-10-15,Northern Ireland,Bulgaria,5.0,0.0,UEFA Nations League,,,,False,,0,0,0,1173014,5,2024,api_football
+2024-10-15,Lithuania,Romania,1.0,2.0,UEFA Nations League,,,,False,,0,0,0,1189858,5,2024,api_football
+2024-10-15,Belarus,Luxembourg,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,1173013,5,2024,api_football
+2024-10-15,Scotland,Portugal,0.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172968,5,2024,api_football
+2024-10-15,Kosovo,Cyprus,3.0,0.0,UEFA Nations League,,,,False,,0,0,0,1173012,5,2024,api_football
+2024-11-14,Kazakhstan,Austria,0.0,2.0,UEFA Nations League,,,,False,,0,0,0,1172923,5,2024,api_football
+2024-11-14,Armenia,Faroe Islands,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,1173015,5,2024,api_football
+2024-11-14,Belgium,Italy,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172971,5,2024,api_football
+2024-11-14,France,Israel,0.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172972,5,2024,api_football
+2024-11-14,Rep. Of Ireland,Finland,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172925,5,2024,api_football
+2024-11-14,Slovenia,Norway,1.0,4.0,UEFA Nations League,,,,False,,0,0,0,1172926,5,2024,api_football
+2024-11-14,FYR Macedonia,Latvia,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,1173016,5,2024,api_football
+2024-11-14,Greece,England,0.0,3.0,UEFA Nations League,,,,False,,0,0,0,1172924,5,2024,api_football
+2024-11-15,Cyprus,Lithuania,2.0,1.0,UEFA Nations League,,,,False,,0,0,0,1189859,5,2024,api_football
+2024-11-15,Switzerland,Serbia,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172976,5,2024,api_football
+2024-11-15,Denmark,Spain,1.0,2.0,UEFA Nations League,,,,False,,0,0,0,1172975,5,2024,api_football
+2024-11-15,Portugal,Poland,5.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172973,5,2024,api_football
+2024-11-15,Northern Ireland,Belarus,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,1173019,5,2024,api_football
+2024-11-15,Romania,Kosovo,3.0,0.0,UEFA Nations League,,,,False,,0,0,0,1173017,5,2024,api_football
+2024-11-15,Luxembourg,Bulgaria,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,1173018,5,2024,api_football
+2024-11-15,Scotland,Croatia,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172974,5,2024,api_football
+2024-11-15,San Marino,Gibraltar,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,1189864,5,2024,api_football
+2024-11-16,Azerbaijan,Estonia,0.0,0.0,UEFA Nations League,,,,False,,0,0,0,1173020,5,2024,api_football
+2024-11-16,Turkey,Wales,0.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172929,5,2024,api_football
+2024-11-16,Georgia,Ukraine,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172927,5,2024,api_football
+2024-11-16,Montenegro,Iceland,0.0,2.0,UEFA Nations League,,,,False,,0,0,0,1172928,5,2024,api_football
+2024-11-16,Andorra,Moldova,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,1173034,5,2024,api_football
+2024-11-16,Sweden,Slovakia,2.0,1.0,UEFA Nations League,,,,False,,0,0,0,1173021,5,2024,api_football
+2024-11-16,Germany,Bosnia & Herzegovina,7.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172977,5,2024,api_football
+2024-11-16,Albania,Czech Republic,0.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172930,5,2024,api_football
+2024-11-16,Netherlands,Hungary,4.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172978,5,2024,api_football
+2024-11-17,Latvia,Armenia,1.0,2.0,UEFA Nations League,,,,False,,0,0,0,1173022,5,2024,api_football
+2024-11-17,FYR Macedonia,Faroe Islands,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,1173023,5,2024,api_football
+2024-11-17,England,Rep. Of Ireland,5.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172931,5,2024,api_football
+2024-11-17,Austria,Slovenia,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172933,5,2024,api_football
+2024-11-17,Norway,Kazakhstan,5.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172934,5,2024,api_football
+2024-11-17,Finland,Greece,0.0,2.0,UEFA Nations League,,,,False,,0,0,0,1172932,5,2024,api_football
+2024-11-17,Italy,France,1.0,3.0,UEFA Nations League,,,,False,,0,0,0,1172980,5,2024,api_football
+2024-11-17,Israel,Belgium,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172979,5,2024,api_football
+2024-11-18,Croatia,Portugal,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172981,5,2024,api_football
+2024-11-18,Spain,Switzerland,3.0,2.0,UEFA Nations League,,,,False,,0,0,0,1172984,5,2024,api_football
+2024-11-18,Serbia,Denmark,0.0,0.0,UEFA Nations League,,,,False,,0,0,0,1172983,5,2024,api_football
+2024-11-18,Poland,Scotland,1.0,2.0,UEFA Nations League,,,,False,,0,0,0,1172982,5,2024,api_football
+2024-11-18,Romania,Cyprus,4.0,1.0,UEFA Nations League,,,,False,,0,0,0,1173024,5,2024,api_football
+2024-11-18,Luxembourg,Northern Ireland,2.0,2.0,UEFA Nations League,,,,False,,0,0,0,1173026,5,2024,api_football
+2024-11-18,Bulgaria,Belarus,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,1173025,5,2024,api_football
+2024-11-18,Liechtenstein,San Marino,1.0,3.0,UEFA Nations League,,,,False,,0,0,0,1173035,5,2024,api_football
+2024-11-18,Kosovo,Lithuania,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,1189860,5,2024,api_football
+2024-11-19,Sweden,Azerbaijan,6.0,0.0,UEFA Nations League,,,,False,,0,0,0,1173028,5,2024,api_football
+2024-11-19,Wales,Iceland,4.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172938,5,2024,api_football
+2024-11-19,Hungary,Germany,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172986,5,2024,api_football
+2024-11-19,Czech Republic,Georgia,2.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172936,5,2024,api_football
+2024-11-19,Slovakia,Estonia,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,1173027,5,2024,api_football
+2024-11-19,Albania,Ukraine,1.0,2.0,UEFA Nations League,,,,False,,0,0,0,1172935,5,2024,api_football
+2024-11-19,Montenegro,Turkey,3.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172937,5,2024,api_football
+2024-11-19,Malta,Andorra,0.0,0.0,UEFA Nations League,,,,False,,0,0,0,1173036,5,2024,api_football
+2024-11-19,Bosnia & Herzegovina,Netherlands,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,1172985,5,2024,api_football
+2025-03-20,Turkey,Hungary,3.0,1.0,UEFA Nations League,,,,False,,0,0,0,1316553,5,2024,api_football
+2025-03-20,Armenia,Georgia,0.0,3.0,UEFA Nations League,,,,False,,0,0,0,1316565,5,2024,api_football
+2025-03-20,Croatia,France,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,1316547,5,2024,api_football
+2025-03-20,Denmark,Portugal,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,1316549,5,2024,api_football
+2025-03-20,Italy,Germany,1.0,2.0,UEFA Nations League,,,,False,,0,0,0,1316551,5,2024,api_football
+2025-03-20,Ukraine,Belgium,3.0,1.0,UEFA Nations League,,,,False,,0,0,0,1316555,5,2024,api_football
+2025-03-20,Slovakia,Slovenia,0.0,0.0,UEFA Nations League,,,,False,,0,0,0,1316567,5,2024,api_football
+2025-03-20,Austria,Serbia,1.0,1.0,UEFA Nations League,,,,False,,0,0,0,1316557,5,2024,api_football
+2025-03-20,Bulgaria,Rep. Of Ireland,1.0,2.0,UEFA Nations League,,,,False,,0,0,0,1316563,5,2024,api_football
+2025-03-20,Kosovo,Iceland,2.0,1.0,UEFA Nations League,,,,False,,0,0,0,1316561,5,2024,api_football
+2025-03-20,Greece,Scotland,0.0,1.0,UEFA Nations League,,,,False,,0,0,0,1316559,5,2024,api_football
+2025-03-20,Netherlands,Spain,2.0,2.0,UEFA Nations League,,,,False,,0,0,0,1316545,5,2024,api_football
+2025-03-23,Georgia,Armenia,6.0,1.0,UEFA Nations League,,,,False,,0,0,0,1316566,5,2024,api_football
+2025-03-23,Serbia,Austria,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,1316558,5,2024,api_football
+2025-03-23,Iceland,Kosovo,1.0,3.0,UEFA Nations League,,,,False,,0,0,0,1316562,5,2024,api_football
+2025-03-23,Hungary,Turkey,0.0,3.0,UEFA Nations League,,,,False,,0,0,0,1316554,5,2024,api_football
+2025-03-23,Slovenia,Slovakia,1.0,0.0,UEFA Nations League,,,,False,,0,0,0,1316568,5,2024,api_football
+2025-03-23,Scotland,Greece,0.0,3.0,UEFA Nations League,,,,False,,0,0,0,1316560,5,2024,api_football
+2025-03-23,Belgium,Ukraine,3.0,0.0,UEFA Nations League,,,,False,,0,0,0,1316556,5,2024,api_football
+2025-03-23,France,Croatia,2.0,0.0,UEFA Nations League,,,,False,,0,0,0,1316548,5,2024,api_football
+2025-03-23,Spain,Netherlands,3.0,3.0,UEFA Nations League,,,,False,,0,0,0,1316546,5,2024,api_football
+2025-03-23,Germany,Italy,3.0,3.0,UEFA Nations League,,,,False,,0,0,0,1316552,5,2024,api_football
+2025-03-23,Portugal,Denmark,5.0,2.0,UEFA Nations League,,,,False,,0,0,0,1316550,5,2024,api_football
+2025-03-23,Rep. Of Ireland,Bulgaria,2.0,1.0,UEFA Nations League,,,,False,,0,0,0,1316564,5,2024,api_football
+2025-06-04,Germany,Portugal,1.0,2.0,UEFA Nations League,,,,False,,0,0,0,1366136,5,2024,api_football
+2025-06-05,Spain,France,5.0,4.0,UEFA Nations League,,,,False,,0,0,0,1366137,5,2024,api_football
+2025-06-08,Germany,France,0.0,2.0,UEFA Nations League,,,,False,,0,0,0,1377653,5,2024,api_football
+2025-06-08,Portugal,Spain,2.0,2.0,UEFA Nations League,,,,False,,0,0,0,1377654,5,2024,api_football
+2026-03-26,Gibraltar,Latvia,,,UEFA Nations League,,,,False,,0,0,0,1316569,5,2024,api_football
+2026-03-26,Malta,Luxembourg,,,UEFA Nations League,,,,False,,0,0,0,1316571,5,2024,api_football
+2026-03-31,Latvia,Gibraltar,,,UEFA Nations League,,,,False,,0,0,0,1316570,5,2024,api_football
+2026-03-31,Luxembourg,Malta,,,UEFA Nations League,,,,False,,0,0,0,1316572,5,2024,api_football
+2021-03-25,Nicaragua,St. Lucia,,,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592670,31,2022,api_football
+2021-03-28,St. Lucia,Haiti,,,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592688,31,2022,api_football
+2021-06-02,St. Lucia,Turks and Caicos Islands,,,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592700,31,2022,api_football
+2021-06-08,Belize,St. Lucia,,,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592724,31,2022,api_football
+2021-03-23,Antigua and Barbuda,Montserrat,2.0,2.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592666,31,2022,api_football
+2021-03-23,Suriname,Cayman Islands,3.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592667,31,2022,api_football
+2021-03-24,St. Kitts and Nevis,Puerto Rico,1.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592671,31,2022,api_football
+2021-03-24,Curaçao,St. Vincent / Grenadines,5.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592674,31,2022,api_football
+2021-03-24,Dominican Republic,Dominica,1.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592669,31,2022,api_football
+2021-03-25,Guatemala,Cuba,1.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592668,31,2022,api_football
+2021-03-25,Haiti,Belize,2.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592676,31,2022,api_football
+2021-03-25,Trinidad and Tobago,Guyana,3.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592677,31,2022,api_football
+2021-03-26,Panama,Barbados,1.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592675,31,2022,api_football
+2021-03-26,Canada,Bermuda,5.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592673,31,2022,api_football
+2021-03-26,El Salvador,Grenada,2.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592672,31,2022,api_football
+2021-03-26,Anguilla,Dominican Republic,0.0,6.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592681,31,2022,api_football
+2021-03-26,British Virgin Islands,Guatemala,0.0,3.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592680,31,2022,api_football
+2021-03-27,Turks and Caicos Islands,Nicaragua,0.0,7.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592682,31,2022,api_football
+2021-03-27,Bahamas,St. Kitts and Nevis,0.0,4.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592683,31,2022,api_football
+2021-03-27,Aruba,Suriname,0.0,6.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592679,31,2022,api_football
+2021-03-27,US Virgin Islands,Antigua and Barbuda,0.0,3.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592678,31,2022,api_football
+2021-03-28,Dominica,Panama,1.0,2.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592687,31,2022,api_football
+2021-03-28,Cuba,Curaçao,1.0,2.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592686,31,2022,api_football
+2021-03-28,Puerto Rico,Trinidad and Tobago,1.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592689,31,2022,api_football
+2021-03-28,Montserrat,El Salvador,1.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592684,31,2022,api_football
+2021-03-30,Guyana,Bahamas,4.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592695,31,2022,api_football
+2021-03-30,Cayman Islands,Canada,0.0,11.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592685,31,2022,api_football
+2021-03-30,Belize,Turks and Caicos Islands,5.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592694,31,2022,api_football
+2021-03-30,St. Vincent / Grenadines,British Virgin Islands,3.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592692,31,2022,api_football
+2021-03-30,Grenada,US Virgin Islands,1.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592690,31,2022,api_football
+2021-03-30,Barbados,Anguilla,1.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592693,31,2022,api_football
+2021-03-31,Bermuda,Aruba,5.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592691,31,2022,api_football
+2021-06-02,Dominica,Anguilla,3.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592699,31,2022,api_football
+2021-06-02,Montserrat,US Virgin Islands,4.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592696,31,2022,api_football
+2021-06-02,Cuba,British Virgin Islands,5.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592698,31,2022,api_football
+2021-06-02,Cayman Islands,Aruba,1.0,3.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592697,31,2022,api_football
+2021-06-02,Puerto Rico,Bahamas,7.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592701,31,2022,api_football
+2021-06-04,Antigua and Barbuda,Grenada,1.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592702,31,2022,api_football
+2021-06-04,St. Kitts and Nevis,Guyana,3.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592707,31,2022,api_football
+2021-06-04,Guatemala,St. Vincent / Grenadines,10.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592704,31,2022,api_football
+2021-06-04,Suriname,Bermuda,6.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592703,31,2022,api_football
+2021-06-04,Dominican Republic,Barbados,1.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592705,31,2022,api_football
+2021-06-05,Nicaragua,Belize,3.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592706,31,2022,api_football
+2021-06-05,Turks and Caicos Islands,Haiti,0.0,10.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592712,31,2022,api_football
+2021-06-05,Bahamas,Trinidad and Tobago,0.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592713,31,2022,api_football
+2021-06-05,British Virgin Islands,Curaçao,0.0,8.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592710,31,2022,api_football
+2021-06-05,US Virgin Islands,El Salvador,0.0,7.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592708,31,2022,api_football
+2021-06-06,Anguilla,Panama,0.0,13.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592711,31,2022,api_football
+2021-06-06,Aruba,Canada,0.0,7.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592709,31,2022,api_football
+2021-06-08,Guyana,Puerto Rico,0.0,2.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592725,31,2022,api_football
+2021-06-08,St. Vincent / Grenadines,Cuba,0.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592716,31,2022,api_football
+2021-06-08,Haiti,Nicaragua,1.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592718,31,2022,api_football
+2021-06-08,Trinidad and Tobago,St. Kitts and Nevis,2.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592719,31,2022,api_football
+2021-06-08,Grenada,Montserrat,1.0,2.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592714,31,2022,api_football
+2021-06-09,Bermuda,Cayman Islands,1.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592721,31,2022,api_football
+2021-06-09,Curaçao,Guatemala,0.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592722,31,2022,api_football
+2021-06-09,Panama,Dominican Republic,3.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592717,31,2022,api_football
+2021-06-09,Barbados,Dominica,1.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592723,31,2022,api_football
+2021-06-09,El Salvador,Antigua and Barbuda,3.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592720,31,2022,api_football
+2021-06-09,Canada,Suriname,4.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,592715,31,2022,api_football
+2021-06-12,St. Kitts and Nevis,El Salvador,0.0,4.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,706971,31,2022,api_football
+2021-06-12,Haiti,Canada,0.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,706969,31,2022,api_football
+2021-06-12,Panama,Curaçao,2.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,706967,31,2022,api_football
+2021-06-16,Curaçao,Panama,0.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,706968,31,2022,api_football
+2021-06-16,Canada,Haiti,3.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,706970,31,2022,api_football
+2021-06-16,El Salvador,St. Kitts and Nevis,2.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,706972,31,2022,api_football
+2021-09-03,Canada,Honduras,1.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708809,31,2022,api_football
+2021-09-03,Panama,Costa Rica,0.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708811,31,2022,api_football
+2021-09-03,Mexico,Jamaica,2.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708812,31,2022,api_football
+2021-09-03,El Salvador,United States,0.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708810,31,2022,api_football
+2021-09-05,Jamaica,Panama,0.0,3.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708816,31,2022,api_football
+2021-09-05,Costa Rica,Mexico,0.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708815,31,2022,api_football
+2021-09-05,El Salvador,Honduras,0.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708814,31,2022,api_football
+2021-09-06,United States,Canada,1.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708813,31,2022,api_football
+2021-09-08,Canada,El Salvador,3.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708817,31,2022,api_football
+2021-09-09,Panama,Mexico,1.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708819,31,2022,api_football
+2021-09-09,Costa Rica,Jamaica,1.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708820,31,2022,api_football
+2021-09-09,Honduras,United States,1.0,4.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708818,31,2022,api_football
+2021-10-07,United States,Jamaica,2.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708824,31,2022,api_football
+2021-10-08,Honduras,Costa Rica,0.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708822,31,2022,api_football
+2021-10-08,Mexico,Canada,1.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708821,31,2022,api_football
+2021-10-08,El Salvador,Panama,1.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708823,31,2022,api_football
+2021-10-10,Panama,United States,1.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708828,31,2022,api_football
+2021-10-10,Jamaica,Canada,0.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708825,31,2022,api_football
+2021-10-10,Costa Rica,El Salvador,2.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708827,31,2022,api_football
+2021-10-10,Mexico,Honduras,3.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708826,31,2022,api_football
+2021-10-13,United States,Costa Rica,2.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708832,31,2022,api_football
+2021-10-13,Canada,Panama,4.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708829,31,2022,api_football
+2021-10-14,Honduras,Jamaica,0.0,2.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708830,31,2022,api_football
+2021-10-14,El Salvador,Mexico,0.0,2.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708831,31,2022,api_football
+2021-11-13,Honduras,Panama,2.0,3.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708834,31,2022,api_football
+2021-11-13,El Salvador,Jamaica,1.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708835,31,2022,api_football
+2021-11-13,Canada,Costa Rica,1.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708833,31,2022,api_football
+2021-11-13,United States,Mexico,2.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708836,31,2022,api_football
+2021-11-16,Jamaica,United States,1.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708840,31,2022,api_football
+2021-11-17,Panama,El Salvador,2.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708839,31,2022,api_football
+2021-11-17,Costa Rica,Honduras,2.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708838,31,2022,api_football
+2021-11-17,Canada,Mexico,2.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708837,31,2022,api_football
+2022-01-28,United States,El Salvador,1.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708842,31,2022,api_football
+2022-01-28,Jamaica,Mexico,1.0,2.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708844,31,2022,api_football
+2022-01-28,Honduras,Canada,0.0,2.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708841,31,2022,api_football
+2022-01-28,Costa Rica,Panama,1.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708843,31,2022,api_football
+2022-01-29,Panama,Jamaica,3.0,2.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708848,31,2022,api_football
+2022-01-30,Canada,United States,2.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708845,31,2022,api_football
+2022-01-30,Mexico,Costa Rica,0.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708847,31,2022,api_football
+2022-01-31,Honduras,El Salvador,0.0,2.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708846,31,2022,api_football
+2022-02-03,Jamaica,Costa Rica,0.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708852,31,2022,api_football
+2022-02-03,United States,Honduras,3.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708850,31,2022,api_football
+2022-02-03,El Salvador,Canada,0.0,2.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708849,31,2022,api_football
+2022-02-03,Mexico,Panama,1.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708851,31,2022,api_football
+2022-03-24,Jamaica,El Salvador,1.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708855,31,2022,api_football
+2022-03-25,Panama,Honduras,1.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708854,31,2022,api_football
+2022-03-25,Mexico,United States,0.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708856,31,2022,api_football
+2022-03-25,Costa Rica,Canada,1.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708853,31,2022,api_football
+2022-03-27,Canada,Jamaica,4.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708857,31,2022,api_football
+2022-03-27,El Salvador,Costa Rica,1.0,2.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708859,31,2022,api_football
+2022-03-27,United States,Panama,5.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708860,31,2022,api_football
+2022-03-27,Honduras,Mexico,0.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708858,31,2022,api_football
+2022-03-31,Panama,Canada,1.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708861,31,2022,api_football
+2022-03-31,Mexico,El Salvador,2.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708863,31,2022,api_football
+2022-03-31,Costa Rica,United States,2.0,0.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708864,31,2022,api_football
+2022-03-31,Jamaica,Honduras,2.0,1.0,World Cup - Qualification CONCACAF,,,,False,,0,0,0,708862,31,2022,api_football
+2025-03-21,Cyprus,San Marino,2.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323239,32,2024,api_football
+2025-03-21,England,Albania,2.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323242,32,2024,api_football
+2025-03-21,Poland,Lithuania,1.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323238,32,2024,api_football
+2025-03-21,Romania,Bosnia & Herzegovina,0.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323240,32,2024,api_football
+2025-03-21,Andorra,Latvia,0.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323241,32,2024,api_football
+2025-03-21,Malta,Finland,0.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323237,32,2024,api_football
+2025-03-22,Liechtenstein,FYR Macedonia,0.0,3.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323243,32,2024,api_football
+2025-03-22,Montenegro,Gibraltar,3.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323245,32,2024,api_football
+2025-03-22,Moldova,Norway,0.0,5.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323244,32,2024,api_football
+2025-03-22,Wales,Kazakhstan,3.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323247,32,2024,api_football
+2025-03-22,Czech Republic,Faroe Islands,2.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323248,32,2024,api_football
+2025-03-22,Israel,Estonia,2.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323246,32,2024,api_football
+2025-03-24,Lithuania,Finland,2.0,2.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323249,32,2024,api_football
+2025-03-24,England,Latvia,3.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323254,32,2024,api_football
+2025-03-24,Poland,Malta,2.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323250,32,2024,api_football
+2025-03-24,Albania,Andorra,3.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323253,32,2024,api_football
+2025-03-24,Bosnia & Herzegovina,Cyprus,2.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323251,32,2024,api_football
+2025-03-24,San Marino,Romania,1.0,5.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323252,32,2024,api_football
+2025-03-25,Moldova,Estonia,2.0,3.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323256,32,2024,api_football
+2025-03-25,Gibraltar,Czech Republic,0.0,4.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323259,32,2024,api_football
+2025-03-25,FYR Macedonia,Wales,1.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323258,32,2024,api_football
+2025-03-25,Liechtenstein,Kazakhstan,0.0,2.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323257,32,2024,api_football
+2025-03-25,Montenegro,Faroe Islands,1.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323260,32,2024,api_football
+2025-03-25,Israel,Norway,2.0,4.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323255,32,2024,api_football
+2025-06-06,Wales,Liechtenstein,3.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323263,32,2024,api_football
+2025-06-06,Czech Republic,Montenegro,2.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323264,32,2024,api_football
+2025-06-06,Norway,Italy,3.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366273,32,2024,api_football
+2025-06-06,Gibraltar,Croatia,0.0,7.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366274,32,2024,api_football
+2025-06-06,Estonia,Israel,1.0,3.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323261,32,2024,api_football
+2025-06-06,FYR Macedonia,Belgium,1.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323262,32,2024,api_football
+2025-06-07,Bosnia & Herzegovina,San Marino,1.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323265,32,2024,api_football
+2025-06-07,Andorra,England,0.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323267,32,2024,api_football
+2025-06-07,Malta,Lithuania,0.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323266,32,2024,api_football
+2025-06-07,Austria,Romania,2.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323268,32,2024,api_football
+2025-06-07,Albania,Serbia,0.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323269,32,2024,api_football
+2025-06-07,Finland,Netherlands,0.0,2.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366275,32,2024,api_football
+2025-06-09,Kazakhstan,FYR Macedonia,0.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323270,32,2024,api_football
+2025-06-09,Belgium,Wales,4.0,3.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323272,32,2024,api_football
+2025-06-09,Croatia,Czech Republic,5.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366277,32,2024,api_football
+2025-06-09,Italy,Moldova,2.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366276,32,2024,api_football
+2025-06-09,Faroe Islands,Gibraltar,2.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323273,32,2024,api_football
+2025-06-09,Estonia,Norway,0.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323271,32,2024,api_football
+2025-06-10,Serbia,Andorra,3.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323278,32,2024,api_football
+2025-06-10,Romania,Cyprus,2.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323275,32,2024,api_football
+2025-06-10,Latvia,Albania,1.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323277,32,2024,api_football
+2025-06-10,Finland,Poland,2.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323274,32,2024,api_football
+2025-06-10,San Marino,Austria,0.0,4.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323276,32,2024,api_football
+2025-06-10,Netherlands,Malta,8.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366278,32,2024,api_football
+2025-09-04,Kazakhstan,Wales,0.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323279,32,2024,api_football
+2025-09-04,Lithuania,Malta,1.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323282,32,2024,api_football
+2025-09-04,Georgia,Turkey,2.0,3.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323280,32,2024,api_football
+2025-09-04,Slovakia,Germany,2.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366279,32,2024,api_football
+2025-09-04,Luxembourg,Northern Ireland,1.0,3.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323281,32,2024,api_football
+2025-09-04,Bulgaria,Spain,0.0,3.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366280,32,2024,api_football
+2025-09-04,Liechtenstein,Belgium,0.0,6.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323283,32,2024,api_football
+2025-09-04,Netherlands,Poland,1.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366281,32,2024,api_football
+2025-09-05,Switzerland,Kosovo,4.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323285,32,2024,api_football
+2025-09-05,Iceland,Azerbaijan,5.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323287,32,2024,api_football
+2025-09-05,Denmark,Scotland,0.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366282,32,2024,api_football
+2025-09-05,Italy,Estonia,5.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366284,32,2024,api_football
+2025-09-05,Ukraine,France,0.0,2.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366283,32,2024,api_football
+2025-09-05,Slovenia,Sweden,2.0,2.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323284,32,2024,api_football
+2025-09-05,Faroe Islands,Croatia,0.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366285,32,2024,api_football
+2025-09-05,Montenegro,Czech Republic,0.0,2.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323289,32,2024,api_football
+2025-09-05,Moldova,Israel,0.0,4.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323288,32,2024,api_football
+2025-09-05,Greece,Belarus,5.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323286,32,2024,api_football
+2025-09-06,Latvia,Serbia,0.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323290,32,2024,api_football
+2025-09-06,England,Andorra,2.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323291,32,2024,api_football
+2025-09-06,Armenia,Portugal,0.0,5.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366286,32,2024,api_football
+2025-09-06,Austria,Cyprus,1.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323293,32,2024,api_football
+2025-09-06,Rep. Of Ireland,Hungary,2.0,2.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323292,32,2024,api_football
+2025-09-06,San Marino,Bosnia & Herzegovina,0.0,6.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323294,32,2024,api_football
+2025-09-07,Georgia,Bulgaria,3.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323295,32,2024,api_football
+2025-09-07,Lithuania,Netherlands,2.0,3.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366287,32,2024,api_football
+2025-09-07,FYR Macedonia,Liechtenstein,5.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323296,32,2024,api_football
+2025-09-07,Belgium,Kazakhstan,6.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323299,32,2024,api_football
+2025-09-07,Poland,Finland,3.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323298,32,2024,api_football
+2025-09-07,Germany,Northern Ireland,3.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366288,32,2024,api_football
+2025-09-07,Turkey,Spain,0.0,6.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366289,32,2024,api_football
+2025-09-07,Luxembourg,Slovakia,0.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323297,32,2024,api_football
+2025-09-08,Croatia,Montenegro,4.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366292,32,2024,api_football
+2025-09-08,Switzerland,Slovenia,3.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323301,32,2024,api_football
+2025-09-08,Gibraltar,Faroe Islands,0.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323304,32,2024,api_football
+2025-09-08,Belarus,Scotland,0.0,2.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323302,32,2024,api_football
+2025-09-08,Kosovo,Sweden,2.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323300,32,2024,api_football
+2025-09-08,Israel,Italy,4.0,5.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366291,32,2024,api_football
+2025-09-08,Greece,Denmark,0.0,3.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366290,32,2024,api_football
+2025-09-09,Armenia,Rep. Of Ireland,2.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323306,32,2024,api_football
+2025-09-09,Azerbaijan,Ukraine,1.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323305,32,2024,api_football
+2025-09-09,France,Iceland,2.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366293,32,2024,api_football
+2025-09-09,Serbia,England,0.0,5.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323310,32,2024,api_football
+2025-09-09,Hungary,Portugal,2.0,3.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366294,32,2024,api_football
+2025-09-09,Albania,Latvia,1.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323309,32,2024,api_football
+2025-09-09,Norway,Moldova,11.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323303,32,2024,api_football
+2025-09-09,Cyprus,Romania,2.0,2.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323308,32,2024,api_football
+2025-09-09,Bosnia & Herzegovina,Austria,1.0,2.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323307,32,2024,api_football
+2025-10-09,Finland,Lithuania,2.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323312,32,2024,api_football
+2025-10-09,Czech Republic,Croatia,0.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366297,32,2024,api_football
+2025-10-09,Austria,San Marino,10.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323313,32,2024,api_football
+2025-10-09,Faroe Islands,Montenegro,4.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323315,32,2024,api_football
+2025-10-09,Belarus,Denmark,0.0,6.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366295,32,2024,api_football
+2025-10-09,Cyprus,Bosnia & Herzegovina,2.0,2.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323314,32,2024,api_football
+2025-10-09,Scotland,Greece,3.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323311,32,2024,api_football
+2025-10-09,Malta,Netherlands,0.0,4.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366296,32,2024,api_football
+2025-10-10,Kazakhstan,Liechtenstein,4.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323316,32,2024,api_football
+2025-10-10,Belgium,FYR Macedonia,0.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323321,32,2024,api_football
+2025-10-10,France,Azerbaijan,3.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366299,32,2024,api_football
+2025-10-10,Sweden,Switzerland,0.0,2.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323319,32,2024,api_football
+2025-10-10,Iceland,Ukraine,3.0,5.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323320,32,2024,api_football
+2025-10-10,Germany,Luxembourg,4.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366298,32,2024,api_football
+2025-10-10,Northern Ireland,Slovakia,2.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323317,32,2024,api_football
+2025-10-10,Kosovo,Slovenia,0.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323318,32,2024,api_football
+2025-10-11,Latvia,Andorra,2.0,2.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323322,32,2024,api_football
+2025-10-11,Hungary,Armenia,2.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323323,32,2024,api_football
+2025-10-11,Norway,Israel,5.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323324,32,2024,api_football
+2025-10-11,Spain,Georgia,2.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366300,32,2024,api_football
+2025-10-11,Serbia,Albania,0.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323326,32,2024,api_football
+2025-10-11,Portugal,Rep. Of Ireland,1.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366301,32,2024,api_football
+2025-10-11,Estonia,Italy,1.0,3.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366302,32,2024,api_football
+2025-10-11,Bulgaria,Turkey,1.0,6.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323325,32,2024,api_football
+2025-10-12,San Marino,Cyprus,0.0,4.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323327,32,2024,api_football
+2025-10-12,Faroe Islands,Czech Republic,2.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323329,32,2024,api_football
+2025-10-12,Scotland,Belarus,2.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323328,32,2024,api_football
+2025-10-12,Netherlands,Finland,4.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366303,32,2024,api_football
+2025-10-12,Croatia,Gibraltar,3.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366305,32,2024,api_football
+2025-10-12,Denmark,Greece,3.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366304,32,2024,api_football
+2025-10-12,Romania,Austria,1.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323331,32,2024,api_football
+2025-10-12,Lithuania,Poland,0.0,2.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323330,32,2024,api_football
+2025-10-13,Sweden,Kosovo,0.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323334,32,2024,api_football
+2025-10-13,Iceland,France,2.0,2.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366307,32,2024,api_football
+2025-10-13,Wales,Belgium,2.0,4.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323337,32,2024,api_football
+2025-10-13,Northern Ireland,Germany,0.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366306,32,2024,api_football
+2025-10-13,Ukraine,Azerbaijan,2.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323335,32,2024,api_football
+2025-10-13,Slovakia,Luxembourg,2.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323332,32,2024,api_football
+2025-10-13,Slovenia,Switzerland,0.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323333,32,2024,api_football
+2025-10-13,FYR Macedonia,Kazakhstan,1.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323336,32,2024,api_football
+2025-10-14,Estonia,Moldova,1.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323340,32,2024,api_football
+2025-10-14,Spain,Bulgaria,4.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366308,32,2024,api_football
+2025-10-14,Portugal,Hungary,2.0,2.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366309,32,2024,api_football
+2025-10-14,Italy,Israel,3.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366310,32,2024,api_football
+2025-10-14,Rep. Of Ireland,Armenia,1.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323339,32,2024,api_football
+2025-10-14,Turkey,Georgia,4.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323338,32,2024,api_football
+2025-10-14,Latvia,England,0.0,5.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323342,32,2024,api_football
+2025-10-14,Andorra,Serbia,1.0,3.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323341,32,2024,api_football
+2025-11-13,Norway,Estonia,4.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323345,32,2024,api_football
+2025-11-13,Armenia,Hungary,0.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323344,32,2024,api_football
+2025-11-13,Azerbaijan,Iceland,0.0,2.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323343,32,2024,api_football
+2025-11-13,France,Ukraine,4.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366311,32,2024,api_football
+2025-11-13,England,Serbia,2.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323347,32,2024,api_football
+2025-11-13,Rep. Of Ireland,Portugal,2.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366312,32,2024,api_football
+2025-11-13,Andorra,Albania,0.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323346,32,2024,api_football
+2025-11-13,Moldova,Italy,0.0,2.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366313,32,2024,api_football
+2025-11-14,Finland,Malta,0.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323348,32,2024,api_football
+2025-11-14,Croatia,Faroe Islands,3.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366316,32,2024,api_football
+2025-11-14,Poland,Netherlands,1.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366315,32,2024,api_football
+2025-11-14,Slovakia,Northern Ireland,1.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323349,32,2024,api_football
+2025-11-14,Gibraltar,Montenegro,1.0,2.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323350,32,2024,api_football
+2025-11-14,Luxembourg,Germany,0.0,2.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366314,32,2024,api_football
+2025-11-15,Kazakhstan,Belgium,1.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323351,32,2024,api_football
+2025-11-15,Turkey,Bulgaria,2.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323352,32,2024,api_football
+2025-11-15,Georgia,Spain,0.0,4.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366317,32,2024,api_football
+2025-11-15,Cyprus,Austria,0.0,2.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323353,32,2024,api_football
+2025-11-15,Liechtenstein,Wales,0.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323354,32,2024,api_football
+2025-11-15,Switzerland,Sweden,4.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323356,32,2024,api_football
+2025-11-15,Denmark,Belarus,2.0,2.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366318,32,2024,api_football
+2025-11-15,Slovenia,Kosovo,0.0,2.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323355,32,2024,api_football
+2025-11-15,Bosnia & Herzegovina,Romania,3.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323358,32,2024,api_football
+2025-11-15,Greece,Scotland,3.0,2.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323357,32,2024,api_football
+2025-11-16,Portugal,Armenia,9.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366319,32,2024,api_football
+2025-11-16,Hungary,Rep. Of Ireland,2.0,3.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323359,32,2024,api_football
+2025-11-16,Serbia,Latvia,2.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323362,32,2024,api_football
+2025-11-16,Ukraine,Iceland,2.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323360,32,2024,api_football
+2025-11-16,Albania,England,0.0,2.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323361,32,2024,api_football
+2025-11-16,Azerbaijan,France,1.0,3.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366320,32,2024,api_football
+2025-11-16,Italy,Norway,1.0,4.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366321,32,2024,api_football
+2025-11-16,Israel,Moldova,4.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323363,32,2024,api_football
+2025-11-17,Germany,Slovakia,6.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366322,32,2024,api_football
+2025-11-17,Czech Republic,Gibraltar,6.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323366,32,2024,api_football
+2025-11-17,Northern Ireland,Luxembourg,1.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323364,32,2024,api_football
+2025-11-17,Montenegro,Croatia,2.0,3.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366324,32,2024,api_football
+2025-11-17,Malta,Poland,2.0,3.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323365,32,2024,api_football
+2025-11-17,Netherlands,Lithuania,4.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366323,32,2024,api_football
+2025-11-18,Belgium,Liechtenstein,7.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323373,32,2024,api_football
+2025-11-18,Sweden,Slovenia,1.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323368,32,2024,api_football
+2025-11-18,Spain,Turkey,2.0,2.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366326,32,2024,api_football
+2025-11-18,Wales,FYR Macedonia,7.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323374,32,2024,api_football
+2025-11-18,Romania,San Marino,7.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323372,32,2024,api_football
+2025-11-18,Austria,Bosnia & Herzegovina,1.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323371,32,2024,api_football
+2025-11-18,Belarus,Greece,0.0,0.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323369,32,2024,api_football
+2025-11-18,Bulgaria,Georgia,2.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323370,32,2024,api_football
+2025-11-18,Scotland,Denmark,4.0,2.0,World Cup - Qualification Europe,,,,False,,0,0,0,1366325,32,2024,api_football
+2025-11-18,Kosovo,Switzerland,1.0,1.0,World Cup - Qualification Europe,,,,False,,0,0,0,1323367,32,2024,api_football
+2026-03-26,Turkey,Romania,,,World Cup - Qualification Europe,,,,False,,0,0,0,1487922,32,2024,api_football
+2026-03-26,Denmark,FYR Macedonia,,,World Cup - Qualification Europe,,,,False,,0,0,0,1487924,32,2024,api_football
+2026-03-26,Poland,Albania,,,World Cup - Qualification Europe,,,,False,,0,0,0,1487926,32,2024,api_football
+2026-03-26,Wales,Bosnia & Herzegovina,,,World Cup - Qualification Europe,,,,False,,0,0,0,1487929,32,2024,api_football
+2026-03-26,Italy,Northern Ireland,,,World Cup - Qualification Europe,,,,False,,0,0,0,1487925,32,2024,api_football
+2026-03-26,Czech Republic,Rep. Of Ireland,,,World Cup - Qualification Europe,,,,False,,0,0,0,1487923,32,2024,api_football
+2026-03-26,Ukraine,Sweden,,,World Cup - Qualification Europe,,,,False,,0,0,0,1487928,32,2024,api_football
+2026-03-26,Slovakia,Kosovo,,,World Cup - Qualification Europe,,,,False,,0,0,0,1487927,32,2024,api_football
+2022-06-13,Australia,Peru,0.0,0.0,World Cup - Qualification Intercontinental Play-offs,,,,False,,0,0,0,865834,37,2022,api_football
+2022-06-14,Costa Rica,New Zealand,1.0,0.0,World Cup - Qualification Intercontinental Play-offs,,,,False,,0,0,0,855729,37,2022,api_football
