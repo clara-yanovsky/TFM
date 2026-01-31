@@ -17,7 +17,8 @@ El proceso de preparación de datos se realizó a partir de un dataset curado de
 - Prevención de fuga de información (*data leakage*) mediante el uso de cálculos con `lag`
 
 ## Estructura del repositorio
-´´´text
+
+
 ├── data/
 │   ├── raw/            # Datos originales (inmutables)
 │   ├── processed/      # Datos finales listos para modelado
@@ -27,7 +28,7 @@ El proceso de preparación de datos se realizó a partir de un dataset curado de
 ├── src/                # Código fuente en .py (scripts de limpieza, entrenamiento)
 ├── models/             # Modelos entrenados, predicciones o archivos binarios
 │   └── output/         # Archivos finales modelo
-´´´
+
 
 Se incluyen versiones en formato CSV y RDS para garantizar transparencia y reproducibilidad del proceso.
 
