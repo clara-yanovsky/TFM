@@ -18,15 +18,15 @@ El proceso de preparación de datos se realizó a partir de un dataset curado de
 
 ## Estructura del repositorio
 
-├── data/                                                                             <br>
-│   ├── raw/            # Datos originales (inmutables)                               <br>
-│   ├── processed/      # Datos finales listos para modelado                          <br>
-│   └── curated/        # Resultados intermedios                                      <br>
-|── data_to_model/      # Input modelos                                               <br>
-├── notebooks/          # Cuadernos Jupyter para exploración (EDA)                    <br>
-├── src/                # Código fuente en .py (scripts de limpieza, entrenamiento)   <br>
-├── models/             # Modelos entrenados, predicciones o archivos binarios        <br>
-|   |── output/         # Archivos finales modelo                                     <br>
+├── data/
+│   ├── raw/            # Datos originales (inmutables)
+│   ├── processed/      # Datos finales listos para modelado
+│   └── curated/        # Resultados intermedios
+├── data_to_model/      # Input modelos
+├── notebooks/          # Cuadernos Jupyter para exploración (EDA)
+├── src/                # Código fuente en .py (scripts de limpieza, entrenamiento)
+├── models/             # Modelos entrenados, predicciones o archivos binarios
+│   └── output/         # Archivos finales modelo
 
 
 Se incluyen versiones en formato CSV y RDS para garantizar transparencia y reproducibilidad del proceso.
