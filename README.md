@@ -20,13 +20,16 @@ El proceso de preparación de datos se realizó a partir de un dataset curado de
 
     ├── data/
     │   ├── raw/            # Datos originales (inmutables)
-    │   ├── processed/      # Datos finales listos para modelado
-    │   └── curated/        # Resultados intermedios
+    │   ├── processed/      # Datos normalizados
+    │   └── curated/        # Datos integrados
     ├── data_to_model/      # Input modelos
     ├── notebooks/          # Cuadernos Jupyter para exploración (EDA)
     ├── src/                # Código fuente en .py (scripts de limpieza, entrenamiento)
     ├── models/             # Modelos entrenados, predicciones o archivos binarios
     │   └── output/         # Archivos finales modelo
+    ├── reports/            # Resultados finales (PDF, imágenes)
+    |   └── figures/        # Gráficos generados
+    
 
 
 Se incluyen versiones en formato CSV y RDS para garantizar transparencia y reproducibilidad del proceso.
