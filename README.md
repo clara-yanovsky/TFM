@@ -18,10 +18,18 @@ El proceso de preparación de datos se realizó a partir de un dataset curado de
 
 ## Estructura del repositorio
 
-outputs/
-├── 03_datos_modelo_1993.*
-├── 06_datos_features_1993.*
-├── 07_modeloA_final.*
+├── data/
+│   ├── raw/            # Datos originales (inmutables)
+│   ├── processed/      # Datos finales listos para modelado
+│   └── curated/        # Resultados intermedios
+|── data_to_model/      # Input modelos
+├── notebooks/          # Cuadernos Jupyter para exploración (EDA)
+├── src/                # Código fuente en .py (scripts de limpieza, entrenamiento)
+├── models/             # Modelos entrenados, predicciones o archivos binarios
+|── outputs/            # Archivos finales
+|   ├── 03_datos_modelo_1993.*
+|   ├── 06_datos_features_1993.*
+|   ├── 07_modeloA_final.*
 
 Se incluyen versiones en formato CSV y RDS para garantizar transparencia y reproducibilidad del proceso.
 
