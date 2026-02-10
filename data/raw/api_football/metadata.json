@@ -1,0 +1,12 @@
+{
+  "dataset_id": "D3",
+  "official_folder_name": "api_football",
+  "name": "API-Football JSON responses",
+  "source": "API-Football REST API",
+  "data_type": "JSON",
+  "structure": "Semi-structured",
+  "storage_layer": "RAW",
+  "raw_rules": "Responses stored as-is; no transformations, renaming, or type casting in RAW.",
+  "reproducibility_note": "Data is included in the repository to allow local evaluation without external API dependency.",
+  "security_note": "No API keys or secrets are stored in the repository."
+}
