@@ -40,3 +40,45 @@ Se incluyen versiones en formato CSV y RDS para garantizar transparencia y repro
 
 ## Reproducibilidad
 Todos los datasets incluidos en este repositorio derivan de la misma fuente curada y pueden ser reproducidos siguiendo la metodología documentada.
+
+## Punto 5 – Reproducibilidad total y autoevaluación en local (Docker)
+
+Esta solución se puede evaluar **en local** utilizando únicamente lo incluido en este repositorio (configuración, scripts y artefactos).
+No requiere servicios externos (por ejemplo **Google Cloud**) ni dependencias privativas/licencias.
+La evaluación puede realizarse exclusivamente con los recursos incluidos en este repositorio, cumpliendo el requisito de ejecución completamente local definido en la consigna de la asignatura.
+
+### Requisitos
+- Docker Desktop instalado y en ejecución
+- Puertos disponibles:
+  - PostgreSQL: 5432
+  - MongoDB: 27017
+
+### Levantar el entorno en local
+Desde la **raíz del repositorio**:
+
+#```bash
+#docker compose up -d
+
+### Autoevaluación (validación mínima)
+
+En Windows (PowerShell):
+
+#```powershell
+#.\scripts\validate.ps1
+
+### Reinicio completo del entorno
+
+#```bash
+#docker compose down -v
+#docker compose up -d
+
+## Arquitectura del entorno reproducible
+
+- PostgreSQL: Base de datos relacional para almacenamiento estructurado.
+- MongoDB: Base de datos NoSQL orientada a documentos.
+- Docker Compose: Orquestación local de servicios.
+- Scripts de inicialización:
+  - `postgres/init/`
+  - `mongodb/mongodb_init/`
+- Script de validación automatizada:
+  - `scripts/validate.ps1`
