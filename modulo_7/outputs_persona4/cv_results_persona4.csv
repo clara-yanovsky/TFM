@@ -1,0 +1,4 @@
+model,cv_accuracy_mean,cv_accuracy_std,cv_precision_weighted_mean,cv_recall_weighted_mean,cv_f1_weighted_mean,best_params
+logistic_regression,0.5061,0.0035,0.5256,0.5061,0.512,{'model__C': 1}
+random_forest,0.5391,0.0035,0.537,0.5391,0.5371,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__min_samples_split': 2, 'model__n_estimators': 200}"
+gradient_boosting,0.5739,0.0016,0.5885,0.5739,0.5115,"{'model__learning_rate': 0.1, 'model__max_depth': 3, 'model__n_estimators': 200, 'model__subsample': 0.8}"

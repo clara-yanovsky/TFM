@@ -1,0 +1,4 @@
+model,test_accuracy,test_precision_weighted,test_recall_weighted,test_f1_weighted,test_auc_macro_ovr,test_auc_weighted_ovr,test_gini_macro,ks_per_class
+logistic_regression,0.5083,0.5277,0.5083,0.5137,0.6776,0.6867,0.3551,"{'Lose': 0.3175, 'Draw': 0.1526, 'Win': 0.295}"
+random_forest,0.5389,0.5383,0.5389,0.5377,0.6957,0.7102,0.3913,"{'Lose': 0.3654, 'Draw': 0.1317, 'Win': 0.3461}"
+gradient_boosting,0.5771,0.599,0.5771,0.5146,0.7058,0.7159,0.4115,"{'Lose': 0.3558, 'Draw': 0.1893, 'Win': 0.33}"

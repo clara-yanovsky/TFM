@@ -1,0 +1,4 @@
+feature_set,n_features,accuracy,precision_weighted,recall_weighted,f1_weighted
+ranking_plus_context,210,0.5089,0.5283,0.5089,0.5143
+ranking_only,13,0.4872,0.5065,0.4872,0.4938
+context_only,197,0.3974,0.4326,0.3974,0.4042
